@@ -1,0 +1,51 @@
+.easy-widget form {
+	margin: 0;
+}
+
+.easy-widget #easy-widget-datepicker-to, #easy-widget-datepicker-from {
+	width:40%;
+	max-width:80px;
+}
+
+.easy-widget #easy_widget_form #easy-widget-date-from-hour, #easy_widget_form #easy-widget-date-from-min,
+.easy-widget #easy_widget_form #easy-widget-date-to-hour, #easy_widget_form #easy-widget-date-to-min {
+	min-width: 45px;
+    width: auto;
+}
+
+.easy-widget #easy_widget_form {
+	margin:0 5px;
+	padding:0;
+	line-height:2.7em;
+	width:100%;
+}
+
+.easy-widget #easy_widget_form label {
+	display: block;
+	font-weight: bold;
+	line-height:16px;
+	text-align: left;
+	margin: 8px 0 0 0;
+	width: 100%;
+	padding: 0;
+}
+
+.easy-widget #easy_widget_form .select,
+.easy-widget #easy_widget_form input[type=text],
+.easy-widget #easy_widget_form input[type=textarea] {
+	width:95%;
+	max-width:95%;
+}
+
+.easy-widget #easy_widget_form select,
+.easy-widget #easy_widget_form input[type=submit]{
+	width: 100%;
+}
+
+.easy-widget #easy-widget-datepicker-from, #easy-widget-datepicker-to {
+	max-width:40% !important;
+}
+
+.easy-widget .easy-button {
+	margin-top: 5px;
+}

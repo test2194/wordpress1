@@ -1,0 +1,7015 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-13 13:10+0200\n"
+"PO-Revision-Date: 2018-10-13 13:13+0200\n"
+"Last-Translator: Feryaz Beer <support@easyreservations.org>\n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_n;_x;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:11
+#, fuzzy
+msgid "Shortcode Creator"
+msgstr "Kısa Kodlar"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:77
+#: lib/modules/hourlycal/hourlycal.php:194 lib/modules/paypal/paypal.php:206
+#: lib/modules/paypal/paypal.php:220 lib/modules/paypal/paypal.php:237
+#: lib/modules/paypal/paypal.php:267 lib/modules/paypal/paypal.php:284
+#: lib/modules/search/attributes.php:121
+msgid "Select"
+msgstr "Seç"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:78
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:108
+#: lib/admin/views/html-admin-settings-header.php:19
+#: lib/modules/search/search.php:27 lib/widgets/form_widget.php:190
+msgid "Form"
+msgstr "Form"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:79
+#: lib/modules/search/search.php:51
+msgid "Calendar"
+msgstr "Takvim"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:81
+msgid "Type of shortcode"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:86
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:207
+msgid ""
+"The shortcodes wont work if more then one of the same type are on the same "
+"site"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:86
+msgid "This can happen with posts in category-views or on the homepage"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:86
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:207
+msgid "To prevent this add the shortcodes after the [more] tag"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:91
+msgid "Insert"
+msgstr "Ekle"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:94
+#: lib/modules/paypal/paypal.php:203 lib/modules/paypal/paypal.php:219
+#: lib/modules/paypal/paypal.php:234 lib/modules/paypal/paypal.php:251
+#: lib/modules/paypal/paypal.php:264 lib/modules/paypal/paypal.php:280
+#: lib/modules/useredit/useredit.php:326 lib/modules/useredit/useredit.php:816
+#: lib/shortcodes/form.php:21
+msgid "Cancel"
+msgstr "Vazgeç"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:105
+msgid "Full width"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:105
+msgid "Float left"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:105
+msgid "Float right"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:109
+#, fuzzy
+msgid "Select form template"
+msgstr "Form seç"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:112
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:172
+#: lib/admin/class-er-admin-resources.php:196 lib/admin/class-er-admin.php:407
+#: lib/admin/dashboard.php:958 lib/admin/dashboard.php:1062
+#: lib/admin/dashboard.php:1207 lib/admin/dashboard.php:1399
+#: lib/admin/dashboard.php:1521
+#: lib/admin/views/html-admin-settings-emails.php:25
+#: lib/admin/views/html-admin-settings-form.php:275 lib/class-er-ajax.php:1128
+#: lib/class-er-ajax.php:1167 lib/er-resource-functions.php:8
+#: lib/modules/export/export.php:71 lib/modules/hourlycal/hourlycal.php:169
+#: lib/modules/hourlycal/hourlycal.php:193
+#: lib/modules/htmlmails/htmlmails.php:127
+#: lib/modules/htmlmails/htmlmails.php:397 lib/modules/invoice/invoice.php:512
+#: lib/modules/search/search.php:87 lib/modules/search/search.php:217
+#: lib/modules/statistics/statistics.php:520
+#: lib/modules/statistics/statistics.php:718 lib/modules/sync/sync.php:168
+#: lib/modules/useredit/useredit.php:365 lib/modules/useredit/useredit.php:577
+#: lib/shortcodes/form.php:20
+#, fuzzy
+msgid "Resource"
+msgstr "Kaynaklar"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:113
+msgid "Attached to reservations if no resource [tag] in form"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:116
+#: lib/admin/views/html-admin-settings-form.php:439
+#: lib/modules/styles/styles.php:50
+msgid "Style"
+msgstr "Stil"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:117
+#: lib/modules/styles/styles.php:51
+msgid "Boxed"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:117
+#: lib/modules/styles/styles.php:51
+msgid "Inline"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:120
+#, fuzzy
+msgid "Multiple reservations"
+msgstr "Tüm rezervasyonlar"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:121
+#, fuzzy
+msgid "Allow multiple reservations in a"
+msgstr "Tüm rezervasyonlar"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:121 lib/admin/dashboard.php:570
+#: lib/admin/views/html-admin-resources.php:37
+msgid "Full"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:121
+msgid "Popup"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:121
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:124
+msgid "Overlay"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:124
+msgid ""
+"If multiple reservations is enabled the overlay will show the list of the "
+"reservations with this message."
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:127
+#, fuzzy
+msgid "Overlay message"
+msgstr "Mesajınızı yazın"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:131
+msgid "Overlay sub-message"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:135
+#: lib/modules/useredit/useredit.php:885
+#, fuzzy
+msgid "Label for resources"
+msgstr "misafirin adı"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:139
+#: lib/admin/class-er-admin.php:409 lib/admin/dashboard.php:958
+#: lib/admin/dashboard.php:1058 lib/admin/dashboard.php:1194
+#: lib/admin/dashboard.php:1386 lib/class-er-ajax.php:1124
+#: lib/class-er-ajax.php:1163 lib/functions/admin.php:566
+#: lib/modules/export/export.php:57 lib/modules/statistics/statistics.php:523
+#: lib/modules/statistics/statistics.php:719 lib/modules/styles/styles.php:94
+#: lib/modules/useredit/useredit.php:362 lib/modules/useredit/useredit.php:690
+#: lib/shortcodes/form.php:213
+msgid "Persons"
+msgstr "Kişi"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:140
+#, fuzzy
+msgid "Display person count in reservation list"
+msgstr "Yeni rezervasyonlar"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:143
+#: lib/admin/views/html-admin-resource-add.php:28
+#: lib/admin/views/html-admin-resource-settings.php:48
+#: lib/admin/views/html-admin-resource-slot-add.php:17
+#: lib/admin/views/html-admin-resource-spaces-names.php:15
+#: lib/admin/views/html-admin-settings-custom.php:84
+#: lib/admin/views/html-admin-settings-emails.php:54
+#: lib/admin/views/html-admin-settings-form.php:250
+#: lib/admin/views/html-admin-settings-form.php:819
+#: lib/admin/views/html-admin-settings-general.php:109
+#: lib/functions/admin.php:206 lib/functions/admin.php:217
+#: lib/modules/coupons/coupons.php:73 lib/modules/htmlmails/htmlmails.php:156
+#: lib/modules/invoice/invoice.php:564 lib/modules/invoice/invoice.php:576
+#: lib/modules/paypal/creditcards.php:320
+#: lib/modules/paypal/creditcards.php:383 lib/modules/search/attributes.php:127
+#: lib/modules/search/attributes.php:204 lib/modules/search/search.php:79
+#: lib/modules/useredit/useredit.php:312 lib/modules/useredit/useredit.php:401
+#: lib/modules/useredit/useredit.php:815 lib/modules/useredit/useredit.php:839
+msgid "Submit"
+msgstr "Gönder"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:143
+msgid ""
+"After the guest submits their reservation(s) this message, the price and if "
+"available the payment and credit cards form will be shown."
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:146
+#, fuzzy
+msgid "Submit message"
+msgstr "Mesajınızı yazın"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:150
+#, fuzzy
+msgid "Submit sub-message"
+msgstr "Mesajınızı yazın"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:154
+#: lib/admin/views/html-admin-settings-form.php:200
+#: lib/modules/useredit/useredit.php:876
+msgid "Show price"
+msgstr "Fiyat göster"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:158
+#: lib/modules/paypal/creditcards.php:95 lib/modules/paypal/creditcards.php:212
+#: lib/modules/paypal/creditcards.php:232
+#: lib/modules/paypal/creditcards.php:289
+#: lib/modules/paypal/creditcards.php:378
+#, fuzzy
+msgid "Credit card"
+msgstr "düzenle"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:158
+msgid "Message to be displayed after the credit card got entered."
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:161
+#, fuzzy
+msgid "Credit card message"
+msgstr "Mesaj"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:165
+#, fuzzy
+msgid "Credit card sub-message"
+msgstr "Mesaj"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:168
+msgid "Only add one form per page or post"
+msgstr "Bo formu sadece sayfa başına ekleyin"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:173
+#: lib/admin/class-er-admin-resources.php:433 lib/modules/export/export.php:39
+#: lib/modules/hourlycal/hourlycal.php:170 lib/modules/search/search.php:20
+#: lib/modules/sync/sync.php:152
+#, fuzzy, php-format
+#| msgid "Select"
+msgid "Select %s"
+msgstr "Seç"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:173
+#: lib/modules/hourlycal/hourlycal.php:170
+#, fuzzy
+msgid "default resource"
+msgstr "Kaynaklar"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:176
+#: lib/modules/hourlycal/hourlycal.php:181 lib/modules/search/search.php:23
+#: lib/modules/search/search.php:44 lib/modules/styles/styles.php:27
+#: lib/modules/styles/styles.php:58
+msgid "Width"
+msgstr "Genişlik"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:180
+#: lib/modules/search/search.php:55 lib/widgets/form_widget.php:158
+msgid "Color scheme"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:184
+#: lib/admin/class-er-admin.php:415 lib/admin/dashboard.php:958
+#: lib/admin/dashboard.php:1160 lib/admin/dashboard.php:1291
+#: lib/admin/dashboard.php:1350 lib/admin/dashboard.php:1472
+#: lib/admin/views/html-admin-resource-filter-add.php:29
+#: lib/admin/views/html-admin-resource-filter-add.php:413
+#: lib/admin/views/html-admin-resource-filter-add.php:426
+#: lib/admin/views/html-admin-resource-filters.php:132
+#: lib/admin/views/html-admin-resource-filters.php:154
+#: lib/admin/views/html-admin-resource-settings.php:60
+#: lib/admin/views/html-admin-resource-slot-add.php:182
+#: lib/admin/views/html-admin-resource-slots.php:13
+#: lib/admin/views/html-admin-settings-custom.php:102
+#: lib/admin/views/html-admin-settings-emails.php:27 lib/class-er-ajax.php:668
+#: lib/class-er-ajax.php:1134 lib/class-er-ajax.php:1173
+#: lib/functions/admin.php:48 lib/functions/admin.php:547
+#: lib/functions/admin.php:587 lib/modules/export/export.php:64
+#: lib/modules/hourlycal/hourlycal.php:177
+#: lib/modules/htmlmails/htmlmails.php:140
+#: lib/modules/htmlmails/htmlmails.php:399 lib/modules/search/search.php:48
+#: lib/modules/statistics/statistics.php:104
+#: lib/modules/statistics/statistics.php:720
+#: lib/modules/useredit/useredit.php:367 lib/modules/useredit/useredit.php:693
+#: lib/modules/useredit/useredit.php:754 lib/modules/useredit/useredit.php:813
+#: lib/modules/useredit/useredit.php:875 lib/shortcodes/form.php:125
+#: lib/shortcodes/form.php:214
+msgid "Price"
+msgstr "Fiyat"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:185 lib/admin/dashboard.php:343
+#: lib/admin/dashboard.php:977 lib/admin/dashboard.php:1000
+#: lib/admin/dashboard.php:1284 lib/admin/dashboard.php:1465
+#: lib/admin/views/html-admin-resource-filters.php:214
+#: lib/admin/views/html-admin-resource-filters.php:225
+#: lib/admin/views/html-admin-settings-general.php:49 lib/core/core.php:328
+#: lib/modules/hourlycal/hourlycal.php:178
+#: lib/modules/hourlycal/hourlycal.php:194 lib/modules/search/search.php:52
+msgid "None"
+msgstr "Yok"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:185
+#: lib/modules/search/search.php:52
+msgid "Display available spaces"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:185
+#: lib/modules/hourlycal/hourlycal.php:178 lib/widgets/form_widget.php:182
+msgid "Show price in calendar"
+msgstr "Takvimde fiyat göster"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:188
+msgid "Selection"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:189
+msgid "No selection"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:189
+msgid "One click for arrival date"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:189
+msgid "First click for arrival date; second for departure date"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:189
+msgid "Select how the calendar can be clicked"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:192
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:200
+#: lib/widgets/form_widget.php:162
+msgid "Arrival and departure"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:193
+msgid ""
+"Check resources default possible arrival and departure days so they cant be "
+"selected"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:196 lib/admin/overview.php:279
+#: lib/functions/admin.php:40 lib/modules/export/export.php:116
+#: lib/modules/useredit/useredit.php:376 lib/widgets/form_widget.php:168
+msgid "Past"
+msgstr "Geçmiş"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:197
+#: lib/widgets/form_widget.php:170
+msgid "Display past days availability"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:201
+#: lib/modules/search/search.php:60 lib/widgets/form_widget.php:164
+msgid "Display arrival and departure as half available dates"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:201
+#: lib/modules/search/search.php:60
+msgid "Display arrival days as free"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:201
+#: lib/modules/search/search.php:60
+msgid "Display arrival days as full"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:204
+msgid "This shortcode adds an availability calendar to the post or page"
+msgstr "Bu özel kod sayfaya takvim ekler."
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:204
+msgid ""
+"You can combine it with a formm the user control panel or the search form by "
+"adding it to the same page"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:204
+msgid "Only add the calendar once per page or post"
+msgstr "Bir sayfaya sadece bir takvim ekleyin."
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:207
+msgid "This can happen with posts in category-views or on homepage"
+msgstr ""
+
+#: lib/admin/class-er-admin-resources.php:76
+#, fuzzy, php-format
+msgid "From %1$s till %2$s"
+msgstr "Modüller"
+
+#: lib/admin/class-er-admin-resources.php:112
+#, fuzzy
+msgid "Resource and all its reservations deleted"
+msgstr "Rezervasyon gelirleri"
+
+#: lib/admin/class-er-admin-resources.php:116
+msgid "Reservations could not be deleted"
+msgstr ""
+
+#: lib/admin/class-er-admin-resources.php:121
+#, fuzzy
+msgid "Resource could not be deleted"
+msgstr "Kaynak silindi..."
+
+#: lib/admin/class-er-admin-resources.php:142
+#: lib/admin/class-er-admin-resources.php:176
+#, fuzzy, php-format
+msgid "Resource #%d added"
+msgstr "Kaynak eklendi..."
+
+#: lib/admin/class-er-admin-resources.php:180
+#: lib/admin/class-er-admin-resources.php:536
+#: lib/admin/class-er-admin-resources.php:551
+#: lib/admin/class-er-admin-resources.php:579
+#: lib/admin/class-er-admin-settings.php:176 lib/class-er-ajax.php:577
+#: lib/class-er-reservation.php:878 lib/class-er-reservation.php:884
+#: lib/class-er-reservation.php:889 lib/modules/paypal/creditcards.php:121
+#: lib/modules/useredit/useredit.php:541
+#, fuzzy, php-format
+#| msgid "Please enter a Title"
+msgid "Please enter %s"
+msgstr "Bir başlık girin"
+
+#: lib/admin/class-er-admin-resources.php:180
+#, fuzzy
+msgid "a title"
+msgstr "Fiyat göster"
+
+#: lib/admin/class-er-admin-resources.php:189
+#: lib/admin/class-er-admin-settings.php:197
+#: lib/admin/class-er-admin-settings.php:249
+#: lib/modules/search/attributes.php:58
+#, php-format
+msgid "%s saved"
+msgstr "%s kaydedildi..."
+
+#: lib/admin/class-er-admin-resources.php:189
+#: lib/admin/views/html-admin-resource-spaces-names.php:10
+#, fuzzy
+msgid "Resource spaces names"
+msgstr "Oda numarası"
+
+#: lib/admin/class-er-admin-resources.php:196
+#: lib/admin/class-er-admin-settings.php:163
+#: lib/admin/class-er-admin-settings.php:275 lib/admin/class-er-admin.php:374
+#: lib/modules/invoice/invoice.php:371 lib/modules/paypal/creditcards.php:289
+#: lib/modules/paypal/creditcards.php:290 lib/modules/paypal/paypal.php:95
+#: lib/modules/paypal/paypal.php:103 lib/modules/paypal/paypal.php:113
+#: lib/modules/paypal/paypal.php:123 lib/modules/paypal/paypal.php:131
+#: lib/modules/paypal/paypal.php:139 lib/modules/useredit/useredit.php:294
+#, fuzzy, php-format
+msgid "%s settings saved"
+msgstr "ePosta ayarları kaydedildi..."
+
+#: lib/admin/class-er-admin-resources.php:203
+#, fuzzy
+msgid "No arrival possible"
+msgstr "Geliş Tarihi"
+
+#: lib/admin/class-er-admin-resources.php:206
+#, fuzzy
+msgid "No departure possible"
+msgstr "Ayrılış Tarihi"
+
+#: lib/admin/class-er-admin-resources.php:240 lib/admin/dashboard.php:236
+#, fuzzy
+msgid "Insert correct money format"
+msgstr "Para birimi simgesi sağ tarafta"
+
+#: lib/admin/class-er-admin-resources.php:253 lib/class-er-reservation.php:901
+#: lib/class-er-reservation.php:906
+#, fuzzy, php-format
+msgid "%s has to be numeric"
+msgstr "Kişi bir sayı olması gerekir"
+
+#: lib/admin/class-er-admin-resources.php:253 lib/admin/class-er-admin.php:408
+#: lib/admin/views/html-admin-settings-emails.php:26
+#: lib/modules/htmlmails/htmlmails.php:128
+#: lib/modules/htmlmails/htmlmails.php:398 lib/modules/invoice/invoice.php:513
+#: lib/modules/useredit/useredit.php:366
+#, fuzzy
+msgid "Resource space"
+msgstr "Kaynak eklendi..."
+
+#: lib/admin/class-er-admin-resources.php:289
+#, fuzzy
+msgid "Only admins can change the permissions for"
+msgstr "Sadece yöneticiler rezervasyon izinlerini değiştirebilir"
+
+#: lib/admin/class-er-admin-resources.php:289 lib/admin/class-er-admin.php:123
+#: lib/admin/views/html-admin-resources-header.php:13
+#: lib/admin/views/html-admin-settings-form.php:144
+#: lib/admin/views/html-admin-settings-form.php:667
+#: lib/admin/views/html-admin-settings-general.php:289
+#: lib/er-resource-functions.php:7
+#: lib/modules/statistics/dashboard.statistic.php:17
+msgid "Resources"
+msgstr "Kaynaklar"
+
+#: lib/admin/class-er-admin-resources.php:328
+#, fuzzy
+msgid "Tax percentage has to be numeric"
+msgstr "Oda sayısı bir sayı olmak zorundadır"
+
+#: lib/admin/class-er-admin-resources.php:399
+#, fuzzy
+#| msgid "Enter a starting date"
+msgid "Enter a starting date for the filter"
+msgstr "Başlangıç tarihini girin"
+
+#: lib/admin/class-er-admin-resources.php:405
+#, fuzzy
+#| msgid "Enter an ending date"
+msgid "Enter an ending date for the filter"
+msgstr "Bitiş tarihini girin"
+
+#: lib/admin/class-er-admin-resources.php:433
+#: lib/admin/views/html-admin-resource-filter-add.php:363
+msgid "condition"
+msgstr ""
+
+#: lib/admin/class-er-admin-resources.php:536
+#: lib/admin/class-er-admin-resources.php:579
+#, fuzzy
+#| msgid "name"
+msgid "a name"
+msgstr "isim"
+
+#: lib/admin/class-er-admin-resources.php:551 lib/class-er-reservation.php:889
+msgid "arrival and departure as valid date format"
+msgstr ""
+
+#: lib/admin/class-er-admin-resources.php:556
+#, fuzzy, php-format
+#| msgid "Please enter a Title"
+msgid "Please select %s"
+msgstr "Bir başlık girin"
+
+#: lib/admin/class-er-admin-resources.php:556
+#, fuzzy
+msgid "days for arrival"
+msgstr "Ayrılış tarihi geliş tarihinden önce veya oda sayısı çok fazla"
+
+#: lib/admin/class-er-admin-resources.php:586
+#, fuzzy, php-format
+msgid "%s edited"
+msgstr "Özel alanlar düzenlendi"
+
+#: lib/admin/class-er-admin-resources.php:586
+#: lib/admin/class-er-admin-resources.php:588
+#: lib/admin/class-er-admin-resources.php:603
+#: lib/admin/views/html-admin-resource-slot-add.php:11
+#: lib/admin/views/html-admin-resource-slot-add.php:35
+msgid "Slot"
+msgstr ""
+
+#: lib/admin/class-er-admin-resources.php:588
+#: lib/admin/class-er-admin-settings.php:175
+#: lib/admin/class-er-admin-settings.php:254
+#: lib/modules/coupons/coupons.php:141 lib/modules/search/attributes.php:64
+#, php-format
+msgid "%s added"
+msgstr ""
+
+#: lib/admin/class-er-admin-resources.php:603
+#: lib/admin/class-er-admin-settings.php:39
+#: lib/admin/class-er-admin-settings.php:59 lib/admin/dashboard.php:82
+#: lib/core/core.php:74 lib/modules/coupons/coupons.php:147
+#: lib/modules/paypal/creditcards.php:95 lib/modules/search/attributes.php:21
+#, php-format
+msgid "%s deleted"
+msgstr "%s Seç"
+
+#: lib/admin/class-er-admin-settings.php:39
+#: lib/admin/class-er-admin-settings.php:175
+#: lib/admin/class-er-admin-settings.php:197
+#, fuzzy, php-format
+#| msgid "Forms"
+msgid "Form %s"
+msgstr "Formlar"
+
+#: lib/admin/class-er-admin-settings.php:59
+#: lib/admin/class-er-admin-settings.php:249
+#: lib/admin/class-er-admin-settings.php:254 lib/admin/dashboard.php:82
+#: lib/admin/views/html-admin-settings-custom.php:77
+#: lib/admin/views/html-admin-settings-emails.php:29
+#: lib/functions/admin.php:520
+#, fuzzy
+msgid "Custom field"
+msgstr "Özel alanlar"
+
+#: lib/admin/class-er-admin-settings.php:163
+#: lib/admin/views/html-admin-settings-general.php:103
+#: lib/admin/views/html-admin-settings-header.php:14
+msgid "General"
+msgstr "Genel"
+
+#: lib/admin/class-er-admin-settings.php:176
+#, fuzzy
+#| msgid "Please enter a name for the form"
+msgid "a name for the form"
+msgstr "Please enter a name for the form"
+
+#: lib/admin/class-er-admin-settings.php:275 lib/admin/class-er-admin.php:406
+#: lib/admin/dashboard.php:1054 lib/admin/dashboard.php:1220
+#: lib/admin/dashboard.php:1412
+#: lib/admin/views/html-admin-settings-emails.php:17
+#: lib/admin/views/html-admin-settings-form.php:164
+#: lib/admin/views/html-admin-settings-form.php:758
+#: lib/admin/views/html-admin-settings-header.php:29 lib/class-er-ajax.php:1120
+#: lib/class-er-ajax.php:1159 lib/class-er-ajax.php:1255
+#: lib/functions/admin.php:123 lib/modules/export/export.php:56
+#: lib/modules/htmlmails/htmlmails.php:33
+#: lib/modules/htmlmails/htmlmails.php:133 lib/modules/invoice/editor.php:24
+#: lib/modules/invoice/invoice.php:511 lib/modules/paypal/creditcards.php:347
+#: lib/modules/useredit/useredit.php:794 lib/modules/useredit/useredit.php:837
+#, fuzzy
+msgid "Email"
+msgstr "eposta"
+
+#: lib/admin/class-er-admin.php:120 lib/admin/dashboard.php:38
+#: lib/admin/dashboard.php:55 lib/admin/dashboard.php:70
+#: lib/admin/views/html-admin-resources.php:20 lib/modules/export/export.php:39
+#: lib/modules/statistics/dashboard.statistic.php:16
+#: lib/modules/statistics/statistics.php:92
+msgid "Reservations"
+msgstr "Rezervasyonlar"
+
+#: lib/admin/class-er-admin.php:122
+#: lib/admin/views/html-admin-settings-general.php:276
+msgid "Dashboard"
+msgstr "Kontrol Paneli"
+
+#: lib/admin/class-er-admin.php:131
+#: lib/admin/views/html-admin-resource-header.php:38
+#: lib/admin/views/html-admin-resource-settings.php:41
+#: lib/admin/views/html-admin-settings-general.php:315
+#: lib/admin/views/html-admin-settings-header.php:6
+#: lib/modules/paypal/paypal.php:191 lib/modules/useredit/useredit.php:381
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: lib/admin/class-er-admin.php:374 lib/admin/dashboard.php:330
+#, fuzzy
+#| msgid "Reservations Dashboard"
+msgid "Reservations dashboard"
+msgstr "Rezervasyon Kontrol Paneli"
+
+#: lib/admin/class-er-admin.php:385
+msgid "Show/Hide content"
+msgstr "İçeriği Göster/Gizle"
+
+#: lib/admin/class-er-admin.php:386 lib/admin/class-er-admin.php:443
+msgid "Overview"
+msgstr "Genel Bakış"
+
+#: lib/admin/class-er-admin.php:388
+#: lib/admin/views/html-admin-settings-general.php:302
+#: lib/modules/statistics/statistics.php:25
+#: lib/modules/statistics/statistics.php:263
+msgid "Statistics"
+msgstr "İstatistik"
+
+#: lib/admin/class-er-admin.php:390 lib/modules/useredit/useredit.php:354
+#: lib/modules/useredit/useredit.php:867
+msgid "Table"
+msgstr "Tablo"
+
+#: lib/admin/class-er-admin.php:391 lib/admin/dashboard.php:903
+#: lib/modules/statistics/statistics.php:498
+msgid "Upcoming reservations"
+msgstr "Gelen Rezervasyonlar"
+
+#: lib/admin/class-er-admin.php:392 lib/admin/dashboard.php:920
+msgid "New reservations"
+msgstr "Yeni rezervasyonlar"
+
+#: lib/admin/class-er-admin.php:393 lib/modules/export/export.php:20
+msgid "Export"
+msgstr "Dışarı Aktar"
+
+#: lib/admin/class-er-admin.php:394 lib/admin/dashboard.php:946
+msgid "What's happening today"
+msgstr ""
+
+#: lib/admin/class-er-admin.php:397
+#, fuzzy
+msgid "Table information"
+msgstr "Tablo bilgileri"
+
+#: lib/admin/class-er-admin.php:399
+msgid "Color"
+msgstr "Renk"
+
+#: lib/admin/class-er-admin.php:400 lib/admin/views/html-admin-resources.php:17
+#: lib/admin/views/html-admin-settings-custom.php:22
+#: lib/admin/views/html-admin-settings-emails.php:15
+#: lib/modules/export/export.php:54 lib/modules/useredit/useredit.php:359
+#: lib/modules/useredit/useredit.php:686 lib/modules/useredit/useredit.php:836
+msgid "ID"
+msgstr "ID"
+
+#: lib/admin/class-er-admin.php:401 lib/admin/dashboard.php:958
+#: lib/admin/dashboard.php:1044 lib/admin/dashboard.php:1169
+#: lib/admin/dashboard.php:1355 lib/admin/views/html-admin-resource-slots.php:9
+#: lib/admin/views/html-admin-settings-emails.php:16
+#: lib/admin/views/html-admin-settings-form.php:159
+#: lib/admin/views/html-admin-settings-form.php:744 lib/class-er-ajax.php:1110
+#: lib/class-er-ajax.php:1149 lib/core/core.php:276
+#: lib/modules/export/export.php:55 lib/modules/htmlmails/htmlmails.php:132
+#: lib/modules/invoice/invoice.php:510 lib/modules/paypal/creditcards.php:213
+#: lib/modules/paypal/creditcards.php:238
+#: lib/modules/paypal/creditcards.php:348 lib/modules/paypal/paypal.php:232
+#: lib/modules/paypal/paypal.php:249 lib/modules/search/attributes.php:115
+#: lib/modules/statistics/statistics.php:716
+#: lib/modules/useredit/useredit.php:360 lib/modules/useredit/useredit.php:688
+#: lib/modules/useredit/useredit.php:793
+msgid "Name"
+msgstr "İsim"
+
+#: lib/admin/class-er-admin.php:402 lib/admin/dashboard.php:1048
+#: lib/admin/views/html-admin-settings-form.php:475 lib/class-er-ajax.php:1106
+#: lib/class-er-ajax.php:1145 lib/functions/admin.php:547
+#: lib/modules/export/export.php:62 lib/modules/statistics/statistics.php:717
+#: lib/modules/useredit/useredit.php:361 lib/modules/useredit/useredit.php:687
+msgid "Date"
+msgstr "Tarih"
+
+#: lib/admin/class-er-admin.php:403 lib/admin/dashboard.php:1279
+#: lib/admin/dashboard.php:1460 lib/class-er-ajax.php:1114
+#: lib/class-er-ajax.php:1153 lib/modules/export/export.php:73
+#: lib/modules/statistics/statistics.php:146
+#: lib/modules/useredit/useredit.php:363 lib/modules/useredit/useredit.php:692
+#, fuzzy
+msgid "Reserved"
+msgstr "Rezervasyon"
+
+#: lib/admin/class-er-admin.php:410 lib/admin/dashboard.php:1268
+#: lib/admin/dashboard.php:1273 lib/admin/dashboard.php:1449
+#: lib/admin/dashboard.php:1454 lib/admin/views/html-admin-resources.php:21
+#: lib/admin/views/html-admin-settings-about.php:8 lib/class-er-ajax.php:1118
+#: lib/class-er-ajax.php:1157 lib/functions/admin.php:60
+#: lib/modules/export/export.php:58 lib/modules/statistics/statistics.php:521
+#: lib/modules/useredit/useredit.php:364 lib/modules/useredit/useredit.php:370
+#: lib/modules/useredit/useredit.php:689 lib/modules/useredit/useredit.php:871
+msgid "Status"
+msgstr "Durum"
+
+#: lib/admin/class-er-admin.php:413 lib/admin/dashboard.php:1067
+#: lib/admin/dashboard.php:1229 lib/admin/dashboard.php:1421
+#: lib/admin/views/html-admin-settings-emails.php:24
+#: lib/admin/views/html-admin-settings-form.php:169
+#: lib/admin/views/html-admin-settings-form.php:772 lib/class-er-ajax.php:1130
+#: lib/class-er-ajax.php:1169 lib/modules/export/export.php:70
+#: lib/modules/htmlmails/htmlmails.php:134
+#: lib/modules/htmlmails/htmlmails.php:396 lib/modules/invoice/invoice.php:517
+#: lib/modules/useredit/useredit.php:799
+msgid "Country"
+msgstr "Ülke"
+
+#: lib/admin/class-er-admin.php:414 lib/class-er-ajax.php:1132
+#: lib/class-er-ajax.php:1171 lib/modules/htmlmails/htmlmails.php:404
+#: lib/modules/styles/styles.php:89
+msgid "Custom fields"
+msgstr "Özel alanlar"
+
+#: lib/admin/class-er-admin.php:416
+msgid "Favourites"
+msgstr "Favoriler"
+
+#: lib/admin/class-er-admin.php:420
+msgid "Table actions"
+msgstr "Tablo görevleri"
+
+#: lib/admin/class-er-admin.php:421 lib/admin/class-er-admin.php:422
+#: lib/admin/class-er-admin.php:423
+#: lib/admin/views/html-admin-resource-filter-add.php:62
+#: lib/admin/views/html-admin-resource-filter-add.php:363
+#, fuzzy, php-format
+msgid "Filter by %s"
+msgstr "Aya göre filtreleme"
+
+#: lib/admin/class-er-admin.php:422
+#: lib/admin/views/html-admin-resource-add.php:6
+#: lib/admin/views/html-admin-resource-add.php:7
+#: lib/admin/views/html-admin-resources.php:65 lib/er-resource-functions.php:9
+#: lib/er-resource-functions.php:10 lib/er-resource-functions.php:11
+#: lib/modules/sync/sync.php:152
+#, fuzzy
+msgid "resource"
+msgstr "Kaynaklar"
+
+#: lib/admin/class-er-admin.php:423
+msgid "status"
+msgstr "durum"
+
+#: lib/admin/class-er-admin.php:424
+#, fuzzy
+#| msgid "nights to stay"
+msgid "Entries to display"
+msgstr "konaklanacak geçe sayısı"
+
+#: lib/admin/class-er-admin.php:425 lib/class-er-ajax.php:1092
+#: lib/modules/search/search.php:31 lib/modules/search/search.php:172
+#: lib/modules/search/search.php:219
+msgid "Search"
+msgstr "Arama"
+
+#: lib/admin/class-er-admin.php:426 lib/class-er-ajax.php:1316
+#, fuzzy
+#| msgid "Bulk Actions"
+msgid "Bulk actions"
+msgstr "Toplu Görevler"
+
+#: lib/admin/class-er-admin.php:429
+#, fuzzy
+msgid "Show Resources"
+msgstr "Kaynaklar"
+
+#: lib/admin/class-er-admin.php:444
+msgid "Overview onMouseOver Date & Select animation"
+msgstr "Tablo üzerinde tarih ve seçim animasyonları"
+
+#: lib/admin/class-er-admin.php:445
+msgid "Overview autoselect with inputs on add/edit"
+msgstr "Tablo üzerinden otomatik seçimli ekleme ve düzenleme"
+
+#: lib/admin/class-er-admin.php:446
+#, fuzzy
+msgid "Hourly mode as standard"
+msgstr "Takvim"
+
+#: lib/admin/class-er-admin.php:447
+msgid "Only display hours between"
+msgstr ""
+
+#: lib/admin/dashboard-statistics.php:47 lib/admin/dashboard.php:317
+#: lib/class-er-reservation.php:1151 lib/modules/statistics/statistics.php:428
+#: lib/modules/useredit/useredit.php:371
+msgid "approved"
+msgstr "onaylı"
+
+#: lib/admin/dashboard-statistics.php:47 lib/admin/dashboard.php:318
+#: lib/class-er-reservation.php:1155 lib/modules/statistics/statistics.php:428
+#: lib/modules/useredit/useredit.php:373
+msgid "rejected"
+msgstr "rededildi"
+
+#: lib/admin/dashboard-statistics.php:47 lib/class-er-reservation.php:1163
+#: lib/modules/statistics/statistics.php:428
+#: lib/modules/useredit/useredit.php:372
+msgid "pending"
+msgstr "beklemede"
+
+#: lib/admin/dashboard.php:37 lib/admin/dashboard.php:54
+#: lib/admin/dashboard.php:70 lib/admin/dashboard.php:1025
+#: lib/admin/views/html-admin-resource-filter-add.php:374
+#: lib/admin/views/html-admin-resource-filter-add.php:389
+#: lib/admin/views/html-admin-resource-filters.php:30
+msgid "Reservation"
+msgstr "Rezervasyon"
+
+#: lib/admin/dashboard.php:40
+#, fuzzy, php-format
+#| msgid "moved to trash"
+msgid "%s moved to trash"
+msgstr "Sil"
+
+#: lib/admin/dashboard.php:40
+msgid "Undo"
+msgstr "Gerial"
+
+#: lib/admin/dashboard.php:57
+#, fuzzy, php-format
+#| msgid "restored from trash"
+msgid "%s restored from trash"
+msgstr "çöpten geri alanındı"
+
+#: lib/admin/dashboard.php:71
+#, php-format
+msgid "%s deleted permanently"
+msgstr ""
+
+#: lib/admin/dashboard.php:83
+#, fuzzy
+msgid "Custom field is not existing"
+msgstr "Custom price field deleted"
+
+#: lib/admin/dashboard.php:140 lib/admin/dashboard.php:168
+#: lib/admin/dashboard.php:317 lib/admin/dashboard.php:318
+#: lib/modules/useredit/useredit.php:635
+#, fuzzy, php-format
+#| msgid "Reservations"
+msgid "Reservation %s"
+msgstr "Rezervasyonlar"
+
+#: lib/admin/dashboard.php:140 lib/core/core.php:46
+#, fuzzy
+msgid "updated"
+msgstr "tarih"
+
+#: lib/admin/dashboard.php:151
+#, fuzzy, php-format
+msgid "Reservation #%1$d copied as #%2$d"
+msgstr "% rezervasyon özel fiyatı"
+
+#: lib/admin/dashboard.php:168
+#, fuzzy
+#| msgid "calculate"
+msgid "recalculated"
+msgstr "hesapla"
+
+#: lib/admin/dashboard.php:244
+#, fuzzy, php-format
+msgid "Reservation #%d added"
+msgstr "Rezervasyon eklendi"
+
+#: lib/admin/dashboard.php:255 lib/class-er-ajax.php:708
+#: lib/class-er-ajax.php:718
+#, fuzzy
+msgid "Wrong date format"
+msgstr "Tarih biçimi"
+
+#: lib/admin/dashboard.php:291
+#, fuzzy
+msgid "Email sent successfully"
+msgstr "eMail başarıyla gönderildi"
+
+#: lib/admin/dashboard.php:331
+#: lib/admin/views/html-admin-resources-header.php:14
+#: lib/admin/views/html-admin-settings-form.php:67 lib/functions/admin.php:524
+#: lib/modules/coupons/coupons.php:198 lib/modules/invoice/invoice.php:596
+#: lib/modules/sync/ical.import.php:193 lib/modules/sync/sync.php:161
+msgid "Add"
+msgstr "Ekle"
+
+#: lib/admin/dashboard.php:956
+msgid "Arrival today"
+msgstr "Bugün gelenler"
+
+#: lib/admin/dashboard.php:981
+#, fuzzy
+msgid "Departure today"
+msgstr "Bugün gidenler"
+
+#: lib/admin/dashboard.php:1011
+msgid "This reservation is imported. It cannot be changed."
+msgstr ""
+
+#: lib/admin/dashboard.php:1029 lib/admin/dashboard.php:1143
+#, fuzzy
+msgid "Really delete this reservation permanently?"
+msgstr "reddedilen Rezervasyonlar"
+
+#: lib/admin/dashboard.php:1029 lib/admin/dashboard.php:1143
+#: lib/admin/views/html-admin-resource-header.php:33
+#: lib/admin/views/html-admin-resources.php:67 lib/core/core.php:311
+#: lib/modules/paypal/creditcards.php:224 lib/modules/useredit/useredit.php:61
+#: lib/modules/useredit/useredit.php:62 lib/modules/useredit/useredit.php:126
+#: lib/modules/useredit/useredit.php:132
+#, fuzzy
+msgid "delete"
+msgstr "Seç"
+
+#: lib/admin/dashboard.php:1031 lib/admin/dashboard.php:1145
+#, fuzzy
+msgid "Really move this reservation to trash?"
+msgstr "Yeni rezervasyon için e-posta gönderimi"
+
+#: lib/admin/dashboard.php:1031 lib/admin/dashboard.php:1145
+#: lib/class-er-ajax.php:1046
+#, fuzzy
+msgid "trash"
+msgstr "silindi"
+
+#: lib/admin/dashboard.php:1059
+#: lib/admin/views/html-admin-settings-form.php:149
+#: lib/admin/views/html-admin-settings-form.php:283
+#: lib/admin/views/html-admin-settings-form.php:690
+#: lib/class-er-reservation.php:901 lib/functions/admin.php:568
+#: lib/modules/htmlmails/htmlmails.php:394 lib/modules/styles/styles.php:74
+#: lib/modules/styles/styles.php:87 lib/modules/styles/styles.php:95
+#: lib/modules/useredit/useredit.php:797
+msgid "Adults"
+msgstr "Yetişkin"
+
+#: lib/admin/dashboard.php:1059
+#: lib/admin/views/html-admin-settings-form.php:154
+#: lib/admin/views/html-admin-settings-form.php:284
+#: lib/admin/views/html-admin-settings-form.php:717
+#: lib/class-er-reservation.php:906 lib/functions/admin.php:570
+#: lib/modules/htmlmails/htmlmails.php:395 lib/modules/styles/styles.php:79
+#: lib/modules/styles/styles.php:88 lib/modules/styles/styles.php:96
+#: lib/modules/useredit/useredit.php:798
+msgid "Children"
+msgstr "Çocuklar"
+
+#: lib/admin/dashboard.php:1106 lib/modules/useredit/useredit.php:396
+msgid "User chat"
+msgstr ""
+
+#: lib/admin/dashboard.php:1139 lib/admin/dashboard.php:1158
+#: lib/admin/views/html-admin-resource-filter-add.php:518
+#: lib/admin/views/html-admin-resource-filters.php:179
+#: lib/admin/views/html-admin-resource-filters.php:252
+#: lib/admin/views/html-admin-resource-slots.php:47
+#: lib/admin/views/html-admin-resources.php:64
+#: lib/admin/views/html-admin-resources.php:65 lib/er-resource-functions.php:11
+#, fuzzy, php-format
+#| msgid "Edit filter"
+msgid "Edit %s"
+msgstr "Filitre Düzenle"
+
+#: lib/admin/dashboard.php:1139 lib/admin/dashboard.php:1158
+#: lib/admin/dashboard.php:1345 lib/admin/dashboard.php:1350
+msgid "reservation"
+msgstr ""
+
+#: lib/admin/dashboard.php:1157
+#: lib/admin/views/html-admin-resource-header.php:32
+#, fuzzy
+#| msgid "Copy %s"
+msgid "Copy"
+msgstr "Kaynaklar %s"
+
+#: lib/admin/dashboard.php:1173 lib/admin/dashboard.php:1359
+#: lib/admin/views/html-admin-resource-filter-add.php:374
+#: lib/admin/views/html-admin-resource-slot-add.php:82
+#: lib/modules/htmlmails/htmlmails.php:391 templates/date-selection.php:22
+#, fuzzy
+msgid "Arrival"
+msgstr "Geliş Tarihi"
+
+#: lib/admin/dashboard.php:1184 lib/admin/dashboard.php:1373
+#: lib/admin/views/html-admin-resource-slot-add.php:107
+#: lib/modules/htmlmails/htmlmails.php:392 templates/date-selection.php:12
+#, fuzzy
+msgid "Departure"
+msgstr "Ayrılış Tarihi"
+
+#: lib/admin/dashboard.php:1232 lib/admin/dashboard.php:1424
+#: lib/functions/both.php:21
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: lib/admin/dashboard.php:1260
+#, fuzzy
+#| msgid "calculate"
+msgid "Recalculate"
+msgstr "hesapla"
+
+#: lib/admin/dashboard.php:1275 lib/admin/dashboard.php:1456
+#: lib/class-er-ajax.php:1042 lib/class-er-ajax.php:1053
+#: lib/modules/export/export.php:111 lib/modules/statistics/statistics.php:553
+msgid "Pending"
+msgstr "Beklemede"
+
+#: lib/admin/dashboard.php:1275 lib/admin/dashboard.php:1456
+#: lib/class-er-ajax.php:1053 lib/modules/export/export.php:110
+msgid "Approved"
+msgstr "Onaylandı"
+
+#: lib/admin/dashboard.php:1275 lib/admin/dashboard.php:1456
+#: lib/class-er-ajax.php:1043 lib/class-er-ajax.php:1053
+#: lib/modules/export/export.php:112 lib/modules/statistics/statistics.php:557
+msgid "Rejected"
+msgstr "Red edildi"
+
+#: lib/admin/dashboard.php:1275 lib/admin/dashboard.php:1456
+#: lib/class-er-ajax.php:1053 lib/modules/export/export.php:113
+#: lib/modules/statistics/statistics.php:561
+msgid "Trashed"
+msgstr "Sil"
+
+#: lib/admin/dashboard.php:1283 lib/admin/dashboard.php:1464
+#, fuzzy
+msgid "User"
+msgstr "isim"
+
+#: lib/admin/dashboard.php:1295 lib/admin/dashboard.php:1476
+#: lib/admin/views/html-admin-settings-emails.php:28 lib/class-er-ajax.php:1296
+#: lib/functions/admin.php:52 lib/modules/export/export.php:65
+#: lib/modules/htmlmails/htmlmails.php:141
+#: lib/modules/htmlmails/htmlmails.php:400 lib/modules/invoice/invoice.php:520
+#: lib/modules/statistics/statistics.php:116
+#: lib/modules/statistics/statistics.php:128
+#: lib/modules/statistics/statistics.php:522
+#: lib/modules/useredit/useredit.php:754
+msgid "Paid"
+msgstr "Ödeme"
+
+#: lib/admin/dashboard.php:1305 lib/admin/dashboard.php:1555
+msgid "Send email"
+msgstr ""
+
+#: lib/admin/dashboard.php:1310
+msgid "Send email to user on edit"
+msgstr ""
+
+#: lib/admin/dashboard.php:1345 lib/admin/dashboard.php:1350
+#: lib/admin/views/html-admin-resource-add.php:7
+#: lib/admin/views/html-admin-resource-filter-add.php:438
+#: lib/admin/views/html-admin-resource-filter-add.php:760
+#: lib/er-resource-functions.php:9 lib/er-resource-functions.php:10
+#: lib/functions/admin.php:520 lib/modules/coupons/coupons.php:68
+#: lib/modules/search/attributes.php:110 lib/shortcodes/form.php:216
+#, php-format
+msgid "Add %s"
+msgstr "Yeni Ekle %s"
+
+#: lib/admin/dashboard.php:1505
+msgid "Approve reservation"
+msgstr ""
+
+#: lib/admin/dashboard.php:1505
+msgid "Reject reservation"
+msgstr ""
+
+#: lib/admin/dashboard.php:1513 lib/class-er-ajax.php:1250
+#: lib/functions/admin.php:117
+msgid "Approve"
+msgstr "Onayla"
+
+#: lib/admin/dashboard.php:1513 lib/class-er-ajax.php:1251
+#: lib/functions/admin.php:119
+msgid "Reject"
+msgstr "Reddet"
+
+#: lib/admin/dashboard.php:1526 lib/admin/dashboard.php:1548
+msgid "Send email to guest"
+msgstr ""
+
+#: lib/admin/dashboard.php:1527
+msgid "Has been paid"
+msgstr "Ödendi"
+
+#: lib/admin/overview.php:171 lib/admin/overview.php:280
+#: lib/modules/export/export.php:117
+msgid "Present"
+msgstr "Bugün"
+
+#: lib/admin/overview.php:281 lib/functions/admin.php:35
+#: lib/modules/export/export.php:118 lib/modules/useredit/useredit.php:378
+msgid "Future"
+msgstr "Gelecek"
+
+#: lib/admin/overview.php:282 lib/admin/views/html-admin-resource-slots.php:10
+#: lib/admin/views/html-admin-settings-emails.php:45 lib/functions/admin.php:30
+#: lib/modules/htmlmails/htmlmails.php:47
+#: lib/modules/paypal/creditcards.php:398
+msgid "Active"
+msgstr "Etkin"
+
+#: lib/admin/views/html-admin-resource-add.php:6
+#: lib/admin/views/html-admin-resource-filters.php:180
+#: lib/admin/views/html-admin-resource-filters.php:253
+#: lib/admin/views/html-admin-resource-slots.php:49
+#, php-format
+msgid "Copy %s"
+msgstr "Kaynaklar %s"
+
+#: lib/admin/views/html-admin-resource-add.php:34
+msgid "You can change this later on in the post view"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-add.php:37
+#: lib/admin/views/html-admin-resources.php:16
+#: lib/admin/views/html-admin-settings-custom.php:23
+#: lib/admin/views/html-admin-settings-custom.php:96
+#: lib/admin/views/html-admin-settings-form.php:443
+#: lib/admin/views/html-admin-settings-form.php:461
+#: lib/modules/paypal/paypal.php:186 lib/modules/styles/styles.php:19
+#: lib/modules/styles/styles.php:46 lib/modules/useredit/useredit.php:416
+#: lib/widgets/form_widget.php:150
+msgid "Title"
+msgstr "Başlık"
+
+#: lib/admin/views/html-admin-resource-add.php:41
+msgid "Content"
+msgstr "Açıklama"
+
+#: lib/admin/views/html-admin-resource-add.php:45
+msgid "Image"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:5
+#: lib/admin/views/html-admin-settings-emails.php:20
+#: lib/admin/views/html-admin-settings-emails.php:21
+#: lib/admin/views/html-admin-settings-emails.php:22
+#: lib/admin/views/html-admin-settings-emails.php:23
+#: lib/modules/invoice/invoice.php:509 lib/modules/invoice/invoice.php:514
+#: lib/modules/invoice/invoice.php:515 lib/modules/invoice/invoice.php:516
+#, php-format
+msgid "Amount of %s"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:13
+#: lib/admin/views/html-admin-resource-filters.php:151
+#: lib/admin/views/html-admin-resource-filters.php:192
+#: lib/admin/views/html-admin-resource-header.php:39
+msgid "Filter"
+msgstr "Filtre"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:20
+msgid ""
+"With filter you can change the price, availability and requirements by "
+"flexible conditions."
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:22
+#: lib/admin/views/html-admin-resource-slot-add.php:28
+#, fuzzy, php-format
+#| msgid "Past"
+msgid "Paste %s"
+msgstr "Geçmiş"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:22
+#: lib/admin/views/html-admin-resource-filter-add.php:438
+#: lib/admin/views/html-admin-resource-filter-add.php:518
+#: lib/admin/views/html-admin-resource-filter-add.php:760
+#: lib/admin/views/html-admin-resource-filters.php:179
+#: lib/admin/views/html-admin-resource-filters.php:180
+#: lib/admin/views/html-admin-resource-filters.php:181
+#: lib/admin/views/html-admin-resource-filters.php:252
+#: lib/admin/views/html-admin-resource-filters.php:253
+#: lib/admin/views/html-admin-resource-filters.php:254
+#, fuzzy
+#| msgid "Filter"
+msgid "filter"
+msgstr "Filtre"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:30
+#: lib/admin/views/html-admin-resource-filters.php:142
+#: lib/modules/search/search.php:39
+msgid "Unavailability"
+msgstr "Kullanılmayan"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:31
+#: lib/admin/views/html-admin-resource-filter-add.php:290
+#: lib/admin/views/html-admin-resource-settings.php:213
+#, fuzzy
+msgid "Requirements"
+msgstr "gerekli"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:39
+#: lib/admin/views/html-admin-resource-slot-add.php:40
+#: lib/admin/views/html-admin-settings-form.php:218
+msgid "Label"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:46
+#: lib/admin/views/html-admin-resource-filters.php:152
+msgid "Priority"
+msgstr "Öncelik"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:55
+#: lib/admin/views/html-admin-resource-filter-add.php:383
+#: lib/admin/views/html-admin-resource-filters.php:193
+#: lib/admin/views/html-admin-settings-custom.php:44
+#, fuzzy
+#| msgid "Condition"
+msgid "Condition"
+msgstr "Durum"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:57
+msgid ""
+"This condition must be met so the filter gets applied. Only the first "
+"matched filter for each type condition gets applied - sorted by priority "
+"from low to high."
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:62
+#: lib/er-date-functions.php:42
+#, fuzzy
+msgid "time"
+msgstr "Zaman"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:72
+msgid "Date range"
+msgstr "Tarih aralığı"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:78
+#: lib/modules/coupons/coupons.php:82 lib/modules/useredit/useredit.php:795
+msgid "From"
+msgstr "Gönderen"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:87
+#: lib/modules/coupons/coupons.php:86 lib/modules/useredit/useredit.php:796
+msgid "To"
+msgstr "Bu rezervasyon için"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:98
+msgid "Apply every year"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:107
+#, fuzzy
+msgid "Date unit"
+msgstr "Tarih"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:113
+#: lib/modules/hourlycal/hourlycal.php:197
+#, fuzzy
+msgid "Hours"
+msgstr "Formlar"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:114
+#: lib/admin/views/html-admin-resource-filter-add.php:150
+#: lib/admin/views/html-admin-resource-filter-add.php:166
+#: lib/admin/views/html-admin-resource-filter-add.php:237
+#: lib/admin/views/html-admin-resource-filter-add.php:261
+#, fuzzy
+msgid "select nothing to change price/availability for entire"
+msgstr "Fiyat değiştirmek istediğiniz çeyreği seçin"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:150
+#: lib/admin/views/html-admin-resource-filters.php:86
+#, fuzzy
+msgid "calendar week"
+msgstr "bir takvim haftası"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:165
+#, fuzzy
+msgid "Calendar week"
+msgstr "bir takvim haftası"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:235
+msgid "Months"
+msgstr "Ay"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:237
+#: lib/admin/views/html-admin-resource-filter-add.php:260
+#: lib/admin/views/html-admin-resource-filters.php:88
+#, fuzzy
+msgid "quarter"
+msgstr "çeyrek"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:261
+#: lib/admin/views/html-admin-resource-filter-add.php:269
+#: lib/modules/paypal/creditcards.php:251
+#, fuzzy
+msgid "year"
+msgstr "Yıl"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:298
+#: lib/admin/views/html-admin-resource-filter-add.php:316
+#: lib/admin/views/html-admin-resource-settings.php:224
+#: lib/admin/views/html-admin-resource-settings.php:246
+#: lib/admin/views/html-admin-settings-form.php:644
+#: lib/admin/views/html-admin-settings-form.php:694
+#: lib/admin/views/html-admin-settings-form.php:721
+msgid "Min"
+msgstr "Min"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:303
+#: lib/admin/views/html-admin-resource-filter-add.php:321
+#: lib/admin/views/html-admin-resource-settings.php:230
+#: lib/admin/views/html-admin-resource-settings.php:252
+#: lib/admin/views/html-admin-settings-form.php:650
+#: lib/admin/views/html-admin-settings-form.php:700
+#: lib/admin/views/html-admin-settings-form.php:727
+msgid "Max"
+msgstr "Max"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:313
+#: lib/admin/views/html-admin-resource-filter-add.php:377
+#: lib/admin/views/html-admin-resource-filter-add.php:766
+#: lib/admin/views/html-admin-resource-filters.php:210
+#: lib/admin/views/html-admin-resource-settings.php:241
+#: lib/admin/views/html-admin-settings-emails.php:21
+#: lib/modules/htmlmails/htmlmails.php:129 lib/modules/invoice/invoice.php:514
+#: lib/modules/statistics/statistics.php:160
+msgid "persons"
+msgstr "kişi"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:331
+#: lib/admin/views/html-admin-resource-settings.php:263
+#, fuzzy
+msgid "Arrival possible on"
+msgstr "Geliş Tarihi"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:345
+#: lib/admin/views/html-admin-resource-settings.php:280
+#, fuzzy
+msgid "Departure possible on"
+msgstr "Ayrılış Tarihi"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:371
+#: lib/admin/views/html-admin-resource-filter-add.php:418
+#: lib/admin/views/html-admin-settings-custom.php:24
+#: lib/admin/views/html-admin-settings-custom.php:109
+#: lib/admin/views/html-admin-settings-form.php:83
+#: lib/admin/views/html-admin-settings-form.php:137
+#: lib/admin/views/html-admin-settings-form.php:181
+#: lib/admin/views/html-admin-settings-form.php:272
+#: lib/admin/views/html-admin-settings-form.php:274
+#: lib/modules/export/export.php:109 lib/modules/htmlmails/htmlmails.php:38
+#: lib/modules/search/attributes.php:119
+msgid "Type"
+msgstr "Tür"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:374
+#: lib/admin/views/html-admin-resource-filters.php:53
+#, fuzzy, php-format
+msgid "between %1$s and %2$s"
+msgstr "Modüller"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:375
+msgid "Recurring guests"
+msgstr "Dönüşümlü misafir"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:378
+#: lib/admin/views/html-admin-resource-filter-add.php:767
+#: lib/admin/views/html-admin-settings-emails.php:22
+#: lib/modules/htmlmails/htmlmails.php:130 lib/modules/invoice/invoice.php:515
+#, fuzzy
+msgid "adults"
+msgstr "Yetişkin"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:379
+#: lib/admin/views/html-admin-resource-filter-add.php:768
+#: lib/admin/views/html-admin-resource-filters.php:36
+#: lib/admin/views/html-admin-resource-filters.php:37
+#: lib/admin/views/html-admin-resource-filters.php:110
+#: lib/admin/views/html-admin-settings-emails.php:23
+#: lib/functions/admin.php:582 lib/modules/htmlmails/htmlmails.php:131
+#: lib/modules/invoice/invoice.php:516
+msgid "children"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:387
+#: lib/modules/hourlycal/hourlycal.php:173
+#: lib/modules/paypal/creditcards.php:325 lib/modules/paypal/paypal.php:198
+#: lib/modules/paypal/paypal.php:215 lib/modules/paypal/paypal.php:229
+#: lib/modules/paypal/paypal.php:246 lib/modules/paypal/paypal.php:260
+#: lib/modules/paypal/paypal.php:275 lib/modules/styles/styles.php:23
+#: lib/modules/styles/styles.php:54 lib/modules/sync/sync.php:199
+#: lib/modules/useredit/useredit.php:406
+msgid "Mode"
+msgstr "Biçim"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:389
+#: lib/admin/views/html-admin-resource-filter-add.php:390
+#: lib/admin/views/html-admin-resource-filter-add.php:391
+#: lib/admin/views/html-admin-resource-filter-add.php:392
+#: lib/admin/views/html-admin-resource-filter-add.php:393
+#: lib/admin/views/html-admin-resource-filter-add.php:394
+#: lib/admin/views/html-admin-resource-filter-add.php:395
+#: lib/admin/views/html-admin-resource-filter-add.php:396
+#: lib/admin/views/html-admin-resource-filter-add.php:397
+#: lib/admin/views/html-admin-resource-filter-add.php:398
+#: lib/admin/views/html-admin-resource-filter-add.php:399
+#: lib/admin/views/html-admin-resource-settings.php:125
+#: lib/functions/admin.php:578 lib/functions/admin.php:582
+#, php-format
+msgid "Price per %s"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:396
+#, fuzzy
+msgid "billing unit"
+msgstr "Kullanmayın"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:397
+#: lib/admin/views/html-admin-resource-filter-add.php:400
+#: lib/admin/views/html-admin-resource-filters.php:32
+#: lib/admin/views/html-admin-resource-filters.php:33
+#: lib/admin/views/html-admin-resource-filters.php:102
+#: lib/admin/views/html-admin-resource-settings.php:125
+#: lib/admin/views/html-admin-resource-settings.php:203
+#: lib/functions/admin.php:578
+msgid "person"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:398
+#: lib/admin/views/html-admin-resource-filter-add.php:401
+#: lib/admin/views/html-admin-resource-filters.php:34
+#: lib/admin/views/html-admin-resource-filters.php:35
+#: lib/admin/views/html-admin-resource-filters.php:106
+#: lib/admin/views/html-admin-resource-settings.php:204
+msgid "adult"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:399
+#: lib/admin/views/html-admin-resource-filter-add.php:402
+#: lib/admin/views/html-admin-resource-settings.php:205
+msgid "child"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:400
+#: lib/admin/views/html-admin-resource-filter-add.php:401
+#: lib/admin/views/html-admin-resource-filter-add.php:402
+#, php-format
+msgid "Price per %s and %s"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:403
+msgid "Percent"
+msgstr "Yüzde"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:406
+msgid "Only the first condition match from high to low will be applied"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:415
+msgid ""
+"Base price filter get checked for and applied each billing unit - extra "
+"charge and discount filter only once per reservation based on arrival."
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:421
+#: lib/admin/views/html-admin-resource-filters.php:139
+#: lib/functions/admin.php:574 lib/modules/styles/styles.php:98
+#, fuzzy
+msgid "Extra charge"
+msgstr "Çıkarma başarısız"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:422
+#: lib/admin/views/html-admin-resource-filters.php:136
+#: lib/functions/admin.php:572 lib/modules/coupons/coupons.php:39
+#: lib/modules/styles/styles.php:97
+msgid "Discount"
+msgstr "İndirim"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:423
+#, fuzzy
+msgid "Change base price"
+msgstr "Temel fiyat"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:429
+#: lib/admin/views/html-admin-resource-settings.php:79
+#: lib/admin/views/html-admin-resource-slot-add.php:198
+msgid "Children price"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:765
+msgid "visits"
+msgstr "ziyaret"
+
+#: lib/admin/views/html-admin-resource-filters.php:19
+#, fuzzy
+msgid "the base price changes to"
+msgstr "Temel fiyat"
+
+#: lib/admin/views/html-admin-resource-filters.php:28
+msgid "each"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:33
+#: lib/admin/views/html-admin-resource-filters.php:35
+#: lib/admin/views/html-admin-resource-filters.php:36
+#: lib/admin/views/html-admin-resource-filters.php:84
+#: lib/admin/views/html-admin-resource-filters.php:85
+#: lib/admin/views/html-admin-resource-filters.php:86
+#: lib/admin/views/html-admin-resource-filters.php:87
+#: lib/admin/views/html-admin-resource-filters.php:88
+#: lib/admin/views/html-admin-resource-filters.php:89
+#: lib/admin/views/html-admin-resource-filters.php:90
+#: lib/admin/views/html-admin-resource-filters.php:127
+msgid "and"
+msgstr "ve"
+
+#: lib/admin/views/html-admin-resource-filters.php:39
+msgid "the price increases by"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:40
+msgid "the price decreases by"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:46
+#, php-format
+msgid "If %s to calculate is "
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:48
+#, fuzzy
+msgid "Resource is unavailable "
+msgstr "kaynak kullanılamıyor"
+
+#: lib/admin/views/html-admin-resource-filters.php:50
+#, fuzzy
+msgid "If arrival is "
+msgstr "Geliş Tarihi"
+
+#: lib/admin/views/html-admin-resource-filters.php:84
+#, php-format
+msgid "at %s"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:86
+#: lib/admin/views/html-admin-resource-filters.php:87
+#: lib/admin/views/html-admin-resource-filters.php:88
+#: lib/admin/views/html-admin-resource-filters.php:89
+#, php-format
+msgid "in %s"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:98
+#: lib/admin/views/html-admin-resource-slot-add.php:112
+#: lib/admin/views/html-admin-resource-slots.php:11
+msgid "Duration"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:100
+#, php-format
+msgid "guest stays %s days or more"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:104
+#, php-format
+msgid "%s or more persons reserve"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:108
+#, php-format
+msgid "%s or more adults reserve"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:112
+#, php-format
+msgid "%s or more children reserve"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:114
+#: lib/functions/admin.php:564 lib/modules/styles/styles.php:93
+msgid "Loyal"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:120
+#, php-format
+msgid "guest comes the %1$s%2$s time"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:122
+#: lib/functions/admin.php:576 lib/modules/styles/styles.php:99
+#, fuzzy
+msgid "Early bird"
+msgstr "Filitre Düzenle"
+
+#: lib/admin/views/html-admin-resource-filters.php:124
+#, php-format
+msgid "the guest reserves %s before his arrival"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:128
+msgid "If"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:153
+#: lib/admin/views/html-admin-resource-slot-add.php:97
+#: lib/admin/views/html-admin-resource-slot-add.php:125
+#: lib/admin/views/html-admin-settings-general.php:192
+#: lib/modules/coupons/coupons.php:37 lib/modules/export/export.php:115
+#: lib/modules/useredit/useredit.php:375 lib/shortcodes/form.php:211
+msgid "Time"
+msgstr "Zaman"
+
+#: lib/admin/views/html-admin-resource-filters.php:181
+#: lib/admin/views/html-admin-resource-filters.php:254
+#: lib/admin/views/html-admin-resource-slots.php:52 lib/class-er-ajax.php:1253
+#: lib/class-er-ajax.php:1320
+#, fuzzy, php-format
+msgid "Delete %s"
+msgstr "Seç"
+
+#: lib/admin/views/html-admin-resource-filters.php:187
+#, fuzzy
+#| msgid "No price filter set"
+msgid "No price filter defined"
+msgstr "Fiyat filtre ayarı yapılmamış"
+
+#: lib/admin/views/html-admin-resource-filters.php:207
+msgid "resources requirements change to"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:213
+#: lib/admin/views/html-admin-resource-filters.php:224
+#: lib/class-er-ajax.php:1044
+msgid "All"
+msgstr "Tümü"
+
+#: lib/admin/views/html-admin-resource-filters.php:261
+#, fuzzy
+#| msgid "No filter set"
+msgid "No filter defined"
+msgstr "Hiçbir filtre ayarı yaılmamış"
+
+#: lib/admin/views/html-admin-resource-header.php:31
+#: lib/admin/views/html-admin-resources-header.php:16
+#, fuzzy
+msgid "Post view"
+msgstr "Görüntüle"
+
+#: lib/admin/views/html-admin-resource-header.php:33
+#: lib/admin/views/html-admin-resources.php:67
+msgid "Really delete this resource and all its reservations?"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-header.php:40
+msgid "Slots"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:55
+msgid ""
+"If you want your customers to only be able to select certain time ranges use "
+"slots, else use requirements to define when they can reserve. "
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:65
+#: lib/admin/views/html-admin-resource-slot-add.php:187
+#: lib/admin/views/html-admin-resources.php:19 lib/functions/admin.php:560
+#: lib/functions/admin.php:562 lib/functions/admin.php:590
+#: lib/modules/styles/styles.php:92
+msgid "Base price"
+msgstr "Temel fiyat"
+
+#: lib/admin/views/html-admin-resource-settings.php:74
+msgid "per billing unit"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:92
+msgid "Billing"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:96
+msgid "Bill each"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:100
+msgid "started"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:101
+msgid "completed"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:139
+msgid "Apply base price only once regardless of duration"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:145
+#: lib/admin/views/html-admin-settings-general.php:170
+#: lib/modules/export/export.php:66 lib/modules/statistics/statistics.php:593
+#: lib/modules/styles/styles.php:90
+#, fuzzy
+msgid "Taxes"
+msgstr "Zaman"
+
+#: lib/admin/views/html-admin-resource-settings.php:157
+#: lib/admin/views/html-admin-settings-general.php:235
+#: lib/modules/search/search.php:48
+#, fuzzy
+msgid "Availability"
+msgstr "Kullanılmayan"
+
+#: lib/admin/views/html-admin-resource-settings.php:164
+msgid "Frequency"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:171
+#: lib/modules/hourlycal/hourlycal.php:174
+msgid "Half-hourly"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:172
+#: lib/modules/hourlycal/hourlycal.php:174
+#, fuzzy
+msgid "Hourly"
+msgstr "veya"
+
+#: lib/admin/views/html-admin-resource-settings.php:173
+msgid "Daily"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:182
+#, fuzzy
+#| msgid "Quantity"
+msgid "Spaces/Quantity"
+msgstr "Miktar"
+
+#: lib/admin/views/html-admin-resource-settings.php:196
+msgid "Availability per"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:202
+#, fuzzy
+msgid "Object"
+msgstr "Konu"
+
+#: lib/admin/views/html-admin-resource-settings.php:297
+#, fuzzy
+msgid "Required permission"
+msgstr "Rezervasyon düzenlendi!"
+
+#: lib/admin/views/html-admin-resource-slot-add.php:28
+#: lib/admin/views/html-admin-resource-slots.php:47
+#: lib/admin/views/html-admin-resource-slots.php:49
+#: lib/admin/views/html-admin-resource-slots.php:52
+msgid "slot"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-slot-add.php:49
+#, fuzzy
+#| msgid "Activate"
+msgid "Active between"
+msgstr "Etkin"
+
+#: lib/admin/views/html-admin-resource-slot-add.php:66
+#: lib/admin/views/html-admin-resource-slots.php:12
+msgid "Repeat"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-slot-add.php:87
+#, fuzzy
+msgid "Week days"
+msgstr "Çar"
+
+#: lib/admin/views/html-admin-resource-slots.php:59
+#, fuzzy
+#| msgid "No filter set"
+msgid "No slots defined"
+msgstr "Hiçbir filtre ayarı yaılmamış"
+
+#: lib/admin/views/html-admin-resources.php:18
+msgid "Quantity"
+msgstr "Miktar"
+
+#: lib/admin/views/html-admin-resources.php:22 lib/modules/styles/styles.php:35
+msgid "Excerpt"
+msgstr "Özet"
+
+#: lib/admin/views/html-admin-resources.php:38
+#: lib/modules/search/search.php:381
+msgid "Available"
+msgstr "Geçerli"
+
+#: lib/admin/views/html-admin-resources.php:64
+#, fuzzy
+#| msgid "edit post"
+msgid "post"
+msgstr "sayfa düzenle"
+
+#: lib/admin/views/html-admin-settings-about.php:16
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+#: lib/admin/views/html-admin-settings-about.php:19
+#, fuzzy
+msgid "Report bug"
+msgstr "Hata Bildir"
+
+#: lib/admin/views/html-admin-settings-about.php:22 lib/core/core.php:16
+msgid "Premium"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-about.php:25
+msgid "Rate the Plugin, please!"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-about.php:33 lib/core/core.php:314
+#: lib/modules/htmlmails/htmlmails.php:401
+msgid "Changelog"
+msgstr "Değişiklikler"
+
+#: lib/admin/views/html-admin-settings-custom.php:25
+#: lib/admin/views/html-admin-settings-form.php:320
+#: lib/admin/views/html-admin-settings-form.php:526
+#: lib/admin/views/html-admin-settings-form.php:554
+#: lib/admin/views/html-admin-settings-form.php:748
+#: lib/admin/views/html-admin-settings-form.php:762
+#: lib/admin/views/html-admin-settings-form.php:823
+#: lib/modules/lang/lang.php:112
+#, fuzzy
+msgid "Value"
+msgstr "Mavi"
+
+#: lib/admin/views/html-admin-settings-custom.php:26
+msgid "Unused"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-custom.php:67
+#, fuzzy
+msgid "No custom fields defined"
+msgstr "Özel alanlar düzenlendi"
+
+#: lib/admin/views/html-admin-settings-custom.php:91
+msgid ""
+"With custom fields you can add your own fields to the form. The data "
+"gathered can be used through the whole system in emails, invoices and when "
+"the guest edits his reservation."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-custom.php:104
+msgid "Field has influence on price"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-emails.php:10
+#, fuzzy
+#| msgid "Available"
+msgid "Available tags"
+msgstr "Geçerli"
+
+#: lib/admin/views/html-admin-settings-emails.php:13
+msgid "Wordwrap"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-emails.php:14
+#: lib/modules/htmlmails/htmlmails.php:138
+#, fuzzy
+msgid "Message from admin"
+msgstr "yöneticiden gelen mesaj"
+
+#: lib/admin/views/html-admin-settings-emails.php:18
+#: lib/admin/views/html-admin-settings-form.php:95
+#: lib/admin/views/html-admin-settings-form.php:276
+#: lib/admin/views/html-admin-settings-form.php:521
+#: lib/modules/htmlmails/htmlmails.php:124 lib/modules/invoice/invoice.php:507
+msgid "Arrival date"
+msgstr "Geliş tarihi"
+
+#: lib/admin/views/html-admin-settings-emails.php:19
+#: lib/admin/views/html-admin-settings-form.php:110
+#: lib/admin/views/html-admin-settings-form.php:279
+#: lib/admin/views/html-admin-settings-form.php:550
+#: lib/modules/htmlmails/htmlmails.php:125 lib/modules/invoice/invoice.php:508
+#, fuzzy
+msgid "Departure date"
+msgstr "ayrılış tarihi"
+
+#: lib/admin/views/html-admin-settings-emails.php:20
+#: lib/admin/views/html-admin-settings-form.php:125
+#: lib/admin/views/html-admin-settings-form.php:282
+#: lib/admin/views/html-admin-settings-form.php:640
+#: lib/modules/htmlmails/htmlmails.php:126
+#: lib/modules/htmlmails/htmlmails.php:393 lib/modules/invoice/invoice.php:509
+msgid "billing units"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-emails.php:30
+#: lib/modules/htmlmails/htmlmails.php:139
+#, fuzzy
+msgid "Link to user control panel"
+msgstr "Kullanıcı kontrol paneli ayarları"
+
+#: lib/admin/views/html-admin-settings-emails.php:62
+#: lib/modules/htmlmails/htmlmails.php:42
+msgid "Subject"
+msgstr "Konu"
+
+#: lib/admin/views/html-admin-settings-emails.php:63
+#: lib/admin/views/html-admin-settings-form.php:84
+#: lib/admin/views/html-admin-settings-form.php:138
+#: lib/admin/views/html-admin-settings-form.php:251
+#: lib/modules/htmlmails/htmlmails.php:55
+#, fuzzy
+msgid "Default"
+msgstr "Varsayılan Form"
+
+#: lib/admin/views/html-admin-settings-form.php:40
+msgid "Standard"
+msgstr "Standart"
+
+#: lib/admin/views/html-admin-settings-form.php:77
+#, fuzzy
+msgid "Date fields"
+msgstr "Fiyat Alanı"
+
+#: lib/admin/views/html-admin-settings-form.php:90
+#, fuzzy
+#| msgid "Description"
+msgid "Date selection"
+msgstr "Açıklama"
+
+#: lib/admin/views/html-admin-settings-form.php:90
+#, fuzzy
+#| msgid "arrival date"
+msgid "For arrival and departure"
+msgstr "geliş tarihi"
+
+#: lib/admin/views/html-admin-settings-form.php:95
+#: lib/admin/views/html-admin-settings-form.php:110
+#, fuzzy
+msgid "Text field with datepicker"
+msgstr "tarih seçici ile varış günü"
+
+#: lib/admin/views/html-admin-settings-form.php:100
+#: lib/admin/views/html-admin-settings-form.php:277
+#: lib/admin/views/html-admin-settings-form.php:564
+#, fuzzy
+msgid "Arrival hour"
+msgstr "Bugün gelenler"
+
+#: lib/admin/views/html-admin-settings-form.php:100
+#: lib/admin/views/html-admin-settings-form.php:115
+msgid "Select field as of the time pattern selection"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:105
+#: lib/admin/views/html-admin-settings-form.php:278
+#: lib/admin/views/html-admin-settings-form.php:598
+#, fuzzy
+msgid "Arrival minute"
+msgstr "Geliş Tarihi"
+
+#: lib/admin/views/html-admin-settings-form.php:105
+#: lib/admin/views/html-admin-settings-form.php:120
+#: lib/admin/views/html-admin-settings-form.php:836
+#, fuzzy
+msgid "Select field"
+msgstr "Seç"
+
+#: lib/admin/views/html-admin-settings-form.php:115
+#: lib/admin/views/html-admin-settings-form.php:280
+#: lib/admin/views/html-admin-settings-form.php:581
+#, fuzzy
+msgid "Departure hour"
+msgstr "Bugün gidenler"
+
+#: lib/admin/views/html-admin-settings-form.php:120
+#: lib/admin/views/html-admin-settings-form.php:281
+#: lib/admin/views/html-admin-settings-form.php:619
+#, fuzzy
+msgid "Departure minute"
+msgstr "Ayrılış Tarihi"
+
+#: lib/admin/views/html-admin-settings-form.php:125
+msgid "Select field to choose length of stay"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:131
+#, fuzzy
+msgid "Information fields"
+msgstr "Bilgiler"
+
+#: lib/admin/views/html-admin-settings-form.php:144
+#, fuzzy
+msgid "Select for resource"
+msgstr "Oda Seçin"
+
+#: lib/admin/views/html-admin-settings-form.php:149
+#, fuzzy
+msgid "Select field for adults"
+msgstr "Ülke seçin"
+
+#: lib/admin/views/html-admin-settings-form.php:154
+#, fuzzy
+msgid "Select field for children"
+msgstr "Çocuk girdi türünü seçin"
+
+#: lib/admin/views/html-admin-settings-form.php:159
+#, fuzzy
+msgid "Text field for name"
+msgstr "özel alanlar"
+
+#: lib/admin/views/html-admin-settings-form.php:164
+msgid "Text field for email"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:169
+#: lib/admin/views/html-admin-settings-form.php:773
+#, fuzzy
+msgid "Select field for country"
+msgstr "Ülke seçin"
+
+#: lib/admin/views/html-admin-settings-form.php:175
+#, fuzzy
+msgid "Special fields"
+msgstr "Fiyat Alanı"
+
+#: lib/admin/views/html-admin-settings-form.php:187
+#: lib/admin/views/html-admin-settings-form.php:787
+msgid "Hidden"
+msgstr "Gizli"
+
+#: lib/admin/views/html-admin-settings-form.php:187
+msgid "Dictate information and/or hide it from guest"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:191
+#: lib/admin/views/html-admin-settings-form.php:832
+#: lib/admin/views/html-admin-settings-header.php:24
+#: lib/functions/admin.php:558 lib/modules/export/export.php:69
+#: lib/modules/htmlmails/htmlmails.php:135
+#, fuzzy
+msgid "Custom"
+msgstr "Özel alanlar"
+
+#: lib/admin/views/html-admin-settings-form.php:191
+msgid "Custom form elements to get more information"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:196
+#: lib/admin/views/html-admin-settings-form.php:792
+#: lib/modules/useredit/useredit.php:838
+msgid "Captcha"
+msgstr "Captcha"
+
+#: lib/admin/views/html-admin-settings-form.php:196
+#: lib/admin/views/html-admin-settings-form.php:793
+#, fuzzy
+#| msgid "Revenue of past reservations"
+msgid "To be secure against spam reservations"
+msgstr "Geçmiş rezervasyon gelirleri"
+
+#: lib/admin/views/html-admin-settings-form.php:200
+#: lib/admin/views/html-admin-settings-form.php:806
+#, fuzzy
+msgid "Display price live"
+msgstr "Fiyat Göster"
+
+#: lib/admin/views/html-admin-settings-form.php:204
+msgid "Error"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:204
+#, fuzzy
+msgid "Displays errors"
+msgstr "Hataları Göster"
+
+#: lib/admin/views/html-admin-settings-form.php:208
+#: lib/widgets/form_widget.php:194
+#, fuzzy
+msgid "Submit button"
+msgstr "Gönder butonu:"
+
+#: lib/admin/views/html-admin-settings-form.php:208
+#: lib/admin/views/html-admin-settings-form.php:820
+msgid "Button to submit the form"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:213
+#: lib/admin/views/html-admin-settings-general.php:116
+#, fuzzy
+msgid "Format"
+msgstr "Form"
+
+#: lib/admin/views/html-admin-settings-form.php:218
+msgid "Used for description of tags. Should be before the content wrapper."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:221
+msgid "Content wrapper"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:221
+msgid "Wrapper around content. Should be around fields and text."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:224
+msgid "Row"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:224
+msgid ""
+"Wrapper for multiple elements in one row. Should be inside the content "
+"wrapper and around any form elements and/or text. It may be necessary to "
+"define their width's."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:227
+msgid "Small"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:227
+msgid "A caption for the form element. Should be in the content wrapper."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:230
+msgid "Bold"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:230
+msgid "Bold text"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:233
+msgid "Italic"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:233
+msgid "Italic text"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:236
+msgid "Headline"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:236
+msgid "Big headline"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:239
+msgid "Sub-headline"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:239
+msgid "Smaller headline to divide the form."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:248
+msgid ""
+"Default widget and search bar template cannot be edited so you always have "
+"them as reference"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:292
+msgid "Display value"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:385
+msgid "Required"
+msgstr "gerekli"
+
+#: lib/admin/views/html-admin-settings-form.php:447
+msgid "Time range"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:451
+#: lib/modules/paypal/paypal.php:365
+#, fuzzy
+msgid "Disabled"
+msgstr "Düzenlenebilir"
+
+#: lib/admin/views/html-admin-settings-form.php:457
+#, fuzzy
+msgid "Errors"
+msgstr "Mesaj"
+
+#: lib/admin/views/html-admin-settings-form.php:458
+msgid ""
+"Shows the warning messages in form. Is required for the multiple "
+"reservations form function."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:466
+#, fuzzy
+msgid "Message"
+msgstr "Mesaj"
+
+#: lib/admin/views/html-admin-settings-form.php:476
+msgid ""
+"For resources with slots and resources that get reserved on a daily basis."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:479
+#, fuzzy
+#| msgid "Offers selectable"
+msgid "Departure is selectable"
+msgstr "Teklifler seçilebilir"
+
+#: lib/admin/views/html-admin-settings-form.php:485
+#, fuzzy
+#| msgid "Offers selectable"
+msgid "Time is selectable"
+msgstr "Teklifler seçilebilir"
+
+#: lib/admin/views/html-admin-settings-form.php:491
+#: lib/widgets/form_widget.php:174
+msgid "Default resource"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:495
+#, fuzzy
+msgid "Default arrival hour"
+msgstr "Bugün gelenler"
+
+#: lib/admin/views/html-admin-settings-form.php:501
+#, fuzzy
+msgid "Default arrival minute"
+msgstr "Form seç"
+
+#: lib/admin/views/html-admin-settings-form.php:507
+#, fuzzy
+msgid "Default departure hour"
+msgstr "Bugün gidenler"
+
+#: lib/admin/views/html-admin-settings-form.php:513
+#, fuzzy
+msgid "Default departure minute"
+msgstr "Ayrılış Tarihi"
+
+#: lib/admin/views/html-admin-settings-form.php:522
+#: lib/admin/views/html-admin-settings-form.php:745
+#: lib/admin/views/html-admin-settings-form.php:759
+msgid "Is required in any form."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:531
+msgid "Selectable days"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:535
+msgid "Earliest selectable date in days (0=now)"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:540
+msgid "Latest selectable date in days (0=endless)"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:551
+msgid ""
+"Field with datepicker for the departure date. Can be replaced by billing "
+"units selection or deleted so that every reservation lasts one billing unit."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:565
+msgid ""
+"Select for arrival hour. Can be replaced by a hidden field and defaults to "
+"12:00 if not in form."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:569
+#: lib/admin/views/html-admin-settings-form.php:586
+#: lib/admin/views/html-admin-settings-form.php:602
+#: lib/admin/views/html-admin-settings-form.php:623
+#: lib/admin/views/html-admin-settings-form.php:656
+#: lib/admin/views/html-admin-settings-form.php:671
+#: lib/admin/views/html-admin-settings-form.php:706
+#: lib/admin/views/html-admin-settings-form.php:733
+#: lib/admin/views/html-admin-settings-form.php:776
+#, fuzzy
+msgid "Selected"
+msgstr "Seç"
+
+#: lib/admin/views/html-admin-settings-form.php:582
+msgid ""
+"Select for departure hour. Can be replaced by a hidden field and defaults to "
+"12:00 if not in form."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:599
+#, fuzzy
+msgid "Select for arrival minute."
+msgstr "Form seç"
+
+#: lib/admin/views/html-admin-settings-form.php:608
+#: lib/admin/views/html-admin-settings-form.php:629
+msgid "Increment"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:620
+#, fuzzy
+msgid "Select for departure minute."
+msgstr "Form seç"
+
+#: lib/admin/views/html-admin-settings-form.php:641
+msgid ""
+"Select of billing units to define the duration of stay. Can be replaced by "
+"departure date field or defaults to one billing unit if not in form."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:668
+msgid ""
+"Select of resources. Is required and can only be replaced by hidden field. "
+"You can exclude or include resources by entering comma separated IDs."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:675
+#: lib/modules/search/search.php:35 lib/modules/styles/styles.php:39
+msgid "Exclude"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:680
+msgid "Include"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:691
+msgid "Select of adults. Is required and can only be replaced by hidden field."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:718
+msgid "Select of children. Can be replaced by hidden field or deleted."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:788
+msgid ""
+"Date and information fields can be replaced by hidden fields to force the "
+"selection without the guest choosing or seeing it. They are helpful for "
+"special offers or forms for just one resource."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:796
+msgid "Color of code"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:798
+msgid "Black"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:798
+msgid "White"
+msgstr "Beyaz"
+
+#: lib/admin/views/html-admin-settings-form.php:807
+msgid "Display price as of current selection."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:810
+#, fuzzy
+msgid "Text before price"
+msgstr "Temel fiyat"
+
+#: lib/admin/views/html-admin-settings-form.php:833
+#, php-format
+msgid ""
+"Can be any form element, can have an impact on the price and are used to get "
+"more information. Define them %s first"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:50
+msgid "Light"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:50
+msgid "Dark"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:66
+#: lib/modules/useredit/useredit.php:456 lib/modules/useredit/useredit.php:457
+#: lib/modules/useredit/useredit.php:458
+#, fuzzy
+msgid "minutes"
+msgstr "Ay"
+
+#: lib/admin/views/html-admin-settings-general.php:103
+#: lib/modules/htmlmails/htmlmails.php:33 lib/modules/invoice/invoice.php:481
+#: lib/modules/paypal/creditcards.php:315
+#: lib/modules/paypal/creditcards.php:378 lib/modules/paypal/paypal.php:190
+#: lib/modules/paypal/paypal.php:209 lib/modules/paypal/paypal.php:222
+#: lib/modules/paypal/paypal.php:239 lib/modules/paypal/paypal.php:254
+#: lib/modules/paypal/paypal.php:269 lib/modules/paypal/paypal.php:287
+#: lib/modules/useredit/useredit.php:307 lib/modules/useredit/useredit.php:354
+#: lib/modules/useredit/useredit.php:396
+#, php-format
+msgid "%s settings"
+msgstr "%s Ayarlar"
+
+#: lib/admin/views/html-admin-settings-general.php:121
+#, fuzzy
+msgid "Support email"
+msgstr "Destek"
+
+#: lib/admin/views/html-admin-settings-general.php:130
+#, fuzzy
+msgid "Money format"
+msgstr "Para biçimi hatası"
+
+#: lib/admin/views/html-admin-settings-general.php:146
+#, fuzzy
+#| msgid "Base Price"
+msgid "after Price"
+msgstr "Temel Fiyat"
+
+#: lib/admin/views/html-admin-settings-general.php:146
+#, fuzzy
+msgid "before Price"
+msgstr "Temel fiyat"
+
+#: lib/admin/views/html-admin-settings-general.php:152
+msgid "Whitespace between price and currency sign"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:156
+msgid "Thousand separator"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:159
+msgid "Decimal separator"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:162
+#, fuzzy
+#| msgid "number of childs"
+msgid "Number of decimals"
+msgstr "çocuk sayısı"
+
+#: lib/admin/views/html-admin-settings-general.php:164
+#, fuzzy
+msgid "Example"
+msgstr "basit"
+
+#: lib/admin/views/html-admin-settings-general.php:175
+msgid "Enter prices exclusive of tax"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:176
+msgid "Enter prices inclusive of tax"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:182
+msgid "Date format"
+msgstr "Tarih biçimi"
+
+#: lib/admin/views/html-admin-settings-general.php:199
+msgid "Enable display of time"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:207
+msgid "Appearance"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:212
+msgid "Primary color"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:224
+msgid "Frontend style"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:240
+#, fuzzy
+msgid "Merge resources"
+msgstr "Kaynaklar"
+
+#: lib/admin/views/html-admin-settings-general.php:249
+#, php-format
+msgid "Only allow %s reservations at the same time across all resources"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:256
+msgid "Block time"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:261
+#, fuzzy, php-format
+msgid "Block %s before and %s after each reservation"
+msgstr "Yeni rezervasyon için e-posta gönderimi"
+
+#: lib/admin/views/html-admin-settings-general.php:271
+#, fuzzy
+#| msgid "Change Permissions"
+msgid "Permissions"
+msgstr "Kullanıcı İzinleri ( Yetkiler )"
+
+#: lib/admin/views/html-admin-settings-general.php:330
+msgid "Miscellaneous"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:335
+#, fuzzy
+msgid "Tutorial"
+msgstr "Toplam Fiyuat"
+
+#: lib/admin/views/html-admin-settings-general.php:342
+msgid "Enable tutorial mode"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:344
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: lib/admin/views/html-admin-settings-general.php:349
+msgid "Uninstall"
+msgstr "Kaldır"
+
+#: lib/admin/views/html-admin-settings-general.php:356
+msgid "Delete settings, reservations and resources"
+msgstr "Ayarları, rezervasyon ve kaynakları sil"
+
+#: lib/admin/views/html-admin-settings-general.php:362
+#, fuzzy
+msgid "Important guests"
+msgstr "Önemli Ziyaretçiler"
+
+#: lib/admin/views/html-admin-settings-general.php:371
+msgid "Execute script"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-header.php:35
+msgid "About"
+msgstr "Hakkında"
+
+#: lib/class-er-ajax.php:530 lib/modules/coupons/coupons.php:137
+#: lib/modules/invoice/invoice.php:267 lib/modules/paypal/creditcards.php:278
+#: lib/modules/paypal/paypal.php:71 lib/modules/useredit/useredit.php:529
+#: lib/modules/useredit/useredit.php:541 lib/modules/useredit/useredit.php:544
+#: lib/modules/useredit/useredit.php:556 lib/modules/useredit/useredit.php:581
+#: lib/modules/useredit/useredit.php:628 lib/modules/useredit/useredit.php:635
+#: lib/modules/useredit/useredit.php:724 lib/modules/useredit/useredit.php:827
+#: lib/shortcodes/form.php:56
+msgid "Back"
+msgstr "Geri"
+
+#: lib/class-er-ajax.php:577 lib/modules/useredit/useredit.php:541
+#, fuzzy
+msgid "the correct captcha"
+msgstr "Doğrulama kodunu doğru bir şekilde giriniz"
+
+#: lib/class-er-ajax.php:684 lib/modules/statistics/statistics.php:628
+msgid "Add reservations first"
+msgstr "Raporlanacak herhangi bir rezervasyon bilgisi yok..."
+
+#: lib/class-er-ajax.php:772 lib/er-form-functions.php:466
+#, php-format
+msgid "%s is required"
+msgstr "%s gerekli"
+
+#: lib/class-er-ajax.php:781
+msgid "Captcha is required"
+msgstr ""
+
+#: lib/class-er-ajax.php:784 lib/class-er-ajax.php:792
+#, fuzzy
+msgid "Enter correct captcha"
+msgstr "Doğrulama kodunu doğru bir şekilde giriniz"
+
+#: lib/class-er-ajax.php:1040
+msgid "Upcoming"
+msgstr ""
+
+#: lib/class-er-ajax.php:1041 lib/modules/useredit/useredit.php:377
+msgid "Current"
+msgstr "Geçeri"
+
+#: lib/class-er-ajax.php:1045
+msgid "Old"
+msgstr "Eski"
+
+#: lib/class-er-ajax.php:1053
+msgid "View all states"
+msgstr ""
+
+#: lib/class-er-ajax.php:1058
+msgid "Show all months"
+msgstr ""
+
+#: lib/class-er-ajax.php:1073
+#, fuzzy
+msgid "View all Resources"
+msgstr "Kaynaklar"
+
+#: lib/class-er-ajax.php:1249 lib/functions/admin.php:121
+#: lib/modules/search/attributes.php:136 lib/modules/sync/ical.import.php:254
+#: lib/modules/useredit/useredit.php:60 lib/modules/useredit/useredit.php:131
+msgid "Edit"
+msgstr "Düzenle"
+
+#: lib/class-er-ajax.php:1252 lib/class-er-ajax.php:1319
+msgid "Restore"
+msgstr "Restore"
+
+#: lib/class-er-ajax.php:1253 lib/class-er-ajax.php:1320
+#, fuzzy
+#| msgid "Delete Permanently"
+msgid "permanently"
+msgstr "Kalıcı olarak sil"
+
+#: lib/class-er-ajax.php:1259 lib/modules/useredit/useredit.php:29
+#: lib/modules/useredit/useredit.php:57 lib/modules/useredit/useredit.php:138
+#: lib/modules/useredit/useredit.php:708
+msgid "ago"
+msgstr "önce"
+
+#: lib/class-er-ajax.php:1305
+#, fuzzy
+#| msgid "No Reservations found!"
+msgid "No reservations found"
+msgstr "Rezervasyon bulunamadı"
+
+#: lib/class-er-ajax.php:1318
+#, fuzzy
+#| msgid "Move to Trash"
+msgid "Move to trash"
+msgstr "Çöpe Taşı"
+
+#: lib/class-er-ajax.php:1323
+msgid "Apply"
+msgstr "Uygula"
+
+#: lib/class-er-ajax.php:1346
+msgid "Elements"
+msgstr "Öğe"
+
+#: lib/class-er-frontend.php:75
+msgid "Wait"
+msgstr ""
+
+#: lib/class-er-frontend.php:76 templates/date-selection.php:24
+#, fuzzy
+#| msgid "Select style"
+msgid "Select Date"
+msgstr "Stil seç"
+
+#: lib/class-er-reservation.php:878
+#, fuzzy
+#| msgid "Your name"
+msgid "your name"
+msgstr "Adınız"
+
+#: lib/class-er-reservation.php:884
+msgid "a valid email address"
+msgstr ""
+
+#: lib/class-er-reservation.php:895
+#, fuzzy
+msgid "The departure date has to be after the arrival date"
+msgstr "The depature date has to be after the arrival date"
+
+#: lib/class-er-reservation.php:915 lib/modules/search/search.php:377
+#, fuzzy
+msgid "Not available at"
+msgstr "Mevcut değil"
+
+#: lib/class-er-reservation.php:916 lib/class-er-reservation.php:917
+#, fuzzy
+msgid "Selected time is occupied"
+msgstr "Seçilen bu oda belirtilen tarihler arasında dolu görünüyor..."
+
+#: lib/class-er-reservation.php:924
+#, fuzzy
+#| msgid "The arrival date has to be in future"
+msgid "The arrival date has to be in the future"
+msgstr "Varış tarihi gelecekte olmak zorundadır"
+
+#: lib/class-er-reservation.php:956
+#, php-format
+msgid "At least %1$s persons in %2$s"
+msgstr ""
+
+#: lib/class-er-reservation.php:960
+#, php-format
+msgid "Maximum %1$s persons in %2$s"
+msgstr ""
+
+#: lib/class-er-reservation.php:965
+#, php-format
+msgid "At least %1$s %2$s in %3$s"
+msgstr ""
+
+#: lib/class-er-reservation.php:974
+#, php-format
+msgid "Maximum %1$s %2$s in %3$s"
+msgstr ""
+
+#: lib/class-er-reservation.php:985
+#, fuzzy, php-format
+msgid "Arrival not possible on %s"
+msgstr "Geliş Tarihi"
+
+#: lib/class-er-reservation.php:994
+#, php-format
+msgid "Arrival only possible on %s"
+msgstr ""
+
+#: lib/class-er-reservation.php:1000
+#, fuzzy, php-format
+msgid "Departure not possible on %s"
+msgstr "Ayrılış Tarihi"
+
+#: lib/class-er-reservation.php:1007
+#, php-format
+msgid "Departure only possible on %s"
+msgstr ""
+
+#: lib/class-er-reservation.php:1015
+#, fuzzy, php-format
+msgid "Arrival only possible from %s"
+msgstr "Geliş Tarihi"
+
+#: lib/class-er-reservation.php:1022
+#, fuzzy, php-format
+msgid "Arrival only possible till %s"
+msgstr "Geliş Tarihi"
+
+#: lib/class-er-reservation.php:1031
+#, php-format
+msgid "Departure only possible from %s"
+msgstr ""
+
+#: lib/class-er-reservation.php:1038
+#, php-format
+msgid "Departure only possible till %s"
+msgstr ""
+
+#: lib/class-er-reservation.php:1159 lib/modules/useredit/useredit.php:374
+msgid "trashed"
+msgstr "silindi"
+
+#: lib/core/core.php:28
+#, fuzzy
+msgid "Checked for updates"
+msgstr "Güncellemeleri Kontrol Et"
+
+#: lib/core/core.php:31
+msgid "Logged in"
+msgstr ""
+
+#: lib/core/core.php:34
+#, php-format
+msgid "%s activated"
+msgstr "%s etkinleştirildi..."
+
+#: lib/core/core.php:34 lib/core/core.php:57 lib/core/core.php:59
+#: lib/core/core.php:74 lib/core/core.php:106
+#, fuzzy, php-format
+msgid "Module %s"
+msgstr "Modüller"
+
+#: lib/core/core.php:37
+msgid "Logged out"
+msgstr ""
+
+#: lib/core/core.php:39
+#, fuzzy
+msgid "All installed modules activated"
+msgstr "%s modülü etkinleştirildi..."
+
+#: lib/core/core.php:41
+#, fuzzy
+msgid "All installed modules deactivated"
+msgstr "%s modülü devredışı bırakıldı..."
+
+#: lib/core/core.php:49 lib/core/core.php:106 lib/core/core.php:278
+#, fuzzy
+msgid "installed"
+msgstr "Yüklendi"
+
+#: lib/core/core.php:54
+#, php-format
+msgid "Failure at updating module %1$s - %2$s"
+msgstr ""
+
+#: lib/core/core.php:55
+#, php-format
+msgid "Failure at extracting module %1$s - %2$s"
+msgstr ""
+
+#: lib/core/core.php:59
+#, php-format
+msgid "%s deactivated"
+msgstr "%s devredışı bırakıldı..."
+
+#: lib/core/core.php:108
+msgid "Upload failed"
+msgstr "Yükleme başarısız"
+
+#: lib/core/core.php:277 lib/functions/admin.php:547
+#: lib/modules/paypal/creditcards.php:343
+msgid "Description"
+msgstr "Açıklama"
+
+#: lib/core/core.php:279
+msgid "Actual"
+msgstr "Güncel"
+
+#: lib/core/core.php:310 lib/core/core.php:356
+msgid "Activate"
+msgstr "Etkin"
+
+#: lib/core/core.php:312 lib/core/core.php:357
+msgid "Deactivate"
+msgstr "Devredışı"
+
+#: lib/core/core.php:324 lib/core/core.php:361
+#, php-format
+msgid "Incompatibility - Update easyReservations to at least %s"
+msgstr ""
+
+#: lib/core/core.php:325 lib/core/core.php:362
+#, php-format
+msgid ""
+"Incompatibility - This version of easyReservations needs at least version %s "
+"of this module"
+msgstr ""
+
+#: lib/core/core.php:332
+#, fuzzy
+msgid "Update"
+msgstr "Güncelleme!"
+
+#: lib/core/core.php:333
+#, fuzzy
+msgid "Reinstall"
+msgstr "Kaldır"
+
+#: lib/core/core.php:334 lib/core/core.php:435
+msgid "Install"
+msgstr "Yükle"
+
+#: lib/core/core.php:336 lib/core/core.php:337 lib/core/core.php:367
+#: lib/modules/useredit/useredit.php:750
+msgid "Download"
+msgstr "İndir"
+
+#: lib/core/core.php:378
+msgid "Premium Login"
+msgstr ""
+
+#: lib/core/core.php:378
+msgid "Premium Features"
+msgstr ""
+
+#: lib/core/core.php:383
+msgid "Login"
+msgstr ""
+
+#: lib/core/core.php:394
+#, fuzzy
+msgid "Username"
+msgstr "isim"
+
+#: lib/core/core.php:398
+msgid "Password"
+msgstr ""
+
+#: lib/core/core.php:407
+#, fuzzy
+msgid "Install all modules"
+msgstr "Modül Yükle/Güncelle"
+
+#: lib/core/core.php:411
+#, fuzzy
+msgid "Activate all"
+msgstr "Etkin"
+
+#: lib/core/core.php:415
+#, fuzzy
+msgid "Deactivate all"
+msgstr "Devredışı"
+
+#: lib/core/core.php:418
+#, fuzzy
+msgid "Check for updates"
+msgstr "Güncellemeleri Kontrol Et"
+
+#: lib/core/core.php:419
+msgid "Logout"
+msgstr ""
+
+#: lib/core/core.php:420
+#, fuzzy
+#| msgid "Last check"
+msgid "Last checked at"
+msgstr "Son Kontrol"
+
+#: lib/core/core.php:429
+msgid "Install or update module manually"
+msgstr ""
+
+#: lib/core/core.php:538
+msgid "Wrong login data"
+msgstr ""
+
+#: lib/core/core.php:539
+#, php-format
+msgid "No premium account - %s"
+msgstr ""
+
+#: lib/core/core.php:541
+msgid "cURL isnt installed on your server, please contact your host"
+msgstr ""
+
+#: lib/core/core.php:552
+#, php-format
+msgid "Failure at copying module %1$s - %2$s"
+msgstr ""
+
+#: lib/core/core.php:651
+#, php-format
+msgid ""
+"Module %1$s is incompatible to easyReservations %2$s - update to version %3$s"
+msgstr ""
+
+#: lib/core/core.php:653
+#, php-format
+msgid "%1$s is incompatible to %2$s %3$s - update at least to version %4$s"
+msgstr ""
+
+#: lib/er-date-functions.php:30
+msgid "half hour"
+msgid_plural "half hours"
+msgstr[0] ""
+
+#: lib/er-date-functions.php:32
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] ""
+
+#: lib/er-date-functions.php:34
+#, fuzzy
+msgid "day"
+msgid_plural "days"
+msgstr[0] "gün"
+
+#: lib/er-date-functions.php:36
+msgid "night"
+msgid_plural "nights"
+msgstr[0] ""
+
+#: lib/er-date-functions.php:38
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] ""
+
+#: lib/er-date-functions.php:40
+#, fuzzy
+msgid "month"
+msgid_plural "months"
+msgstr[0] "Ay"
+
+#: lib/er-date-functions.php:63
+msgid "Monday"
+msgstr "Pazartesi"
+
+#: lib/er-date-functions.php:64
+msgid "Tuesday"
+msgstr "Salı"
+
+#: lib/er-date-functions.php:65
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+#: lib/er-date-functions.php:66
+msgid "Thursday"
+msgstr "Perşembe"
+
+#: lib/er-date-functions.php:67
+msgid "Friday"
+msgstr "Cuma"
+
+#: lib/er-date-functions.php:68
+msgid "Saturday"
+msgstr "Cumartesi"
+
+#: lib/er-date-functions.php:69
+msgid "Sunday"
+msgstr "Pazar"
+
+#: lib/er-date-functions.php:71
+msgid "January"
+msgstr "Ocak"
+
+#: lib/er-date-functions.php:72
+msgid "February"
+msgstr "Şubat"
+
+#: lib/er-date-functions.php:73
+msgid "March"
+msgstr "Mart"
+
+#: lib/er-date-functions.php:74
+msgid "April"
+msgstr "Nisan"
+
+#: lib/er-date-functions.php:75
+msgid "May"
+msgstr "Mayıs"
+
+#: lib/er-date-functions.php:76
+msgid "June"
+msgstr "Haziran"
+
+#: lib/er-date-functions.php:77
+msgid "July"
+msgstr "Temmuz"
+
+#: lib/er-date-functions.php:78
+msgid "August"
+msgstr "Ağustos"
+
+#: lib/er-date-functions.php:79
+msgid "September"
+msgstr "Eylül"
+
+#: lib/er-date-functions.php:80
+msgid "October"
+msgstr "Ekim"
+
+#: lib/er-date-functions.php:81
+msgid "November"
+msgstr "Kasım"
+
+#: lib/er-date-functions.php:82
+msgid "December"
+msgstr "Aralık"
+
+#: lib/er-form-functions.php:93
+#, fuzzy
+#| msgid "Default Form"
+msgid "Default form"
+msgstr "Varsayılan Form"
+
+#: lib/er-resource-functions.php:12
+#, fuzzy
+msgid "New resource"
+msgstr "Kaynaklar"
+
+#: lib/er-resource-functions.php:13 lib/modules/statistics/statistics.php:264
+#, fuzzy
+msgid "All resources"
+msgstr "Kaynaklar"
+
+#: lib/er-resource-functions.php:14
+#, fuzzy
+msgid "View resource"
+msgstr "Kaynaklar"
+
+#: lib/functions/admin.php:74
+msgid "Email to guest from admin in dashboard"
+msgstr ""
+
+#: lib/functions/admin.php:79
+msgid "Email to admin after new reservation"
+msgstr ""
+
+#: lib/functions/admin.php:84
+msgid "Email to guest after new reservation"
+msgstr ""
+
+#: lib/functions/admin.php:89
+msgid "Email to guest after approval"
+msgstr ""
+
+#: lib/functions/admin.php:94
+msgid "Email to guest after rejection"
+msgstr ""
+
+#: lib/functions/admin.php:99
+msgid "Email to guest after admin edited"
+msgstr ""
+
+#: lib/functions/admin.php:547 lib/modules/invoice/invoice.php:257
+#: lib/modules/invoice/invoice.php:371 lib/modules/invoice/invoice.php:481
+#: lib/modules/useredit/useredit.php:751 lib/modules/useredit/useredit.php:880
+msgid "Invoice"
+msgstr ""
+
+#: lib/functions/admin.php:547 lib/modules/styles/styles.php:70
+#, fuzzy
+msgid "Total"
+msgstr "Toplam Fiyuat"
+
+#: lib/functions/admin.php:560 lib/functions/admin.php:562
+#: lib/functions/admin.php:564 lib/functions/admin.php:566
+#: lib/functions/admin.php:568 lib/functions/admin.php:570
+#: lib/functions/admin.php:572 lib/functions/admin.php:574
+#: lib/functions/admin.php:576 lib/functions/admin.php:587
+#: lib/modules/styles/styles.php:92 lib/modules/styles/styles.php:93
+#: lib/modules/styles/styles.php:94 lib/modules/styles/styles.php:95
+#: lib/modules/styles/styles.php:96 lib/modules/styles/styles.php:97
+#: lib/modules/styles/styles.php:98 lib/modules/styles/styles.php:99
+#, php-format
+msgid "%s filter"
+msgstr "%s Filtre"
+
+#: lib/functions/admin.php:580 lib/modules/coupons/coupons.php:141
+#: lib/modules/coupons/coupons.php:147
+#: lib/modules/styles/shortcodes/receipt.php:97
+msgid "Coupon code"
+msgstr ""
+
+#: lib/functions/admin.php:584
+#, fuzzy
+msgid "Tax"
+msgstr "Max"
+
+#: lib/functions/both.php:29
+msgid "only unavailability"
+msgstr ""
+
+#: lib/functions/both.php:29
+msgid "with availability"
+msgstr ""
+
+#: lib/functions/both.php:29
+msgid "with partly availability"
+msgstr ""
+
+#: lib/functions/both.php:29
+msgid "with both"
+msgstr ""
+
+#: lib/modules/coupons/coupons.php:21 lib/modules/coupons/coupons.php:183
+#: lib/modules/styles/styles.php:91
+#, fuzzy
+msgid "Coupons"
+msgstr "Colon"
+
+#: lib/modules/coupons/coupons.php:36 lib/modules/coupons/coupons.php:78
+#, fuzzy
+msgid "Code"
+msgstr "Biçim"
+
+#: lib/modules/coupons/coupons.php:38 lib/modules/coupons/coupons.php:90
+#, fuzzy
+msgid "Usages"
+msgstr "Mesaj"
+
+#: lib/modules/coupons/coupons.php:60
+#, fuzzy
+msgid "No coupon codes defined"
+msgstr "Özel alanlar düzenlendi"
+
+#: lib/modules/coupons/coupons.php:68 lib/modules/coupons/coupons.php:216
+#: lib/modules/coupons/coupons.php:233
+#, fuzzy
+msgid "Coupon"
+msgstr "Colon"
+
+#: lib/modules/coupons/coupons.php:94
+#: lib/modules/styles/shortcodes/receipt.php:133
+#, fuzzy
+msgid "Amount"
+msgstr "Gece Miktarı"
+
+#: lib/modules/coupons/coupons.php:157
+#, fuzzy
+msgid "No coupon added"
+msgstr "Özel alanlar düzenlendi"
+
+#: lib/modules/coupons/coupons.php:217 lib/modules/coupons/coupons.php:233
+#, fuzzy
+msgid "Text field to enter coupon codes"
+msgstr "tarih seçici ile varış günü"
+
+#: lib/modules/export/export.php:27
+msgid "Export reservations"
+msgstr "Rezervasyonları dışarı aktar"
+
+#: lib/modules/export/export.php:37
+msgid "Reservations in table"
+msgstr "Tabloda rezervasyonlar"
+
+#: lib/modules/export/export.php:38
+msgid "All reservations"
+msgstr "Tüm rezervasyonlar"
+
+#: lib/modules/export/export.php:44 lib/modules/export/export.php:46
+msgid "file"
+msgstr ""
+
+#: lib/modules/export/export.php:52 lib/modules/useredit/useredit.php:358
+#: lib/modules/useredit/useredit.php:422 lib/modules/useredit/useredit.php:747
+#, fuzzy
+msgid "Information"
+msgstr "Bilgiler"
+
+#: lib/modules/export/export.php:72 lib/modules/sync/sync.php:169
+msgid "Space"
+msgstr ""
+
+#: lib/modules/hourlycal/hourlycal.php:185
+#, fuzzy
+#| msgid "Date format"
+msgid "Time format"
+msgstr "Tarih biçimi"
+
+#: lib/modules/hourlycal/hourlycal.php:194
+#, fuzzy
+msgid "Display"
+msgstr "Fiyat Göster"
+
+#: lib/modules/hourlycal/hourlycal.php:194
+msgid "Navigation"
+msgstr ""
+
+#: lib/modules/hourlycal/hourlycal.php:198
+#, fuzzy, php-format
+msgid "Display hours from %s until"
+msgstr "Hataları Göster"
+
+#: lib/modules/hourlycal/hourlycal.php:233
+#, fuzzy
+msgid "Hourly calendar"
+msgstr "Takvim"
+
+#: lib/modules/htmlmails/htmlmails.php:49
+msgid "Activate email type"
+msgstr ""
+
+#: lib/modules/htmlmails/htmlmails.php:55
+msgid "Plain text"
+msgstr ""
+
+#: lib/modules/htmlmails/htmlmails.php:136
+#, fuzzy
+msgid "Date today"
+msgstr "Bugün gidenler"
+
+#: lib/modules/htmlmails/htmlmails.php:137
+#, fuzzy
+msgid "ID of reservation"
+msgstr "Rezervasyon ID"
+
+#: lib/modules/htmlmails/htmlmails.php:142
+#: lib/modules/htmlmails/htmlmails.php:405
+#, fuzzy
+msgid "PayPal URL"
+msgstr "Modüller"
+
+#: lib/modules/htmlmails/htmlmails.php:402
+#, fuzzy
+msgid "Editlink"
+msgstr "Düzenle"
+
+#: lib/modules/htmlmails/htmlmails.php:403
+#, fuzzy
+msgid "Admin message"
+msgstr "Mesaj"
+
+#: lib/modules/invoice/editor.php:22
+#, fuzzy
+msgid "Generate"
+msgstr "Genel"
+
+#: lib/modules/invoice/editor.php:23
+#, fuzzy
+msgid "Preview"
+msgstr "Fiyat"
+
+#: lib/modules/invoice/invoice.php:153
+#, fuzzy
+msgid "Due date"
+msgstr "Atrılış tarihi"
+
+#: lib/modules/invoice/invoice.php:519
+#, fuzzy
+msgid "Total amount"
+msgstr "Gece Miktarı"
+
+#: lib/modules/invoice/invoice.php:554
+#, fuzzy
+msgid "with template"
+msgstr "Form seç"
+
+#: lib/modules/invoice/invoice.php:596
+msgid "Copy & Add"
+msgstr ""
+
+#: lib/modules/lang/lang.php:63
+#, fuzzy
+msgid "translateable content"
+msgstr "eklentiyi çevir"
+
+#: lib/modules/lang/lang.php:107 lib/modules/lang/lang.php:132
+#, fuzzy
+msgid "Translation"
+msgstr "Sil"
+
+#: lib/modules/lang/lang.php:108
+msgid ""
+"For multilingual content. It can be used inside other tags and used in "
+"emails, the search bar or invoice templates."
+msgstr ""
+
+#: lib/modules/lang/lang.php:117
+#, fuzzy
+msgid "Translations"
+msgstr "Sil"
+
+#: lib/modules/lang/lang.php:126 lib/modules/paypal/paypal.php:201
+#: lib/modules/paypal/paypal.php:235 lib/modules/paypal/paypal.php:266
+#: lib/modules/paypal/paypal.php:282
+msgid "Language"
+msgstr ""
+
+#: lib/modules/lang/lang.php:132
+msgid "For multilingual content"
+msgstr ""
+
+#: lib/modules/multical/multical.php:23
+msgid "Display months"
+msgstr ""
+
+#: lib/modules/multical/multical.php:25
+#, fuzzy
+msgid "Interval"
+msgstr "Genel"
+
+#: lib/modules/multical/multical.php:26
+msgid "Months to skip on previous/next "
+msgstr ""
+
+#: lib/modules/multical/multical.php:28
+msgid "Display month name"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:96
+#, fuzzy
+msgid "Credit card could not be deleted"
+msgstr "Mesaj"
+
+#: lib/modules/paypal/creditcards.php:109
+msgid "All credit cards deleted"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:116
+msgid "Unknown card type"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:117
+msgid "No card number provided"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:118
+msgid "Credit card number has invalid format"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:119
+msgid "Credit card number is invalid"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:120
+msgid "Credit card number is wrong length"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:121
+#, fuzzy
+msgid "credit card owner name"
+msgstr "Geçerli bir isim giriniz"
+
+#: lib/modules/paypal/creditcards.php:199
+#: lib/modules/paypal/creditcards.php:200
+#, fuzzy
+msgid "Enter correct CVV code"
+msgstr "Doğrulama kodunu doğru bir şekilde giriniz"
+
+#: lib/modules/paypal/creditcards.php:213
+#: lib/modules/paypal/creditcards.php:243
+#, fuzzy
+msgid "Number"
+msgstr "Kasım"
+
+#: lib/modules/paypal/creditcards.php:213
+#: lib/modules/paypal/creditcards.php:446
+msgid "Expires"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:264
+msgid ""
+"Credit card number must be a number and between 12 and 16 characters long"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:302
+#, php-format
+msgid "Before using open the file %1$s and enter a long random password"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:303
+#, php-format
+msgid ""
+"Can't open the file %1$s with the security key. Try to give it and it's "
+"folder CHMOD 755 or higher."
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:304
+#, php-format
+msgid "Before using create a file named %1$s in %2$s and enter %3$s"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:328 lib/modules/paypal/paypal.php:198
+#: lib/modules/paypal/paypal.php:215 lib/modules/paypal/paypal.php:229
+#: lib/modules/paypal/paypal.php:246 lib/modules/paypal/paypal.php:260
+#: lib/modules/paypal/paypal.php:275 lib/modules/sync/sync.php:198
+#: lib/modules/useredit/useredit.php:409
+#, fuzzy
+msgid "Off"
+msgstr "Teklif"
+
+#: lib/modules/paypal/creditcards.php:329
+msgid "Normal credit card form get send to stripe"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:330
+#, php-format
+msgid "%s button with blue style popup form"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:345
+#, fuzzy
+msgid "Attach transaction to"
+msgstr "Sil"
+
+#: lib/modules/paypal/creditcards.php:354 lib/modules/paypal/paypal.php:206
+#: lib/modules/paypal/paypal.php:220 lib/modules/paypal/paypal.php:237
+#: lib/modules/paypal/paypal.php:267 lib/modules/paypal/paypal.php:284
+#: lib/modules/search/search.php:83
+#, fuzzy
+msgid "Button"
+msgstr "Gönder Butonu"
+
+#: lib/modules/paypal/creditcards.php:356
+msgid "Ask for address in popup form"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:357
+msgid "Title in popup"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:358
+msgid "Subtitle in popup"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:362 lib/modules/paypal/paypal.php:200
+#: lib/modules/paypal/paypal.php:252 lib/modules/paypal/paypal.php:265
+#: lib/modules/paypal/paypal.php:281
+#, fuzzy
+msgid "Currency"
+msgstr "Geçeri"
+
+#: lib/modules/paypal/creditcards.php:378
+msgid "Delete all credit cards"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:400
+msgid ""
+"Check to give your guests the opportunity to enter their credit card "
+"information after submit"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:404 lib/modules/paypal/paypal.php:199
+#, fuzzy
+msgid "Owner"
+msgstr "Teklif"
+
+#: lib/modules/paypal/creditcards.php:406
+msgid "Ask for name of card holder"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:410 lib/modules/paypal/paypal.php:360
+msgid "Automatic approval"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:412
+msgid "Auto-approve after guest entered correct credit card"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:416
+#, fuzzy
+msgid "Accepted credit cards"
+msgstr "düzenle"
+
+#: lib/modules/paypal/creditcards.php:441
+#: lib/modules/paypal/creditcards.php:478
+msgid "Pay with credit card"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:443
+#, fuzzy
+msgid "Card Type"
+msgstr "Tür"
+
+#: lib/modules/paypal/creditcards.php:444
+#, fuzzy
+msgid "Holders name"
+msgstr "Adınız"
+
+#: lib/modules/paypal/creditcards.php:445
+#, fuzzy
+msgid "Card Number"
+msgstr "Oda numarası"
+
+#: lib/modules/paypal/creditcards.php:447
+msgid "CVV"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:473
+#, fuzzy
+msgid "Pay"
+msgstr "Gün"
+
+#: lib/modules/paypal/creditcards.php:473
+msgid "Secure"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:63
+msgid "Payment"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:159
+msgid "Setup the new payment email types"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:187
+#, fuzzy
+msgid "Title when paying multiple reservations"
+msgstr "Yeni rezervasyonlar"
+
+#: lib/modules/paypal/paypal.php:188
+#, fuzzy
+msgid "Deposit"
+msgstr "sayfa düzenle"
+
+#: lib/modules/paypal/paypal.php:190
+#, fuzzy
+msgid "General payment"
+msgstr "ePosta ayarları"
+
+#: lib/modules/paypal/paypal.php:198 lib/modules/paypal/paypal.php:215
+#: lib/modules/paypal/paypal.php:229 lib/modules/paypal/paypal.php:246
+#: lib/modules/paypal/paypal.php:260 lib/modules/paypal/paypal.php:275
+#, fuzzy
+msgid "Sandbox"
+msgstr "ve"
+
+#: lib/modules/paypal/paypal.php:198 lib/modules/paypal/paypal.php:215
+#: lib/modules/paypal/paypal.php:229 lib/modules/paypal/paypal.php:246
+#: lib/modules/paypal/paypal.php:260 lib/modules/paypal/paypal.php:275
+#, fuzzy
+msgid "Live"
+msgstr "Lire"
+
+#: lib/modules/paypal/paypal.php:198
+msgid "The validation only works with SSL in Sandbox"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:199
+msgid "Paypal email or Secure Merchant ID"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:202 lib/modules/paypal/paypal.php:218
+#: lib/modules/paypal/paypal.php:233 lib/modules/paypal/paypal.php:250
+#: lib/modules/paypal/paypal.php:263 lib/modules/paypal/paypal.php:279
+msgid "After success return to"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:202 lib/modules/paypal/paypal.php:218
+#: lib/modules/paypal/paypal.php:233 lib/modules/paypal/paypal.php:250
+#: lib/modules/paypal/paypal.php:263 lib/modules/paypal/paypal.php:279
+#: lib/modules/useredit/useredit.php:294 lib/modules/useredit/useredit.php:307
+#: lib/modules/useredit/useredit.php:910
+#, fuzzy
+msgid "User control panel"
+msgstr "Kullanıcı kontrol paneli ayarları"
+
+#: lib/modules/paypal/paypal.php:202 lib/modules/paypal/paypal.php:218
+#: lib/modules/paypal/paypal.php:233 lib/modules/paypal/paypal.php:250
+#: lib/modules/paypal/paypal.php:263 lib/modules/paypal/paypal.php:279
+#, fuzzy
+msgid "Page"
+msgstr "Resim"
+
+#: lib/modules/paypal/paypal.php:202 lib/modules/paypal/paypal.php:218
+#: lib/modules/paypal/paypal.php:233 lib/modules/paypal/paypal.php:250
+#: lib/modules/paypal/paypal.php:263 lib/modules/paypal/paypal.php:279
+msgid "URL"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:204
+msgid "Label above note"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:205
+msgid "Charset"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:207
+msgid "Instant Payment Notifications"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:207
+msgid "Validate payment & set paid amount"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:230
+msgid "Routine"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:230
+#, fuzzy
+msgid "Multi-page payment"
+msgstr "Yönetici için e-posta"
+
+#: lib/modules/paypal/paypal.php:230
+#, fuzzy
+msgid "Single Page Payment"
+msgstr "Yönetici için e-posta"
+
+#: lib/modules/paypal/paypal.php:236
+msgid "Skip review page"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:283
+msgid "Logo"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:285
+msgid "Button background"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:346
+#, fuzzy
+msgid "Payment button"
+msgstr "gönder düğmesi"
+
+#: lib/modules/paypal/paypal.php:366
+msgid "After submit"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:367
+msgid "After payment"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:368
+#, fuzzy
+msgid "Both"
+msgstr "Ay"
+
+#: lib/modules/paypal/paypal.php:370
+msgid "if there is free space in resource"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:375
+msgid "Only auto-approve important guests defined below"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:381
+msgid "Pending availability"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:388
+msgid "Pending reservations count for availability check"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:406
+msgid "Email to admin after payment"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:411
+msgid "Email to guest after payment"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:433
+msgid "OR"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:440
+msgid "Choose payment method"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:759 lib/modules/paypal/paypal.php:765
+msgid "Pay a deposit of"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:769
+msgid "Pay the full price of"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:841
+#, php-format
+msgid "Payment about %1$s successful"
+msgstr ""
+
+#: lib/modules/search/attributes.php:121
+msgid "Checkbox"
+msgstr "Onay Kutusu"
+
+#: lib/modules/search/attributes.php:154
+msgid "Comma separated options"
+msgstr ""
+
+#: lib/modules/search/attributes.php:158
+msgid "Only numbers"
+msgstr ""
+
+#: lib/modules/search/search.php:19
+#, fuzzy
+msgid "Search bar template"
+msgstr "Form seç"
+
+#: lib/modules/search/search.php:20
+#, fuzzy
+msgid "template"
+msgstr "Form seç"
+
+#: lib/modules/search/search.php:28
+#, fuzzy
+msgid "URL to page or post with form"
+msgstr "Sayfa için kısa kod:"
+
+#: lib/modules/search/search.php:32
+#, fuzzy
+msgid "Search after page loaded"
+msgstr "ePosta ayarları kaydedildi..."
+
+#: lib/modules/search/search.php:32
+msgid "Search after every change"
+msgstr ""
+
+#: lib/modules/search/search.php:36 lib/modules/styles/styles.php:40
+msgid "Exclude resources by comma separated IDs"
+msgstr ""
+
+#: lib/modules/search/search.php:40
+msgid "Display unavailable resources"
+msgstr ""
+
+#: lib/modules/search/search.php:43
+msgid "Thumbnail"
+msgstr ""
+
+#: lib/modules/search/search.php:44 lib/modules/styles/styles.php:31
+msgid "Height"
+msgstr "Yükseklik"
+
+#: lib/modules/search/search.php:47
+#, fuzzy
+msgid "Show"
+msgstr "Günleri Göster"
+
+#: lib/modules/search/search.php:48
+msgid "first characters of content"
+msgstr ""
+
+#: lib/modules/search/search.php:48
+#, fuzzy
+msgid "More link to resources page"
+msgstr "Kaynaklar"
+
+#: lib/modules/search/search.php:52
+#, php-format
+msgid "Display %s billing units in calendar with %s"
+msgstr ""
+
+#: lib/modules/search/search.php:59
+msgid "Calendar availability"
+msgstr ""
+
+#: lib/modules/search/search.php:63
+msgid "Calendar days"
+msgstr ""
+
+#: lib/modules/search/search.php:67
+msgid "Calendar hours"
+msgstr ""
+
+#: lib/modules/search/search.php:68
+msgid "Display only certain hours in calendar"
+msgstr ""
+
+#: lib/modules/search/search.php:74
+msgid "Calendar selection"
+msgstr ""
+
+#: lib/modules/search/search.php:75
+msgid "Enable selection of arrival and departure in calendar"
+msgstr ""
+
+#: lib/modules/search/search.php:76
+msgid ""
+"Days and hours not displayed are not reservable; Arrival and departure must "
+"be within the displayed datetime range."
+msgstr ""
+
+#: lib/modules/search/search.php:80
+msgid "Text for seach button"
+msgstr ""
+
+#: lib/modules/search/search.php:84
+#, fuzzy
+msgid "Text for reserve button"
+msgstr "Yeni rezervasyonlar"
+
+#: lib/modules/search/search.php:88
+#, fuzzy
+msgid "Name for resources"
+msgstr "misafirin adı"
+
+#: lib/modules/search/search.php:90
+#, fuzzy
+msgid "This shortcode adds an availability search form to the post or page"
+msgstr "Bu özel kod sayfaya takvim ekler."
+
+#: lib/modules/search/search.php:90
+msgid "You can combine it with a calendar by adding it to the same page"
+msgstr ""
+
+#: lib/modules/search/search.php:90 lib/modules/styles/styles.php:42
+#: lib/modules/styles/styles.php:101
+#, fuzzy
+msgid "Only add it once per page or post"
+msgstr "Bo formu sadece sayfa başına ekleyin"
+
+#: lib/modules/search/search.php:220 lib/widgets/form_widget.php:131
+msgid "Reserve now!"
+msgstr "Rezervasyon!"
+
+#: lib/modules/search/search.php:386
+#, fuzzy
+msgid "more"
+msgstr "veya"
+
+#: lib/modules/search/search.php:590
+#, fuzzy
+msgid "None available in this period"
+msgstr "Kullanılmayan"
+
+#: lib/modules/statistics/dashboard.statistic.php:18
+msgid "Income"
+msgstr ""
+
+#: lib/modules/statistics/dashboard.statistic.php:19
+#, fuzzy
+msgid "Source"
+msgstr "Kaynaklar"
+
+#: lib/modules/statistics/statistics.php:536
+#, fuzzy
+#| msgid "Detailed Statistics"
+msgid "Detailed statistics"
+msgstr "Ayrıntılı İstatistikler"
+
+#: lib/modules/statistics/statistics.php:541
+msgid "Total reservations"
+msgstr "Toplam Rezervasyonlar"
+
+#: lib/modules/statistics/statistics.php:545
+#, fuzzy
+#| msgid "Future approved reservations"
+msgid "Future approved"
+msgstr "Gelecek onaylı rezervasyonlar"
+
+#: lib/modules/statistics/statistics.php:549
+#, fuzzy
+#| msgid "approved"
+msgid "Past approved"
+msgstr "onaylı"
+
+#: lib/modules/statistics/statistics.php:565
+#, fuzzy
+#| msgid "Guests per reservations"
+msgid "Guests per reservation"
+msgstr "Rezervasyon başına misafir "
+
+#: lib/modules/statistics/statistics.php:569
+#, fuzzy
+#| msgid "Nights per reservations"
+msgid "Billing units per reservation"
+msgstr "Geçe başına rezervasyon"
+
+#: lib/modules/statistics/statistics.php:573
+#, fuzzy
+msgid "Paid amount of all reservations"
+msgstr "Rezervasyon gelirleri"
+
+#: lib/modules/statistics/statistics.php:577
+#, fuzzy
+msgid "Paid per reservation"
+msgstr "Yeni rezervasyonlar"
+
+#: lib/modules/statistics/statistics.php:581
+msgid "Revenue of all reservations"
+msgstr "Rezervasyon gelirleri"
+
+#: lib/modules/statistics/statistics.php:585
+msgid "Revenue of future reservations"
+msgstr "Gelecek rezervasyon gelirleri"
+
+#: lib/modules/statistics/statistics.php:589
+msgid "Revenue of past reservations"
+msgstr "Geçmiş rezervasyon gelirleri"
+
+#: lib/modules/statistics/statistics.php:597
+#: lib/modules/statistics/statistics.php:602
+msgid "Gross"
+msgstr ""
+
+#: lib/modules/statistics/statistics.php:601
+#, fuzzy
+#| msgid "Revenue per reservations"
+msgid "Revenue per reservation"
+msgstr "Rezervasyon başına gelir"
+
+#: lib/modules/statistics/statistics.php:602
+#, fuzzy
+msgid "Net"
+msgstr "Düzenle"
+
+#: lib/modules/statistics/statistics.php:614
+#, fuzzy
+msgid "Approved and reserved graph"
+msgstr "Rezervasyonu Onayla"
+
+#: lib/modules/styles/shortcodes/receipt.php:135
+msgid "Rate"
+msgstr ""
+
+#: lib/modules/styles/styles.php:24
+msgid "Slider"
+msgstr ""
+
+#: lib/modules/styles/styles.php:24
+msgid "List"
+msgstr ""
+
+#: lib/modules/styles/styles.php:36
+msgid "Display resource excerpt"
+msgstr ""
+
+#: lib/modules/styles/styles.php:42
+msgid ""
+"This shortcode adds a list or slider to select the resource. It should be "
+"used with form."
+msgstr ""
+
+#: lib/modules/styles/styles.php:55
+msgid "Extensive"
+msgstr ""
+
+#: lib/modules/styles/styles.php:55
+msgid "Condensed"
+msgstr ""
+
+#: lib/modules/styles/styles.php:62
+msgid "Base price subtotal"
+msgstr ""
+
+#: lib/modules/styles/styles.php:63
+msgid "Display base price subtotal with label"
+msgstr ""
+
+#: lib/modules/styles/styles.php:66
+msgid "Tax subtotal"
+msgstr ""
+
+#: lib/modules/styles/styles.php:67
+msgid "Display subtotal before tax with label "
+msgstr ""
+
+#: lib/modules/styles/styles.php:71
+msgid "Label for total "
+msgstr ""
+
+#: lib/modules/styles/styles.php:75
+msgid "Adults label singular"
+msgstr ""
+
+#: lib/modules/styles/styles.php:76
+msgid "Adults label plural"
+msgstr ""
+
+#: lib/modules/styles/styles.php:80
+msgid "Children receipt line label"
+msgstr ""
+
+#: lib/modules/styles/styles.php:81
+msgid "Children label singular"
+msgstr ""
+
+#: lib/modules/styles/styles.php:82
+msgid "Children label plural"
+msgstr ""
+
+#: lib/modules/styles/styles.php:85
+msgid "Summarize"
+msgstr ""
+
+#: lib/modules/styles/styles.php:86
+#, fuzzy
+#| msgid "Reservation Form"
+msgid "Reserved dates into one column"
+msgstr "Rezervasyon Formu"
+
+#: lib/modules/styles/styles.php:87 lib/modules/styles/styles.php:88
+#: lib/modules/styles/styles.php:89 lib/modules/styles/styles.php:90
+#: lib/modules/styles/styles.php:91 lib/modules/styles/styles.php:92
+#: lib/modules/styles/styles.php:93 lib/modules/styles/styles.php:94
+#: lib/modules/styles/styles.php:95 lib/modules/styles/styles.php:96
+#: lib/modules/styles/styles.php:97 lib/modules/styles/styles.php:98
+#: lib/modules/styles/styles.php:99
+#, php-format
+msgid "%s into base price"
+msgstr ""
+
+#: lib/modules/styles/styles.php:101
+msgid ""
+"This shortcode adds an receipt to extensively display the forms price "
+"calculation."
+msgstr ""
+
+#: lib/modules/styles/styles.php:154
+msgid "Resource box"
+msgstr ""
+
+#: lib/modules/styles/styles.php:155
+msgid "Receipt"
+msgstr ""
+
+#: lib/modules/styles/styles.php:216
+#, fuzzy
+msgid "Datepicker availability"
+msgstr "Kullanılmayan"
+
+#: lib/modules/styles/styles.php:221
+#, fuzzy, php-format
+msgid "Check availability for %s days"
+msgstr "Kullanılmayan"
+
+#: lib/modules/styles/styles.php:236
+#, fuzzy
+msgid "Datepicker theme"
+msgstr "Kullanılmayan"
+
+#: lib/modules/sync/ical.import.php:193 lib/modules/sync/ical.import.php:254
+#, fuzzy, php-format
+msgid "Cannot %s imported reservation"
+msgstr "Rezervasyon Ekle"
+
+#: lib/modules/sync/ical.import.php:334 lib/modules/sync/ical.import.php:339
+#: lib/modules/sync/ical.import.php:344 lib/modules/sync/ical.import.php:349
+#, php-format
+msgid "Once every %d minutes"
+msgstr ""
+
+#: lib/modules/sync/sync.php:66
+msgid ""
+"Exports the approved reservations in a live iCal format for each resource "
+"and space."
+msgstr ""
+
+#: lib/modules/sync/sync.php:67
+msgid ""
+"You can use the links to sync the resources with Google Calendar or channels "
+"like Booking.com."
+msgstr ""
+
+#: lib/modules/sync/sync.php:68
+#, php-format
+msgid ""
+"If the links below do not work please save your %spermalink%s settings once."
+msgstr ""
+
+#: lib/modules/sync/sync.php:70
+msgid "iCal export"
+msgstr ""
+
+#: lib/modules/sync/sync.php:136
+msgid "You can add .ics feeds to import from here."
+msgstr ""
+
+#: lib/modules/sync/sync.php:137
+msgid "Imported reservations cannot be changed."
+msgstr ""
+
+#: lib/modules/sync/sync.php:138
+msgid "Deleting a source will also delete all related reservations."
+msgstr ""
+
+#: lib/modules/sync/sync.php:140
+#, fuzzy
+#| msgid "Export reservations"
+msgid "Import past reservations"
+msgstr "Rezervasyonları dışarı aktar"
+
+#: lib/modules/sync/sync.php:141
+msgid "Import"
+msgstr "İçeri Aktar"
+
+#: lib/modules/sync/sync.php:150
+#, php-format
+msgid "Or setup a cronjob to %s"
+msgstr ""
+
+#: lib/modules/sync/sync.php:160
+msgid "URL to .ics feed"
+msgstr ""
+
+#: lib/modules/sync/sync.php:170
+msgid "Feed URL"
+msgstr ""
+
+#: lib/modules/sync/sync.php:178
+msgid "Are you sure? This will delete all related reservations."
+msgstr ""
+
+#: lib/modules/sync/sync.php:184
+msgid "iCal import"
+msgstr ""
+
+#: lib/modules/sync/sync.php:195
+msgid "This function will add reservations to the woocommerce cart."
+msgstr ""
+
+#: lib/modules/sync/sync.php:196
+msgid "After first activation save the settings of each resource once."
+msgstr ""
+
+#: lib/modules/sync/sync.php:197
+msgid "On"
+msgstr ""
+
+#: lib/modules/sync/sync.php:200
+msgid "WooCommerce compatibility"
+msgstr ""
+
+#: lib/modules/sync/sync.php:208
+msgid "Sync"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:71
+#, fuzzy
+msgid "Message to guest"
+msgstr "konuktan gelen mesaj"
+
+#: lib/modules/useredit/useredit.php:71
+#, fuzzy
+msgid "Message to admin or note"
+msgstr "misafir/yönetici den gelen mesaj"
+
+#: lib/modules/useredit/useredit.php:75
+msgid "Send"
+msgstr "Gönder"
+
+#: lib/modules/useredit/useredit.php:242
+#, fuzzy
+msgid "Email to guest after guest edit"
+msgstr "Yönetici düzenlemesi e-postası"
+
+#: lib/modules/useredit/useredit.php:247
+#, fuzzy
+msgid "Email to admin after guest edit"
+msgstr "Yönetici düzenlemesi e-postası"
+
+#: lib/modules/useredit/useredit.php:252
+msgid "Email to admin after guest canceled"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:262
+#, fuzzy
+msgid "Control Panel"
+msgstr "Kullanıcı kontrol paneli ayarları"
+
+#: lib/modules/useredit/useredit.php:318
+#, fuzzy
+msgid "URL of page with shortcode"
+msgstr "Sayfa için kısa kod:"
+
+#: lib/modules/useredit/useredit.php:329
+#, php-format
+msgid "Let the guest cancel his reservation till %s days before arrival"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:334
+#, fuzzy
+msgid "Text after submit"
+msgstr "özel alanlar"
+
+#: lib/modules/useredit/useredit.php:343
+msgid "Text over login area - optional"
+msgstr "Giriş alanı metini ( opsiyonel )"
+
+#: lib/modules/useredit/useredit.php:347
+msgid "Text over edit area - optional"
+msgstr "Dzüenleme alanı metini ( opsiyonel )"
+
+#: lib/modules/useredit/useredit.php:355
+msgid "Table of other reservations from the same email"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:382
+msgid "Use style for table"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:383
+msgid "Only display table if guest reserved more than once"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:410
+#, fuzzy
+msgid "Only admin"
+msgstr "Yönetici için e-posta"
+
+#: lib/modules/useredit/useredit.php:411
+#, fuzzy
+msgid "User control panel and admin"
+msgstr "Kullanıcı kontrol paneli ayarları"
+
+#: lib/modules/useredit/useredit.php:418
+msgid "Title over textarea"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:424
+#, fuzzy
+msgid "Show avatars"
+msgstr "Durumu göster"
+
+#: lib/modules/useredit/useredit.php:425
+#, fuzzy
+msgid "Show time ago"
+msgstr "Fiyat göster"
+
+#: lib/modules/useredit/useredit.php:426
+msgid "Show unanswered messages in table"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:430
+msgid "Guest avatar"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:432
+msgid "Image as avatar for guests"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:436
+msgid "Dummy"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:438
+#, fuzzy
+msgid "Show dummy"
+msgstr "Günleri Göster"
+
+#: lib/modules/useredit/useredit.php:442
+msgid "Dummy user"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:443
+msgid "User of dummy"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:446
+#, fuzzy
+msgid "Dummy message"
+msgstr "Mesajınızı yazın"
+
+#: lib/modules/useredit/useredit.php:452
+#, fuzzy
+msgid "Time to delete"
+msgstr "Seç"
+
+#: lib/modules/useredit/useredit.php:455
+msgid "Not at all"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:508 lib/shortcodes/form.php:22
+#, fuzzy
+msgid "Your reservation is complete"
+msgstr "Rezervasyonunuz başarıyla alındı"
+
+#: lib/modules/useredit/useredit.php:529 lib/modules/useredit/useredit.php:556
+#: lib/modules/useredit/useredit.php:581 lib/modules/useredit/useredit.php:628
+msgid "An error occurred, please try again"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:544
+#, fuzzy
+#| msgid "Link is only 24h valid"
+msgid "This link is only valid for 24h"
+msgstr "Bağlantı sasdece 24 saat geçerli olacak"
+
+#: lib/modules/useredit/useredit.php:635
+#, fuzzy
+#| msgid "Cancel"
+msgid "canceled"
+msgstr "Vazgeç"
+
+#: lib/modules/useredit/useredit.php:636
+msgid "Too late to cancel"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:645
+msgid "Your reservation was updated"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:724
+#, fuzzy
+msgid "Wrong email"
+msgstr "Hatalı rezervasyon ID si yada e-posta adresi"
+
+#: lib/modules/useredit/useredit.php:727
+msgid "Please contact us to edit your reservation"
+msgstr "Rezervasyonunuzu düzenlemek için bizimle irtibata geçiniz"
+
+#: lib/modules/useredit/useredit.php:736
+msgid "Pay now"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:755
+msgid "logout"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:827
+#, fuzzy
+msgid "Wrong ID or email"
+msgstr "Hatalı rezervasyon ID si yada e-posta adresi"
+
+#: lib/modules/useredit/useredit.php:863
+#, fuzzy
+msgid "Reservations are editable till"
+msgstr "Tabloda rezervasyonlar"
+
+#: lib/modules/useredit/useredit.php:864
+#, fuzzy
+msgid "days before their arrival"
+msgstr "Ayrılış tarihi geliş tarihinden önce veya oda sayısı çok fazla"
+
+#: lib/modules/useredit/useredit.php:868
+msgid "Show table with other reservations by the same email"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:872
+msgid "Show status"
+msgstr "Durumu göster"
+
+#: lib/modules/useredit/useredit.php:881
+msgid ""
+"Let your guests view and download their invoices by invoice guest template"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:888
+msgid ""
+"This shortcode adds the function for your guests to edit their reservations "
+"afterwards"
+msgstr ""
+"Bu düzenleme formu rezervasyon sahiplerinin durumlarını takip etmesine ve "
+"bazı bilgilerini değiştirmesine olanak sağlar"
+
+#: lib/modules/useredit/useredit.php:888
+msgid ""
+"You have to copy the URL of this site to the easyReservations general "
+"settings"
+msgstr " "
+
+#: lib/modules/useredit/useredit.php:888
+msgid "Only add the edit-form on one page or post"
+msgstr "Bir sayfaya sadece bir form ekleyin"
+
+#: lib/shortcodes/form.php:23
+msgid "Your reservation was sent"
+msgstr "Rezervasyonunuz başarıyla alındı"
+
+#: lib/shortcodes/form.php:24
+#, fuzzy
+msgid "Reservation was validated successfully"
+msgstr "Rezervasyon Kaynakları"
+
+#: lib/shortcodes/form.php:216
+#, fuzzy
+msgid "another reservation"
+msgstr "Rezervasyon Ekle"
+
+#: lib/shortcodes/form.php:217
+#, fuzzy
+msgid "Submit all reservations"
+msgstr "Toplam Rezervasyonlar"
+
+#: lib/widgets/form_widget.php:139
+msgid "Enter URL of a page with a real form"
+msgstr ""
+
+#: lib/widgets/form_widget.php:140
+msgid "Continue"
+msgstr ""
+
+#: lib/widgets/form_widget.php:147
+msgid ""
+"The widget is not a real form and can only be used as pre-form to populate "
+"the real form. If you want to use the form or calendar as widget there are "
+"plugins to use shortcodes in text widgets."
+msgstr ""
+
+#: lib/widgets/form_widget.php:154
+msgid "Show calendar"
+msgstr ""
+
+#: lib/widgets/form_widget.php:178
+msgid "Calendar width"
+msgstr ""
+
+#: lib/widgets/form_widget.php:186
+msgid "Widgets form template"
+msgstr ""
+
+#: lib/widgets/form_widget.php:187
+msgid "No form"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Category:"
+#~ msgstr ""
+#~ "#-#-#-#-#  29extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "#-#-#-#-#  55extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#~ msgid "You are not allowed to access this file."
+#~ msgstr "Kaç gün öncesi düzenlenebilir?"
+
+#~ msgid "choose"
+#~ msgstr "seçim yap"
+
+#, fuzzy
+#~ msgid "Select default resource"
+#~ msgstr "Oda Seçin"
+
+#, fuzzy
+#~ msgid "Resource spaces names updated"
+#~ msgstr "Kaynaklar"
+
+#, fuzzy
+#~| msgid "Select a condition"
+#~ msgid "Select a filter condition"
+#~ msgstr "Bir durum seçin"
+
+#, fuzzy
+#~ msgid "Please enter a name"
+#~ msgstr "Geçerli bir isim giriniz"
+
+#, fuzzy
+#~| msgid "%s deleted"
+#~ msgid "Slot deleted"
+#~ msgstr "%s Seç"
+
+#, fuzzy
+#~| msgid "custom fields"
+#~ msgid "custom field"
+#~ msgstr "özel alanlar"
+
+#, fuzzy
+#~ msgid "Price could not be fixed, input is not a valid money format"
+#~ msgstr "Fiyat tespit edilemedi, giriş yapın"
+
+#~ msgid "Edit reservation"
+#~ msgstr "Rezervasyon düzenle"
+
+#~ msgid "Assign user"
+#~ msgstr "Kullanıcı atama"
+
+#~ msgid "Database cleaned"
+#~ msgstr "Rezervasyonlar için veritabanı temizlendi..."
+
+#~ msgid "Unit"
+#~ msgstr "Birim"
+
+#~ msgid "Calendar Week"
+#~ msgstr "Takvim Haftası"
+
+#, fuzzy
+#~ msgid "arrival"
+#~ msgstr "Geliş Tarihi"
+
+#~ msgid "Edit filter"
+#~ msgstr "Filitre Düzenle"
+
+#, fuzzy
+#~ msgid "Delete"
+#~ msgstr "Seç"
+
+#, fuzzy
+#~ msgid "Post View"
+#~ msgstr "Görüntüle"
+
+#~ msgid "Base Price"
+#~ msgstr "Temel Fiyat"
+
+#, fuzzy
+#~ msgid "Edit resource"
+#~ msgstr "Kaynaklar"
+
+#, fuzzy
+#~ msgid "Select field for country. Optional."
+#~ msgstr "Ülke seçin"
+
+#, fuzzy
+#~ msgid "Emails"
+#~ msgstr "eposta"
+
+#, fuzzy
+#~ msgid "Adults has to be a number and at least one"
+#~ msgstr "Kişi bir sayı olması gerekir"
+
+#, fuzzy
+#~ msgid "Update easyReservations now"
+#~ msgstr "Kolay Rezervasyon"
+
+#, fuzzy
+#~ msgid "Update Modules now"
+#~ msgstr "Modül Yükle/Güncelle"
+
+#, fuzzy
+#~ msgid "Price calculation"
+#~ msgstr "fiyat hesaplama"
+
+#, fuzzy
+#~ msgid "Custom price"
+#~ msgstr "Özel fiyatlar"
+
+#, fuzzy
+#~ msgid "Used"
+#~ msgstr "Kullanıc düzenle"
+
+#~ msgid "Select reservations"
+#~ msgstr "Rezervasyon seç"
+
+#~ msgid "Price/Paid"
+#~ msgstr "Ücret/Ödenmiş"
+
+#, fuzzy
+#~ msgid "attribute"
+#~ msgstr "Filtre ekle"
+
+#, fuzzy
+#~ msgid "searchForm attributes"
+#~ msgstr "Oda Ara"
+
+#, fuzzy
+#~ msgid "Value of %s must be a number"
+#~ msgstr "Kişi bir sayı olması gerekir"
+
+#, fuzzy
+#~ msgid "Attributes"
+#~ msgstr "Filtre ekle"
+
+#, fuzzy
+#~ msgid "Post Types"
+#~ msgstr "Görüntüle"
+
+#, fuzzy
+#~ msgid "reservations"
+#~ msgstr "Rezervasyonlar"
+
+#, fuzzy
+#~ msgid "reserved"
+#~ msgstr "Rezervasyon"
+
+#~ msgid "Past approved reservations"
+#~ msgstr "Geçmiş onaylı rezervasyonlar"
+
+#~ msgid "Pending reservations"
+#~ msgstr "Bekleyen rezervasyonlar"
+
+#~ msgid "Rejected reservations"
+#~ msgstr "reddedilen Rezervasyonlar"
+
+#~ msgid "Trashed reservations"
+#~ msgstr "Silinen Rezervasyonlar"
+
+#~ msgid "edit"
+#~ msgstr "düzenle"
+
+#~ msgid "back"
+#~ msgstr "geri"
+
+#, fuzzy
+#~ msgid "Cancel reservation"
+#~ msgstr "Rezervasyon Ekle"
+
+#, fuzzy
+#~ msgid "Wrong money format in custom price"
+#~ msgstr "Wrong money biçimi"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is how the price would get calculated now. After changing filters, "
+#~ "base price or settings or the reservations price it wont match the fixed "
+#~ "price anymore."
+#~ msgstr "Yukarıdaki değerler fiyatlamamın nasıl ayapıldığını gösterir."
+
+#~ msgid "workload today"
+#~ msgstr "bugün iş yükü"
+
+#~ msgid "set price"
+#~ msgstr "yeni fiyat"
+
+#~ msgid "fix the sum of the normal calculation"
+#~ msgstr "Liste fiyatından hesapla"
+
+#, fuzzy
+#~ msgid "Please give the filter a name"
+#~ msgstr "Bir filtre adı verin"
+
+#~ msgid "Comments"
+#~ msgstr "Yorumlar"
+
+#~ msgid "check"
+#~ msgstr "kontrol"
+
+#~ msgid "Price simulator"
+#~ msgstr "Fiyat simülatörü"
+
+#, fuzzy
+#~ msgid ""
+#~ "This will add a custom post that's private and only visible in forms and "
+#~ "admin"
+#~ msgstr "Bu özel form ve sadece admin tarafından görünür olacak"
+
+#, fuzzy
+#~ msgid "round"
+#~ msgstr "Pound"
+
+#, fuzzy
+#~ msgid "Tags"
+#~ msgstr "önce"
+
+#, fuzzy
+#~| msgid "show changes after edits"
+#~ msgid "Changes after edits"
+#~ msgstr "düzenlemeler sonrası değişiklikleri gösterir"
+
+#~ msgid "Wrong file"
+#~ msgstr "Yanlış dosya"
+
+#, fuzzy
+#~ msgid "Show empty space for each resource and day (+20% load)"
+#~ msgstr "Her oda ve gün için boş göster (+20% yük)"
+
+#~ msgid "%s reservations imported"
+#~ msgstr "%s reservasyon içeri aktarıldı"
+
+#, fuzzy
+#~ msgid "Error at accessing server"
+#~ msgstr "Sunucu erişim hatası"
+
+#~ msgid "Only admins can import reservations"
+#~ msgstr "Sadece yöneticiler rezervasyon alabilir"
+
+#, fuzzy
+#~ msgid "Excel file"
+#~ msgstr "Exel Dosyası"
+
+#~ msgid "CSV File"
+#~ msgstr "CSV Dosyası"
+
+#, fuzzy
+#~ msgid "price of reservation"
+#~ msgstr "Rezervasyon ID"
+
+#~ msgid "Room"
+#~ msgstr "Oda"
+
+#~ msgid "paid"
+#~ msgstr "ödendi"
+
+#, fuzzy
+#~ msgid "After successful reservation."
+#~ msgstr "Yeni rezervasyonlar"
+
+#, fuzzy
+#~ msgid "Custom information deleted"
+#~ msgstr "özel alan silindi"
+
+#, fuzzy
+#~ msgid "Custom price deleted"
+#~ msgstr "Özel fiyat silindi"
+
+#~ msgid "Reservation approved"
+#~ msgstr "Rezervasyon onaylandı"
+
+#, fuzzy
+#~ msgid "Reservation rejected"
+#~ msgstr "Rezervasyon rededildi"
+
+#~ msgid "full"
+#~ msgstr "tam"
+
+#~ msgid "GuestContact"
+#~ msgstr "Ziyaretçi İletişim"
+
+#~ msgid "Add Reservation"
+#~ msgstr "Rezervasyon Ekle"
+
+#~ msgid "Add reservation"
+#~ msgstr "Rezervasyon Ekle"
+
+#~ msgid "Person"
+#~ msgstr "Kişi"
+
+#, fuzzy
+#~ msgid "Adult"
+#~ msgstr "Yetişkin"
+
+#~ msgid "in calendar week"
+#~ msgstr "takvim haftasında"
+
+#~ msgid "in"
+#~ msgstr "de"
+
+#~ msgid "in quarter"
+#~ msgstr "çeyrekte"
+
+#~ msgid "Reservations Resources"
+#~ msgstr "Rezervasyon Kaynakları"
+
+#~ msgid "edit "
+#~ msgstr "düzenle"
+
+#, fuzzy
+#~ msgid "copy resource settings"
+#~ msgstr "Kaynak ayarları"
+
+#, fuzzy
+#~ msgid "Price setting changed"
+#~ msgstr "İzinler değiştirildi..."
+
+#~ msgid "Day"
+#~ msgstr "Gün"
+
+#, fuzzy
+#~ msgid "Week"
+#~ msgstr "Çar"
+
+#~ msgid "Month"
+#~ msgstr "Ay"
+
+#, fuzzy
+#~ msgid "Filter by time"
+#~ msgstr "Aya göre filtreleme"
+
+#~ msgid "Quarter"
+#~ msgstr "çeyrek"
+
+#~ msgid "Year"
+#~ msgstr "Yıl"
+
+#, fuzzy
+#~ msgid "Filter by condition"
+#~ msgstr "Aya göre filtreleme"
+
+#, fuzzy
+#~ msgid "between reservation and arrival"
+#~ msgstr "Rezervasyon ve varış arasındaki günler"
+
+#, fuzzy
+#~ msgid "Add resource"
+#~ msgstr "Kaynaklar"
+
+#~ msgid "General settings saved"
+#~ msgstr "Genel ayarlar kaydedildi..."
+
+#~ msgid "Permissions changed"
+#~ msgstr "İzinler değiştirildi..."
+
+#~ msgid "Form %s has been deleted"
+#~ msgstr "%s formu silindi..."
+
+#~ msgid "Form %s has been added"
+#~ msgstr "%s formu eklendi"
+
+#~ msgid "Reservations Settings"
+#~ msgstr "Rezervasyon Ayarları"
+
+#, fuzzy
+#~ msgid "after reservations"
+#~ msgstr "Yeni rezervasyonlar"
+
+#, fuzzy
+#~ msgid "General Settings"
+#~ msgstr "ePosta ayarları"
+
+#, fuzzy
+#~ msgid "Price per billing unit"
+#~ msgstr "gecelik fiyat"
+
+#, fuzzy
+#~ msgid "Price per person"
+#~ msgstr "Kişi başına fiyat"
+
+#, fuzzy
+#~ msgid "Field with datepicker for the arrival date. Is required in any form."
+#~ msgstr "Değiştirmek istediğiniz geliş tarihini girin"
+
+#, fuzzy
+#~ msgid "display price"
+#~ msgstr "Fiyat Göster"
+
+#, fuzzy
+#~ msgid "Added custom field"
+#~ msgstr "Özel alan ekle"
+
+#, fuzzy
+#~ msgid "Custom field deleted"
+#~ msgstr "Custom price field deleted"
+
+#, fuzzy
+#~ msgid "Add and edit custom fields"
+#~ msgstr "Özel alan ekle"
+
+#~ msgid "message from admin"
+#~ msgstr "yöneticiden gelen mesaj"
+
+#, fuzzy
+#~ msgid "name of resource number"
+#~ msgstr "Oda numarası"
+
+#, fuzzy
+#~ msgid "Rate the Plugin"
+#~ msgstr "Eklentiyi geliiştirmek için yardım edim"
+
+#, fuzzy
+#~ msgid "Persons in list"
+#~ msgstr "Yanlış dosya"
+
+#~ msgid "no"
+#~ msgstr "hayır"
+
+#, fuzzy
+#~ msgid "Check"
+#~ msgstr "Kontrol"
+
+#, fuzzy
+#~ msgid "Please enter correct dates"
+#~ msgstr "Geçerli bir isim giriniz"
+
+#, fuzzy
+#~ msgid "Module %s deleted"
+#~ msgstr "%s modülü devredışı bırakıldı..."
+
+#~ msgid "Module %s installed successfully"
+#~ msgstr "%s modülü başarıyla yüklendi"
+
+#, fuzzy
+#~ msgid "htmlMails"
+#~ msgstr "Modüller"
+
+#, fuzzy
+#~ msgid "Resource Attributes Add-On"
+#~ msgstr "Kaynak ayarları"
+
+#, fuzzy
+#~ msgid "hourlyCalendar"
+#~ msgstr "Takvim"
+
+#, fuzzy
+#~ msgid "Export &amp; Import"
+#~ msgstr "İçeri Aktarma Modülü"
+
+#~ msgid "Installed"
+#~ msgstr "Yüklendi"
+
+#~ msgid "Link"
+#~ msgstr "Bağlantı"
+
+#~ msgid "easyReservation"
+#~ msgstr "Kolay Rezervasyon"
+
+#, fuzzy
+#~ msgid "active"
+#~ msgstr "Etkin"
+
+#, fuzzy
+#~ msgid "future"
+#~ msgstr "Gelecek"
+
+#~ msgid "past"
+#~ msgstr "geçmiş"
+
+#~ msgid "price"
+#~ msgstr "fiyat"
+
+#~ msgid "Reservations dashboard settings saved"
+#~ msgstr "Rezervasyon panel ayarları kaydedildi..."
+
+#~ msgid "What happen today"
+#~ msgstr "Bugün ne oldu"
+
+#, fuzzy
+#~ msgid "Reserved "
+#~ msgstr "Rezervasyon"
+
+#, fuzzy
+#~ msgid "Resource number"
+#~ msgstr "Oda numarası"
+
+#~ msgid "Custom prices"
+#~ msgstr "Özel fiyatlar"
+
+#~ msgid "Filter by month"
+#~ msgstr "Aya göre filtreleme"
+
+#, fuzzy
+#~ msgid "Filter by resource"
+#~ msgstr "Odaya göre filtreleme"
+
+#~ msgid "Choose days to show"
+#~ msgstr "Gün göstermek için seçin"
+
+#~ msgid "Bulk & Checkboxes"
+#~ msgstr "Toplu İşlem Kutusu"
+
+#, fuzzy
+#~ msgid "Add custom field"
+#~ msgstr "Özel alan ekle"
+
+#, fuzzy
+#~ msgid "Custom price %s"
+#~ msgstr "Özel fiyatlar"
+
+#, fuzzy
+#~ msgid "Loyal filter"
+#~ msgstr "Hiçbir filtre ayarı yaılmamış"
+
+#, fuzzy
+#~ msgid "Person filter"
+#~ msgstr "Yanlış dosya"
+
+#, fuzzy
+#~ msgid "Adults filter"
+#~ msgstr "Filtre ekle"
+
+#, fuzzy
+#~ msgid "Discount filter"
+#~ msgstr "Yanlış dosya"
+
+#, fuzzy
+#~ msgid "Extra charge filter"
+#~ msgstr "Filtre için bir isim girin"
+
+#, fuzzy
+#~ msgid "Price per children"
+#~ msgstr "Çocuk başına fiyat"
+
+#, fuzzy
+#~ msgid "Price filter"
+#~ msgstr "Fiyat Süzgeci"
+
+#~ msgid "Please enter the correct captcha"
+#~ msgstr "Doğrulama kodunu doğru bir şekilde giriniz"
+
+#~ msgid "Trash"
+#~ msgstr "Çöp Kutusu"
+
+#, fuzzy
+#~ msgid "Add New Resource"
+#~ msgstr "Yeni Oda Ekle"
+
+#, fuzzy
+#~ msgid "Edit Resource"
+#~ msgstr "Kaynaklar"
+
+#, fuzzy
+#~ msgid "All Resources"
+#~ msgstr "Kaynaklar"
+
+#, fuzzy
+#~ msgid "Add coupon"
+#~ msgstr "Oda Ekle"
+
+#, fuzzy
+#~ msgid "Coupon %s deleted"
+#~ msgstr "özel alan silindi"
+
+#, fuzzy
+#~ msgid "Email Settings"
+#~ msgstr "ePosta ayarları"
+
+#~ msgid "Nights"
+#~ msgstr "Gece"
+
+#, fuzzy
+#~ msgid "Resource Number"
+#~ msgstr "Oda numarası"
+
+#, fuzzy
+#~ msgid "Link to edit"
+#~ msgstr "kullanıcı düzenleme bağlantısı"
+
+#, fuzzy
+#~ msgid "Times"
+#~ msgstr "Zaman"
+
+#, fuzzy
+#~ msgid "Changlog"
+#~ msgstr "Değişiklikler"
+
+#, fuzzy
+#~ msgid "Customs"
+#~ msgstr "Özel alanlar"
+
+#, fuzzy
+#~ msgid "Invoice settings changed"
+#~ msgstr "İzinler değiştirildi..."
+
+#, fuzzy
+#~ msgid "Stripe button"
+#~ msgstr "Gönder butonu:"
+
+#, fuzzy
+#~ msgid "Credit Card settings"
+#~ msgstr "Kullanıcı-düzenleme ayarları"
+
+#, fuzzy
+#~ msgid "settings changed"
+#~ msgstr "İzinler değiştirildi..."
+
+#, fuzzy
+#~ msgid "Attribute deleted"
+#~ msgstr "Özel fiyat silindi"
+
+#, fuzzy
+#~ msgid "Select a type for the attribute"
+#~ msgstr "Gizli girdi türü seçin"
+
+#~ msgid "Save Changes"
+#~ msgstr "Değişiklikleri Kaydet"
+
+#, fuzzy
+#~ msgid "Unavailable"
+#~ msgstr "Kullanılmayan"
+
+#, fuzzy
+#~ msgid "Nothing"
+#~ msgstr "bağış"
+
+#, fuzzy
+#~ msgid "Reserve"
+#~ msgstr "Rezervasyon"
+
+#, fuzzy
+#~ msgid "User Control Panel settings saved"
+#~ msgstr "Kullanıcı kontrol paneli ayarları"
+
+#, fuzzy
+#~ msgid "User Control Panel settings"
+#~ msgstr "Kullanıcı kontrol paneli ayarları"
+
+#~ msgid "Table Settings"
+#~ msgstr "Tablo Ayarları"
+
+#~ msgid "Reservated"
+#~ msgstr "Rezervasyon"
+
+#, fuzzy
+#~ msgid "Minutes"
+#~ msgstr "Ay"
+
+#~ msgid "Please enter the correct captcha code"
+#~ msgstr "Doğrulama kodunu doğru giriniz"
+
+#, fuzzy
+#~ msgid "Reservation canceled"
+#~ msgstr "Rezervasyon Tablosu"
+
+#~ msgid "ID of your reservation"
+#~ msgstr "Rezervasyon ID"
+
+#~ msgid "Your email"
+#~ msgstr "E-posta adresiniz"
+
+#~ msgid "Type in code"
+#~ msgstr "Yandaki kodu yazın"
+
+#, fuzzy
+#~ msgid "Name for resource"
+#~ msgstr "misafirin adı"
+
+#~ msgid "e.g. Apartment"
+#~ msgstr "örneğin daire"
+
+#, fuzzy
+#~ msgid "Amount of"
+#~ msgstr "Gece Miktarı"
+
+#, fuzzy
+#~ msgid "Price per reservation"
+#~ msgstr "Rezervasyon başına fiyat"
+
+#, fuzzy
+#~ msgid "Price per"
+#~ msgstr "Gün başına fiyat"
+
+#~ msgid "email"
+#~ msgstr "eposta"
+
+#~ msgid "departure date"
+#~ msgstr "ayrılış tarihi"
+
+#, fuzzy
+#~ msgid "amount of billing units"
+#~ msgstr "Gece Miktarı"
+
+#, fuzzy
+#~ msgid "amount of adults and children"
+#~ msgstr "Gece Miktarı"
+
+#, fuzzy
+#~ msgid "amount of adults"
+#~ msgstr "Gece Miktarı"
+
+#, fuzzy
+#~ msgid "amount of children"
+#~ msgstr "Çocuk sayısı"
+
+#~ msgid "country of guest"
+#~ msgstr "misafir ülkesi"
+
+#, fuzzy
+#~ msgid "name of resource"
+#~ msgstr "misafirin adı"
+
+#~ msgid "Choose type of shortcode"
+#~ msgstr "Özelkod türünü seçin"
+
+#, fuzzy
+#~ msgid "Reservation edited."
+#~ msgstr "Rezervasyon düzenlendi!"
+
+#~ msgid "choose date"
+#~ msgstr "tarih seç"
+
+#~ msgid "View"
+#~ msgstr "Görüntüle"
+
+#~ msgid "Status & Price"
+#~ msgstr "Durum & Fiyat"
+
+#~ msgid "Fixed Price"
+#~ msgstr "Fiyat Düzenle"
+
+#~ msgid "Send mail"
+#~ msgstr "E-posta Gönder"
+
+#~ msgid "Send mail to user on edit"
+#~ msgstr "Düzenlemeyi kullancıya eposta ile gönder"
+
+#~ msgid "Fix Price"
+#~ msgstr "Fiyat Düzenle"
+
+#~ msgid "Editable"
+#~ msgstr "Düzenlenebilir"
+
+#~ msgid "Visible"
+#~ msgstr "Görünür"
+
+#~ msgid "for Guest"
+#~ msgstr "misafir için"
+
+#~ msgid "Add custom Field"
+#~ msgstr "Özel alan ekle"
+
+#, fuzzy
+#~ msgid "Add custom price field"
+#~ msgstr "Özel fiyat alanı ekle"
+
+#~ msgid "Selectable"
+#~ msgstr "Seçilebilir"
+
+#~ msgid "Add custom Price Field"
+#~ msgstr "Özel fiyat alanı ekle"
+
+#~ msgid "Approve the reservation"
+#~ msgstr "Rezervasyonu Onayla"
+
+#~ msgid "Reject the reservation"
+#~ msgstr "Rezervasyonu Reddet"
+
+#~ msgid "Send mail to guest"
+#~ msgstr "Misafire eposta gönder"
+
+#~ msgid "the reservation, write a message and press send"
+#~ msgstr ""
+#~ "ndı mesajı ve iletmek istediğiniz başka bilgiler için aşağıdaki metin "
+#~ "kutusuna mesajınızı yazıp"
+
+#, fuzzy
+#~ msgid "The Guest will recieve that message in an email"
+#~ msgstr "Send & Approeve düğmesine tıklayın"
+
+#, fuzzy
+#~ msgid "Person and Day"
+#~ msgstr "Kişi"
+
+#, fuzzy
+#~ msgid "Pers"
+#~ msgstr "Kişi"
+
+#, fuzzy
+#~ msgid "%s or more children's reserve"
+#~ msgstr "Yeni rezervasyonlar"
+
+#, fuzzy
+#~ msgid "the guest reserves %s days before his arrival"
+#~ msgstr "Ayrılış tarihi geliş tarihinden önce veya oda sayısı çok fazla"
+
+#, fuzzy
+#~ msgid "Resource deleted, but reservations couldnt"
+#~ msgstr "reddedilen Rezervasyonlar"
+
+#, fuzzy
+#~ msgid "Base price edited"
+#~ msgstr "Temel fiyat"
+
+#, fuzzy
+#~ msgid "Count of resource space edited"
+#~ msgstr "Kişi sayısı düzenlendi"
+
+#, fuzzy
+#~ msgid "Billing unit changed"
+#~ msgstr "Kullanmayın"
+
+#, fuzzy
+#~ msgid "Children's discount edited"
+#~ msgstr "Çocuk indirimi"
+
+#, fuzzy
+#~ msgid "resources condition change to"
+#~ msgstr "Kaynaklar"
+
+#, fuzzy
+#~ msgid "Base price per billing unit"
+#~ msgstr "gecelik fiyat"
+
+#, fuzzy
+#~ msgid "Children's discount per billing unit"
+#~ msgstr "Çocuk indirimi"
+
+#, fuzzy
+#~ msgid "Resources count"
+#~ msgstr "Kaynaklar"
+
+#, fuzzy
+#~ msgid "Availability by"
+#~ msgstr "Kullanılmayan"
+
+#~ msgid "Filters"
+#~ msgstr "Filtreler"
+
+#, fuzzy
+#~ msgid "Resources settings"
+#~ msgstr "Kaynak ayarları"
+
+#, fuzzy
+#~ msgid "Save"
+#~ msgstr "Cts"
+
+#, fuzzy
+#~ msgid "children's"
+#~ msgstr "Çocuk"
+
+#, fuzzy
+#~ msgid "Price per billing"
+#~ msgstr "gecelik fiyat"
+
+#, fuzzy
+#~ msgid "Price per persons"
+#~ msgstr "Kişi başına fiyat"
+
+#, fuzzy
+#~ msgid "Price per adults"
+#~ msgstr "Gün başına fiyat"
+
+#, fuzzy
+#~ msgid "Price per children's"
+#~ msgstr "Çocuk başına fiyat"
+
+#, fuzzy
+#~ msgid "Price per billing %s and persons"
+#~ msgstr "Kişi başına fiyat"
+
+#, fuzzy
+#~ msgid "Price per billing %s and adults"
+#~ msgstr "gecelik fiyat"
+
+#, fuzzy
+#~ msgid "Price per billing %s and children's"
+#~ msgstr "gecelik fiyat"
+
+#, fuzzy
+#~ msgid "Only the first condition match from high to low will be given"
+#~ msgstr ""
+#~ "Aynı türden birden fazla indirim eklerseniz ilk düşük koşul verilecektir."
+
+#, fuzzy
+#~ msgid "Resource's Title"
+#~ msgstr "Kaynaklar"
+
+#, fuzzy
+#~ msgid "Resource's Content"
+#~ msgstr "Kaynaklar"
+
+#~ msgid "Wordpress"
+#~ msgstr "Sistem"
+
+#~ msgid "Grey"
+#~ msgstr "Gri"
+
+#, fuzzy
+#~ msgid "Admin Style"
+#~ msgstr "Stil"
+
+#, fuzzy
+#~ msgid ""
+#~ "Enter emails of important guests; saperated by comma. Reservations with "
+#~ "this email will be highlighted."
+#~ msgstr ""
+#~ "Bu alan aönemli ziyaretçilerin e-posta adreslerini girin. ( Birden fazla "
+#~ "girişi virgül ile ayırın.  ) "
+
+#~ msgid "Clean Database"
+#~ msgstr "Veritabanını Temizle"
+
+#~ msgid "Clean"
+#~ msgstr "Temizle"
+
+#, fuzzy
+#~ msgid "Delete all unapproved old reservations"
+#~ msgstr "Tüm onaylanmamış eski rezervasyon sil"
+
+#~ msgid "Set"
+#~ msgstr "Düzenle"
+
+#, fuzzy
+#~ msgid "Display featured image"
+#~ msgstr "Fiyat Göster"
+
+#, fuzzy
+#~ msgid "Display content with"
+#~ msgstr "Hataları Göster"
+
+#, fuzzy
+#~ msgid "Display excerpt with"
+#~ msgstr "Fiyat Göster"
+
+#~ msgid "Children's"
+#~ msgstr "Çocuk"
+
+#, fuzzy
+#~ msgid "Resources infobox"
+#~ msgstr "Kaynaklar"
+
+#, fuzzy
+#~ msgid "Featured image"
+#~ msgstr "Kaynak eklendi..."
+
+#, fuzzy
+#~ msgid "Fix information and hide from guest"
+#~ msgstr "formda bilgileri sabitlemek ve konuklardan gizlemek için"
+
+#, fuzzy
+#~ msgid "Custom field edited"
+#~ msgstr "Özel alanlar düzenlendi"
+
+#, fuzzy
+#~ msgid "Price field"
+#~ msgstr "Fiyat Alanı"
+
+#, fuzzy
+#~ msgid "Form Element"
+#~ msgstr "Öğe"
+
+#, fuzzy
+#~ msgid "Custom Style"
+#~ msgstr "stil kullanın"
+
+#~ msgid "Blue"
+#~ msgstr "Mavi"
+
+#~ msgid "simple"
+#~ msgstr "basit"
+
+#~ msgid "modern"
+#~ msgstr "modern"
+
+#~ msgid "Select calendar style"
+#~ msgstr "Takvim stilini seçin"
+
+#~ msgid ""
+#~ "You can combine it with a form or the edit-form by add it to the same page"
+#~ msgstr "Bu takvimi form üstünede ekleyebilirsiniz."
+
+#, fuzzy
+#~ msgid "Please enter a correct email"
+#~ msgstr "geçerli bir e-posta adresi giriniz"
+
+#~ msgid "The arrival date was edited"
+#~ msgstr "Geliş tarihi düzenlendi"
+
+#~ msgid "The departure date was edited"
+#~ msgstr "Ayrılış tarihi düzenlendi"
+
+#~ msgid "The name was edited"
+#~ msgstr "İsim düzenlendi"
+
+#~ msgid "The email was edited"
+#~ msgstr "E-posta düzenlendi"
+
+#, fuzzy
+#~ msgid "The amount of adults was edited"
+#~ msgstr "Çocuk sayısı düzenlendi"
+
+#, fuzzy
+#~ msgid "The amount of children was edited"
+#~ msgstr "Çocuk sayısı düzenlendi"
+
+#~ msgid "The country was edited"
+#~ msgstr "Ülke düzenlendi"
+
+#, fuzzy
+#~ msgid "The resource was edited"
+#~ msgstr "Oda düzenlendi"
+
+#, fuzzy
+#~ msgid "Custom fields got edited"
+#~ msgstr "Özel alanlar düzenlendi"
+
+#, fuzzy
+#~ msgid "searchForm"
+#~ msgstr "Oda Ara"
+
+#, fuzzy
+#~ msgid "Styles"
+#~ msgstr "Stil"
+
+#, fuzzy
+#~ msgid "extentedCalendar"
+#~ msgstr "Takvim"
+
+#, fuzzy
+#~ msgid "Install or Update Module manually"
+#~ msgstr "Modül Yükle/Güncelle"
+
+#, fuzzy
+#~ msgid "Stay filter"
+#~ msgstr "Filitre Düzenle"
+
+#, fuzzy
+#~ msgid "Chrildren's filter"
+#~ msgstr "Çocuk"
+
+#, fuzzy
+#~ msgid "Mail to guest after new reservation"
+#~ msgstr "Yeni rezervasyon için e-posta gönderimi"
+
+#, fuzzy
+#~ msgid "Mail to guest after approval"
+#~ msgstr "Misafir için e-posta"
+
+#, fuzzy
+#~ msgid "Mail to guest after rejection"
+#~ msgstr "Misafir için e-posta"
+
+#~ msgid "Mail"
+#~ msgstr "eposta"
+
+#, fuzzy
+#~ msgid "easyReservations Premium"
+#~ msgstr "Kolay Rezervasyon"
+
+#~ msgid "prev"
+#~ msgstr "önceki"
+
+#~ msgid "next"
+#~ msgstr "ileri"
+
+#, fuzzy
+#~ msgid "View all statuses"
+#~ msgstr "Tüm Teklifleri Göster"
+
+#, fuzzy
+#~ msgid "Show all monthes"
+#~ msgstr "Odaları Göster"
+
+#, fuzzy
+#~ msgid "Choose type of email"
+#~ msgstr "Özelkod türünü seçin"
+
+#, fuzzy
+#~ msgid "Subj"
+#~ msgstr "Konu"
+
+#, fuzzy
+#~ msgid "Activate email"
+#~ msgstr "Etkin"
+
+#, fuzzy
+#~ msgid "Times of stay"
+#~ msgstr "Zaman"
+
+#~ msgid "Childrens"
+#~ msgstr "Çocuk"
+
+#~ msgid "Backup (XML)"
+#~ msgstr "Yedek (XML)"
+
+#, fuzzy
+#~ msgid "Invoice Settings"
+#~ msgstr "İzinler değiştirildi..."
+
+#, fuzzy
+#~ msgid "Credit Cards settings changed"
+#~ msgstr "İzinler değiştirildi..."
+
+#, fuzzy
+#~ msgid "Automatically approval"
+#~ msgstr "Rezervasyon kabul e-postası"
+
+#, fuzzy
+#~ msgid "Mail to admin after payment"
+#~ msgstr "Yönetici için e-posta"
+
+#, fuzzy
+#~ msgid "Mail to guest after payment"
+#~ msgstr "Yönetici için e-posta"
+
+#, fuzzy
+#~ msgid "Attribute edited"
+#~ msgstr "Özel alanlar düzenlendi"
+
+#, fuzzy
+#~ msgid "Show %s days in calendar with %s"
+#~ msgstr "Takvimde fiyat göster"
+
+#, fuzzy
+#~ msgid "Free space count"
+#~ msgstr "Kaynaklar"
+
+#, fuzzy
+#~ msgid "You can combine it with a calendar by add it to the same page"
+#~ msgstr "Bu takvimi form üstünede ekleyebilirsiniz."
+
+#, fuzzy
+#~ msgid "searchForm bar"
+#~ msgstr "Oda Ara"
+
+#, fuzzy
+#~ msgid "Search form settings saved"
+#~ msgstr "ePosta ayarları kaydedildi..."
+
+#, fuzzy
+#~ msgid "arrival only %s"
+#~ msgstr "Geliş Tarihi"
+
+#, fuzzy
+#~ msgid "departure only %s"
+#~ msgstr "Ayrılış Tarihi"
+
+#~ msgid "Reservations Statistics"
+#~ msgstr "Rezervasyon İstatistikleri"
+
+#, fuzzy
+#~ msgid "Inactive"
+#~ msgstr "Etkin"
+
+#, fuzzy
+#~ msgid "New"
+#~ msgstr "Düzenle"
+
+#, fuzzy
+#~ msgid "Mail to admin after guest canceled"
+#~ msgstr "Yönetici düzenlemesi e-postası"
+
+#, fuzzy
+#~ msgid "Guest contact settings"
+#~ msgstr "Ziyaretçi İletişim"
+
+#~ msgid "Your Reservation was edited"
+#~ msgstr "rezervasyonunuz düzenlendi."
+
+#~ msgid "The arrival date"
+#~ msgstr "Geliş tarihi"
+
+#~ msgid "The departure date"
+#~ msgstr "Ayrılış tarihi"
+
+#, fuzzy
+#~ msgid "Amount of persons"
+#~ msgstr "Kişi Sayısı"
+
+#, fuzzy
+#~ msgid "Amount of children"
+#~ msgstr "Çocuk sayısı"
+
+#, fuzzy
+#~ msgid "Select your country"
+#~ msgstr "Ülke seçin"
+
+#~ msgid "Choose the"
+#~ msgstr "Seçin"
+
+#~ msgid "Type in information"
+#~ msgstr "Bilgilerinizi yazın"
+
+#, fuzzy
+#~ msgid "Extra service"
+#~ msgstr "Hizmet bedeli"
+
+#, fuzzy
+#~ msgid "Discount Code"
+#~ msgstr "İndirim"
+
+#~ msgid "type in URL to a form"
+#~ msgstr "Form adresini yazın"
+
+#~ msgid "Title:"
+#~ msgstr "Başlık:"
+
+#~ msgid "Show calendar:"
+#~ msgstr "Takvimi göster:"
+
+#~ msgid "Calendar style:"
+#~ msgstr "Takvim stili:"
+
+#~ msgid "Calendar width:"
+#~ msgstr "Takvim genişliği:"
+
+#~ msgid "Show price in calendar:"
+#~ msgstr "Takvimde fiyat göster:"
+
+#, fuzzy
+#~ msgid "Widgets form template:"
+#~ msgstr "Form seç"
+
+#~ msgid "Form URL:"
+#~ msgstr "Form URL:"
+
+#~ msgid "Submit button:"
+#~ msgstr "Gönder butonu:"
+
+#~ msgid "Latest News"
+#~ msgstr "Son Haberler"
+
+#, fuzzy
+#~ msgid "The amount of persons was edited"
+#~ msgstr "Kişi sayısı düzenlendi"
+
+#, fuzzy
+#~ msgid "The resource got changed"
+#~ msgstr "Oda düzenlendi"
+
+#~ msgid "The message was edited"
+#~ msgstr "Mesaj düzenlendi"
+
+#, fuzzy
+#~ msgid "Prices  got edited"
+#~ msgstr "Özel alanlar düzenlendi"
+
+#~ msgid "Childs"
+#~ msgstr "Çocuk"
+
+#~ msgid "Informations"
+#~ msgstr "Bilgiler"
+
+#, fuzzy
+#~ msgid "Admin"
+#~ msgstr "Stil"
+
+#, fuzzy
+#~ msgid "Guest"
+#~ msgstr "misafir için"
+
+#, fuzzy
+#~ msgid "installed stream module"
+#~ msgstr "Modül Yükle/Güncelle"
+
+#, fuzzy
+#~ msgid "added reservation"
+#~ msgstr "Rezervasyon Ekle"
+
+#~ msgid "Days"
+#~ msgstr "Gün"
+
+#, fuzzy
+#~ msgid "hours"
+#~ msgstr "Formlar"
+
+#~ msgid "Departure Date"
+#~ msgstr "Ayrılış Tarihi"
+
+#~ msgid "Adult's"
+#~ msgstr "Yetişkin"
+
+#~ msgid "Price per Person"
+#~ msgstr "Kişi başına fiyat"
+
+#, fuzzy
+#~ msgid "Price per Child"
+#~ msgstr "Çocuk başına fiyat"
+
+#~ msgid "Radio"
+#~ msgstr "Radyo Düğmesi"
+
+#, fuzzy
+#~ msgid "Don't display price "
+#~ msgstr "Fiyat Göster"
+
+#, fuzzy
+#~ msgid "amount of %s from date of reservation"
+#~ msgstr "Yeni rezervasyon için e-posta gönderimi"
+
+#, fuzzy
+#~ msgid "amount of childs"
+#~ msgstr "Çocuk sayısı"
+
+#, fuzzy
+#~ msgid "price fields"
+#~ msgstr "Fiyat Alanı"
+
+#~ msgid "The room was edited"
+#~ msgstr "Oda düzenlendi"
+
+#, fuzzy
+#~ msgid "Text field to enter coupon codes."
+#~ msgstr "tarih seçici ile varış günü"
+
+#~ msgid "Select default room"
+#~ msgstr "Varsayılan oda seç"
+
+#, fuzzy
+#~ msgid "Price fields"
+#~ msgstr "Fiyat Alanı"
+
+#, fuzzy
+#~ msgid "Stripe settings changed"
+#~ msgstr "İzinler değiştirildi..."
+
+#, fuzzy
+#~ msgid "Stripe settings"
+#~ msgstr "Ayarlar"
+
+#, fuzzy
+#~ msgid "Modus"
+#~ msgstr "Modüller"
+
+#, fuzzy
+#~ msgid "Automatical Approval"
+#~ msgstr "Rezervasyon kabul e-postası"
+
+#, fuzzy
+#~ msgid "PayPal settings changed"
+#~ msgstr "ePosta ayarları kaydedildi..."
+
+#, fuzzy
+#~ msgid "Authorize.Net settings changed"
+#~ msgstr "İzinler değiştirildi..."
+
+#, fuzzy
+#~ msgid "2checkout settings changed"
+#~ msgstr "İzinler değiştirildi..."
+
+#, fuzzy
+#~ msgid "Google Wallet settings changed"
+#~ msgstr "ePosta ayarları kaydedildi..."
+
+#, fuzzy
+#~ msgid "Ogone settings changed"
+#~ msgstr "İzinler değiştirildi..."
+
+#, fuzzy
+#~ msgid "PayPal settings"
+#~ msgstr "ePosta ayarları"
+
+#, fuzzy
+#~ msgid "Transaction Key"
+#~ msgstr "Sil"
+
+#, fuzzy
+#~ msgid "Authorize.Net settings"
+#~ msgstr "Kaynak ayarları"
+
+#, fuzzy
+#~ msgid "2checkout settings"
+#~ msgstr "Kaynak ayarları"
+
+#, fuzzy
+#~ msgid "Google Wallet settings"
+#~ msgstr "ePosta ayarları"
+
+#, fuzzy
+#~ msgid "DIBS settings"
+#~ msgstr "Ayarlar"
+
+#, fuzzy
+#~ msgid "Ogone settings"
+#~ msgstr "Kaynak ayarları"
+
+#, fuzzy
+#~ msgid "Deactive"
+#~ msgstr "Devredışı"
+
+#~ msgid "Default room:"
+#~ msgstr "Varsayılan oda:"
+
+#, fuzzy
+#~ msgid "Resource interval edited"
+#~ msgstr "Kaynak silindi..."
+
+#~ msgid "Enter a date"
+#~ msgstr "Beir tarih girin"
+
+#~ msgid "else"
+#~ msgstr "diğer"
+
+#, fuzzy
+#~ msgid "Conditional"
+#~ msgstr "Durum"
+
+#, fuzzy
+#~ msgid "Time reservations"
+#~ msgstr "Yeni rezervasyonlar"
+
+#, fuzzy
+#~ msgid "Enable time for reservations "
+#~ msgstr "Rezervasyon için e-posta"
+
+#~ msgid "Add Field"
+#~ msgstr "Alan Ekle"
+
+#~ msgid "Arrival Date"
+#~ msgstr "Geliş Tarihi"
+
+#, fuzzy
+#~ msgid "Hidden field"
+#~ msgstr "Gizli alanlar"
+
+#~ msgid "Submit Button"
+#~ msgstr "Gönder Butonu"
+
+#~ msgid "Reset Form"
+#~ msgstr "Formu Sıfırla"
+
+#~ msgid "Include to Page or Post with"
+#~ msgstr "Sayfa için kısa kod:"
+
+#, fuzzy
+#~ msgid "Tag"
+#~ msgstr "önce"
+
+#, fuzzy
+#~ msgid "Select from 00-23"
+#~ msgstr "Form seç"
+
+#, fuzzy
+#~ msgid "Select from 00-59"
+#~ msgstr "Form seç"
+
+#, fuzzy
+#~ msgid "Select of definable numbers"
+#~ msgstr "Varsayılan oda seç"
+
+#, fuzzy
+#~ msgid "Price Field"
+#~ msgstr "Fiyat Alanı"
+
+#, fuzzy
+#~ msgid "Show selected resources informations flexible"
+#~ msgstr "Seçilen oda bu tarihte dolu"
+
+#, fuzzy
+#~ msgid "Box with live price calculation"
+#~ msgstr "fiyat hesaplama"
+
+#~ msgid "No"
+#~ msgstr "Hayır"
+
+#~ msgid "Tag in Form"
+#~ msgstr "Form Etiketi"
+
+#~ msgid "or"
+#~ msgstr "veya"
+
+#~ msgid "Dont use"
+#~ msgstr "Kullanmayın"
+
+#~ msgid "in the same Form"
+#~ msgstr "aynı form içinde"
+
+#~ msgid "This form is not valid"
+#~ msgstr "Bu form geçerli değil"
+
+#~ msgid "This form is valid"
+#~ msgstr "Bu form geçerlidir"
+
+#~ msgid "Select type of Input you want to add"
+#~ msgstr "Eklemek istediğiniz giriş tipini seçin"
+
+#~ msgid "Select Type of custom price field"
+#~ msgstr "Özel fiyat alanı tipi seçiniz"
+
+#~ msgid "Add a dropdown select field with effect on the price to the form"
+#~ msgstr "Forma açılır seçim kutusu seçimlii fiyat ekle"
+
+#~ msgid "Add a radio select field with effect on the price to the form"
+#~ msgstr "Forma radyo düğmesi seçimli fiyat ekle"
+
+#~ msgid "Add a checkbox input with effect on the price to the form"
+#~ msgstr "Formda seçim kutusu seçimli fiyat ekle"
+
+#~ msgid "Type in value of submit button"
+#~ msgstr "Gönder butonu değer türü"
+
+#~ msgid "Select type of hidden input"
+#~ msgstr "Gizli girdi türü seçin"
+
+#, fuzzy
+#~ msgid ""
+#~ "Fix a resource to the form; dont use it with [resources] in the same form"
+#~ msgstr ""
+#~ "Formu kontrol et; Aynı and abirden fazla [rooms] etiketi kullanamazsınız"
+
+#~ msgid ""
+#~ "Fix an arrival date to the form; dont use it with [date-from] in the same "
+#~ "form"
+#~ msgstr ""
+#~ "Formu kontrol et; Aynı and abirden fazla [date-form] etiketi "
+#~ "kullanamazsınız"
+
+#~ msgid ""
+#~ "Fix a departure date to the form; dont use it with [date-to] in the same "
+#~ "form"
+#~ msgstr ""
+#~ "Formu kontrol et; Aynı and abirden fazla [date-to] etiketi kullanamazsınız"
+
+#, fuzzy
+#~ msgid ""
+#~ "Fix billing units to the form; dont use it with [date-to] or [units] in "
+#~ "the same form"
+#~ msgstr ""
+#~ "Formu kontrol et; Aynı and abirden fazla [date-to] etiketi kullanamazsınız"
+
+#, fuzzy
+#~ msgid ""
+#~ "Fix an amount of adults to the form; dont use it with [adults] in the "
+#~ "same form"
+#~ msgstr ""
+#~ "Formu kontrol et; Aynı and abirden fazla [adults] etiketi kullanamazsınız"
+
+#~ msgid ""
+#~ "Fix an amount of childrens to the form; dont use it with [childs] in the "
+#~ "same form"
+#~ msgstr ""
+#~ "Formu kontrol et; Aynı and abirden fazla [childs] etiketi kullanamazsınız"
+
+#~ msgid "Type in a name for the"
+#~ msgstr "Tür için bir isim yazın"
+
+#~ msgid "input you want to add"
+#~ msgstr "eklemek istediğiniz giriş"
+
+#~ msgid "Type in a Name for the Checkbox"
+#~ msgstr "Onay kutusu için bir ismi yazın"
+
+#~ msgid "Type in a value for the checkbox"
+#~ msgstr "Type in a value for the checkbox"
+
+#~ msgid "The value has to match "
+#~ msgstr "Bu değer eşleşecek"
+
+#~ msgid "Fill in the date of the departure date you want to fix"
+#~ msgstr "Değiştirmek istediğiniz ayrılış tarihini girin"
+
+#, fuzzy
+#~ msgid "Select the amount of billing units you want to fix"
+#~ msgstr "Eklemek istediğiniz giriş tipini seçin"
+
+#~ msgid "price per person"
+#~ msgstr "kişi başı fiyat"
+
+#~ msgid "price per night"
+#~ msgstr "gecelik fiyat"
+
+#~ msgid "show price"
+#~ msgstr "fiyatı göster"
+
+#~ msgid "Show all Dates"
+#~ msgstr "Tüm Günler Döster"
+
+#, fuzzy
+#~ msgid "Automatically approvement"
+#~ msgstr "Rezervasyon kabul e-postası"
+
+#~ msgid "Edit form:"
+#~ msgstr "Form düzenle:"
+
+#~ msgid "Give your filter a name"
+#~ msgstr "Bir filtre adı verin"
+
+#~ msgid "Mail to guest"
+#~ msgstr "Misafir için e-posta"
+
+#, fuzzy
+#~ msgid "Mail on new reservation"
+#~ msgstr "Yeni rezervasyon için e-posta gönderimi"
+
+#~ msgid "Mail to admin"
+#~ msgstr "Yönetici için e-posta"
+
+#, fuzzy
+#~ msgid "Mail on approvement"
+#~ msgstr "Rezervasyon kabul e-postası"
+
+#, fuzzy
+#~ msgid "Mail on rejection"
+#~ msgstr "Rezervasyon reddi e-postası"
+
+#, fuzzy
+#~ msgid "Mails on editing of admin"
+#~ msgstr "Yönetici için e-posta"
+
+#~ msgid "Donate"
+#~ msgstr "Bağış"
+
+#, fuzzy
+#~ msgid "Invoice Module"
+#~ msgstr "İçeri Aktarma Modülü"
+
+#, fuzzy
+#~ msgid "Payment Module"
+#~ msgstr "Modüller"
+
+#, fuzzy
+#~ msgid "searchForm Module"
+#~ msgstr "Oda Ara"
+
+#, fuzzy
+#~ msgid "hourlyCalendar Module"
+#~ msgstr "Takvim stili:"
+
+#, fuzzy
+#~ msgid "User Control Panel Module"
+#~ msgstr "Kullanıcı kontrol paneli ayarları"
+
+#, fuzzy
+#~ msgid "Statistics Module"
+#~ msgstr "İstatistik"
+
+#, fuzzy
+#~ msgid "Stream Module"
+#~ msgstr "Oda Ara"
+
+#, fuzzy
+#~ msgid "Coupon Module"
+#~ msgstr "İçeri Aktarma Modülü"
+
+#, fuzzy
+#~ msgid "New Update is available:"
+#~ msgstr "kaynak kullanılamıyor"
+
+#, fuzzy
+#~ msgid "Mails on editing from guest"
+#~ msgstr "Misafir için e-posta"
+
+#, fuzzy
+#~ msgid "Mails on cancellation from guest"
+#~ msgstr "Yeni rezervasyon için e-posta gönderimi"
+
+#~ msgid "eMail"
+#~ msgstr "ePosta"
+
+#, fuzzy
+#~ msgid "Count of resource"
+#~ msgstr "misafirin adı"
+
+#, fuzzy
+#~ msgid "Per person"
+#~ msgstr "Kişi başına"
+
+#~ msgid "Child discount"
+#~ msgstr "Çocuk indirimi"
+
+#~ msgid "Monthes"
+#~ msgstr "Ay"
+
+#~ msgid "eMails"
+#~ msgstr "ePosta"
+
+#~ msgid "Reservation settings"
+#~ msgstr "Rezervasyon ayarları"
+
+#~ msgid "Currency sign"
+#~ msgstr "Parabirimi Simgesi"
+
+#~ msgid "Custom Field"
+#~ msgstr "Özel Alan"
+
+#~ msgid "Hidden Field"
+#~ msgstr "Gizli Alan"
+
+#~ msgid "Standard Sendmail"
+#~ msgstr "Standart e-posta gönderimi"
+
+#~ msgid "link to user edit"
+#~ msgstr "kullanıcı düzenleme bağlantısı"
+
+#~ msgid "Formular"
+#~ msgstr "Form"
+
+#~ msgid "Min width"
+#~ msgstr "Min genişlik"
+
+#, fuzzy
+#~ msgid "Guest Editing Module"
+#~ msgstr "Ziyaretçi İletişim"
+
+#, fuzzy
+#~ msgid "Show welcome message"
+#~ msgstr "Fiyat göster"
+
+#, fuzzy
+#~ msgid "Admin mail to guest"
+#~ msgstr "Misafire eposta gönder"
+
+#, fuzzy
+#~ msgid "Mail after user-edit to admin"
+#~ msgstr "Kullanıcı düzenlemesi e-postası"
+
+#, fuzzy
+#~ msgid "Mail after user-edit to guest"
+#~ msgstr "Kullanıcı düzenlemesi e-postası"
+
+#, fuzzy
+#~ msgid "Mail after payment to admin"
+#~ msgstr "Yönetici için e-posta"
+
+#, fuzzy
+#~ msgid "Mail after payment to guest"
+#~ msgstr "Yönetici için e-posta"
+
+#, fuzzy
+#~ msgid "Show month"
+#~ msgstr "Odaları Göster"
+
+#, fuzzy
+#~ msgid "Cancel Url"
+#~ msgstr "Vazgeç"
+
+#, fuzzy
+#~ msgid "Insert URL"
+#~ msgstr "Ekle"
+
+#, fuzzy
+#~ msgid "Search custom post type"
+#~ msgstr "Özel Sayfa Türü"
+
+#~ msgid ""
+#~ "To let users edit their reservations on your site add a page or post with "
+#~ "the shortcode"
+#~ msgstr ""
+#~ "Kullanıcıların sitenizde rezervasyonlarını düzenlemesine izin vermek için "
+#~ "bir sayfaya kısa bir kod ekleyin."
+
+#~ msgid "Other"
+#~ msgstr "Diğer"
+
+#~ msgid "use style"
+#~ msgstr "stil kullanın"
+
+#~ msgid "only show for guest with >1 reservations"
+#~ msgstr "Sadece misafir için göster >1 rezervasyon"
+
+#, fuzzy
+#~ msgid "Name for Resource"
+#~ msgstr "misafirin adı"
+
+#, fuzzy
+#~ msgid "Useredit"
+#~ msgstr "düzenle"
+
+#, fuzzy
+#~ msgid "Start"
+#~ msgstr "Cts"
+
+#, fuzzy
+#~ msgid "Groundprice"
+#~ msgstr "Kaynaklar"
+
+#~ msgid "view post"
+#~ msgstr "sayfa görüntüle"
+
+#, fuzzy
+#~ msgid "Verification message"
+#~ msgstr "Mesajınızı yazın"
+
+#, fuzzy
+#~ msgid "Message after successfully submit"
+#~ msgstr "eMail başarıyla gönderildi"
+
+#~ msgid "This shortcode adds a form to the Page or Post"
+#~ msgstr "Bu özelkod sayfaya rezervasyon formu ekler"
+
+#, fuzzy
+#~ msgid "PayPal"
+#~ msgstr "Modüller"
+
+#~ msgid "The amount of persons"
+#~ msgstr "Kişi sayısı"
+
+#, fuzzy
+#~ msgid "Departure before arrival or roomcount too high"
+#~ msgstr "Ayrılış tarihi geliş tarihinden önce veya oda sayısı çok fazla"
+
+#, fuzzy
+#~ msgid "Resource number was too high"
+#~ msgstr "Oda sayısı çok yüksek oldu"
+
+#~ msgid "Please fill out all Fields"
+#~ msgstr "Lütfen, tüm alanlar doldurunuz..."
+
+#~ msgid "Exactly room is above roomcount"
+#~ msgstr "Tam oda oda sayısı üzerindedir"
+
+#~ msgid "URL to edit page"
+#~ msgstr "Düzenleme sayfası URL"
+
+#, fuzzy
+#~ msgid "Support forums"
+#~ msgstr "Destek"
+
+#~ msgid "Shortcodes"
+#~ msgstr "Kısakod"
+
+#~ msgid "Upcoming Reservations"
+#~ msgstr "Yaklaşan Rezervasyonlar"
+
+#~ msgid "Left"
+#~ msgstr "Kalan"
+
+#~ msgid "Name for Room"
+#~ msgstr "Oda için İsim"
+
+#~ msgid "Import reservations from .XML backup files."
+#~ msgstr ""
+#~ "XML olarak yedeklenmiş rezervasyon dosyalarının içeri aktarımı için "
+#~ "kullanılacak."
+
+#, fuzzy
+#~ msgid "free"
+#~ msgstr "gelecek"
+
+#~ msgid "unpaid"
+#~ msgstr "ödenmedi"
+
+#, fuzzy
+#~ msgid "Times  "
+#~ msgstr "Zaman"
+
+#~ msgid "View all Rooms"
+#~ msgstr "Tüm Odaları Göster"
+
+#~ msgid "Wrong Price/Filter"
+#~ msgstr "Yanlış Fiyat/Filtre"
+
+#~ msgid "Wrong Identification"
+#~ msgstr "Yanlış Kimlik"
+
+#, fuzzy
+#~ msgid "The departure date has to be in future"
+#~ msgstr "Ayrılış tarihi gelecekte olmak zorundadır"
+
+#, fuzzy
+#~ msgid "Coupon deleted"
+#~ msgstr "Kaynak silindi..."
+
+#~ msgid "none"
+#~ msgstr "yok"
+
+#, fuzzy
+#~ msgid "Left rooms"
+#~ msgstr "Varsayılan oda:"
+
+#~ msgid "Note"
+#~ msgstr "Not"
+
+#~ msgid "Overview effects"
+#~ msgstr "Genel Bakış Efektleri"
+
+#~ msgid "Show Days"
+#~ msgstr "Günleri Göster"
+
+#~ msgid "base Price"
+#~ msgstr "baz fiyat"
+
+#~ msgid "Price for  persons"
+#~ msgstr "Kişi başı fiyat"
+
+#~ msgid "Reservation custom price"
+#~ msgstr "Rezervasyon özel fiyatı"
+
+#, fuzzy
+#~ msgid "Units"
+#~ msgstr "Birim"
+
+#~ msgid "Your arrival date is past"
+#~ msgstr "Geliş tarihi geçmiş"
+
+#, fuzzy
+#~ msgid "Units  "
+#~ msgstr "Birim"
+
+#, fuzzy
+#~ msgid "Number of resources"
+#~ msgstr "oda seçin"
+
+#~ msgid "Reservation support mail"
+#~ msgstr "Rezervasyon destek e-posta adresi"
+
+#, fuzzy
+#~ msgid "Reservation Interval"
+#~ msgstr "Tabloda rezervasyonlar"
+
+#~ msgid "Links"
+#~ msgstr "Bağlantılar"
+
+#~ msgid "Suggest Ideas"
+#~ msgstr "Fikir Belirt"
+
+#~ msgid "Wordpress Repository"
+#~ msgstr "Wp Deposu"
+
+#~ msgid "Reservation Overview"
+#~ msgstr "Rezervasyon Genel Bakış"
+
+#~ msgid "Rooms"
+#~ msgstr "Oda"
+
+#~ msgid "Offers"
+#~ msgstr "Teklifler"
+
+#~ msgid "Form shortcode"
+#~ msgstr "Form kısakodu"
+
+#~ msgid "Custom and price fields"
+#~ msgstr "Özel ve fiyat alanları"
+
+#~ msgid ""
+#~ "Under Settings -> eMails you can view and change the value of the mails."
+#~ msgstr ""
+#~ "Ayarlar Altında -> E-postaları görüntüleyebilir ve değiştirebilirsiniz."
+
+#~ msgid "Valid Tags"
+#~ msgstr "Geçerli Etiketler"
+
+#~ msgid "Valid in all emails"
+#~ msgstr "Tüm e-postalar geçerli"
+
+#~ msgid "The <code>[adminmessage]</code> "
+#~ msgstr "<code>[adminmessage]</code> "
+
+#~ msgid "Widget"
+#~ msgstr "Widget"
+
+#~ msgid "Calendar and Form Widget"
+#~ msgstr "Takvim ve Form Bileşenler"
+
+#~ msgid "You can"
+#~ msgstr "Sen yapabilirsin"
+
+#~ msgid "report bugs"
+#~ msgstr "hata raporları"
+
+#~ msgid "make a suggestion"
+#~ msgstr "öneri yap"
+
+#~ msgid "Even"
+#~ msgstr "Dengeli"
+
+#~ msgid "donating"
+#~ msgstr "bağış"
+
+#~ msgid "For more information"
+#~ msgstr "Daha fazla bilgi için"
+
+#~ msgid "Show Rooms"
+#~ msgstr "Odaları Göster"
+
+#, fuzzy
+#~ msgid "Roomnumber"
+#~ msgstr "Oda numarası"
+
+#~ msgid "trash & delete"
+#~ msgstr "Çöp Kutusu & Sil"
+
+#~ msgid "Room count set"
+#~ msgstr "Oda sayısı ayarla"
+
+#~ msgid "per Room"
+#~ msgstr "Oda başına"
+
+#~ msgid "Offer-box informations"
+#~ msgstr "teklif kutusu bilgileri"
+
+#~ msgid "Change price at"
+#~ msgstr "Fiyat değiştir"
+
+#~ msgid "Change price between"
+#~ msgstr "Fiyat değiştir"
+
+#~ msgid "select nothing to change price/availability for entire calendar week"
+#~ msgstr "Fiyat değiştirmek istediğiniz günü seçin"
+
+#~ msgid "select nothing to change price/availability for entire month"
+#~ msgstr "Tüm haftalar için fiyat değiştirmek istediğiniz haftaları seçin"
+
+#~ msgid "select nothing to change price/availability for entire quarter"
+#~ msgstr "Fiyat değiştirmek istediğiniz ayı seçin"
+
+#~ msgid "This will add a post to the"
+#~ msgstr "Bu bir yazı ekleyecektir"
+
+#~ msgid "Select currency"
+#~ msgstr "Para birimi seçin"
+
+#~ msgid "Euro"
+#~ msgstr "Euro"
+
+#~ msgid "Dollar"
+#~ msgstr "Dolar"
+
+#~ msgid "Yen"
+#~ msgstr "Yen"
+
+#~ msgid "Cent"
+#~ msgstr "Sent"
+
+#~ msgid "Florin"
+#~ msgstr "Florin"
+
+#~ msgid "Hongkong Dollar"
+#~ msgstr "Hongkong Doları"
+
+#~ msgid "Tenge"
+#~ msgstr "Tenge"
+
+#~ msgid "Laos Kip"
+#~ msgstr "Laos Kip"
+
+#~ msgid "Guarani "
+#~ msgstr "Guarani "
+
+#~ msgid "Hungary Forint"
+#~ msgstr "Hungary Forint"
+
+#~ msgid "Uruguay Peso"
+#~ msgstr "Uruguay Peso"
+
+#~ msgid "Indian Rupee"
+#~ msgstr "Indian Rupee"
+
+#~ msgid "Indian Rupee 2nd"
+#~ msgstr "Indian Rupee 2nd"
+
+#~ msgid "Bengali Rupee"
+#~ msgstr "Bengali Rupee"
+
+#~ msgid "Gujarati  Rupee"
+#~ msgstr "Gujarati  Rupee"
+
+#~ msgid "Tamil Rupee"
+#~ msgstr "Tamil Rupee"
+
+#~ msgid "Thai Baht"
+#~ msgstr "Thai Baht"
+
+#~ msgid "Khmer Riel"
+#~ msgstr "Khmer Riel"
+
+#~ msgid "Belize Dollar"
+#~ msgstr "Belize Dollar"
+
+#~ msgid "Bolivia Boliviano"
+#~ msgstr "Bolivia Boliviano"
+
+#~ msgid "Bosnia and Herzegovina Marka"
+#~ msgstr "Bosnia and Herzegovina Marka"
+
+#~ msgid "Botswana Pula"
+#~ msgstr "Botswana Pula"
+
+#~ msgid "Bulgaria Lev"
+#~ msgstr "Bulgaria Lev"
+
+#~ msgid "Cambodia Riel"
+#~ msgstr "Cambodia Riel"
+
+#~ msgid "China Yuan"
+#~ msgstr "China Yuan"
+
+#~ msgid "Austral"
+#~ msgstr "Austral"
+
+#~ msgid "Hryvnia"
+#~ msgstr "Hryvnia"
+
+#~ msgid "Guatemala Quetzal"
+#~ msgstr "Guatemala Quetzal"
+
+#~ msgid "Cedi"
+#~ msgstr "Cedi"
+
+#~ msgid "Tugril"
+#~ msgstr "Tugril"
+
+#~ msgid "Turkish Lira"
+#~ msgstr "Türk Lirası"
+
+#~ msgid "Drachma"
+#~ msgstr "Drachma"
+
+#~ msgid "Honduras Lempira"
+#~ msgstr "Honduras Lempira"
+
+#~ msgid "Vietnam Dong"
+#~ msgstr "Vietnam Dong"
+
+#~ msgid "Naira"
+#~ msgstr "Naira"
+
+#~ msgid "Azerbaijan New Manat"
+#~ msgstr "Azerbaijan New Manat"
+
+#~ msgid "Macedonia Denar"
+#~ msgstr "Macedonia Denar"
+
+#~ msgid "Mongolia Tughrik"
+#~ msgstr "Mongolia Tughrik"
+
+#~ msgid "Afghanistan Afghani"
+#~ msgstr "Afghanistan Afghani"
+
+#~ msgid "Cruzeiro"
+#~ msgstr "Cruzeiro"
+
+#~ msgid "Omani Rial"
+#~ msgstr "Omani Rial"
+
+#~ msgid "Won"
+#~ msgstr "Won"
+
+#~ msgid "Philippine Peso"
+#~ msgstr "Philippine Peso"
+
+#~ msgid "Philippine Peso 2nd"
+#~ msgstr "Philippine Peso 2nd"
+
+#~ msgid "Brazilian Real"
+#~ msgstr "Brazilian Real"
+
+#~ msgid "Brazilian Real 2nd"
+#~ msgstr "Brazilian Real 2nd"
+
+#~ msgid "Nicaragua Cordoba"
+#~ msgstr "Nicaragua Cordoba"
+
+#~ msgid "Mozambique Metical"
+#~ msgstr "Mozambique Metical"
+
+#~ msgid "Malaysia Ringgit"
+#~ msgstr "Malaysia Ringgit"
+
+#~ msgid "Latvia Lat"
+#~ msgstr "Latvia Lat"
+
+#~ msgid "Kazakhstan Tenge"
+#~ msgstr "Kazakhstan Tenge"
+
+#~ msgid "Jamaica Dollar"
+#~ msgstr "Jamaica Dollar"
+
+#~ msgid "Czech Koruna"
+#~ msgstr "Czech Koruna"
+
+#~ msgid "Danish Krone"
+#~ msgstr "Danish Krone"
+
+#~ msgid "Croatia Kuna"
+#~ msgstr "Croatia Kuna"
+
+#~ msgid "Israeli Sheqel"
+#~ msgstr "Israeli Sheqel"
+
+#~ msgid "Panamanian Balboa"
+#~ msgstr "Panamanian Balboa"
+
+#~ msgid "Dominican Republic Peso"
+#~ msgstr "Dominican Republic Peso"
+
+#~ msgid "Egyptian Pound"
+#~ msgstr "Egyptian Pound"
+
+#~ msgid "Romanian Leu"
+#~ msgstr "Romanian Leu"
+
+#~ msgid "Russian Rouble"
+#~ msgstr "Russian Rouble"
+
+#~ msgid "Select style of admin panel"
+#~ msgstr "Admin paneli stilini  seçin"
+
+#~ msgid "URL to edit site"
+#~ msgstr "Düzenleme sayfası"
+
+#~ msgid "live form validation"
+#~ msgstr "form doğrulama"
+
+#~ msgid "day of departure with datepicker"
+#~ msgstr "tarih seçici ile ayrılış günü"
+
+#~ msgid "number of adults"
+#~ msgstr "yetşkin sayısı"
+
+#~ msgid "number of children's"
+#~ msgstr "çocuk sayısı"
+
+#~ msgid "email of guest"
+#~ msgstr "misafirin epostası"
+
+#~ msgid "select of rooms"
+#~ msgstr "oda seçin"
+
+#~ msgid "offers as select or box"
+#~ msgstr "Teklif seçim kutusu"
+
+#~ msgid "for fix a room/offer to a form"
+#~ msgstr "formda oda/teklif düzeltmek için"
+
+#~ msgid "add custom fields as needed"
+#~ msgstr "özel alan eklemeniz gerek"
+
+#~ msgid "captcha field & image"
+#~ msgstr "captcha alanı  & resim"
+
+#~ msgid "Select minimum and maximum number of adults to select"
+#~ msgstr "Seçilecek min ve maks yetişkin sayısı"
+
+#~ msgid "Select minimum and maximum number of childrens to select"
+#~ msgstr "Seçilecek min ve maks çocuk sayısını seçin"
+
+#~ msgid "room"
+#~ msgstr "oda"
+
+#~ msgid "Fix an offer to the form; dont use it with [offers] in the same form"
+#~ msgstr ""
+#~ "Formu kontrol et; Aynı and abirden fazla [offers] etiketi kullanamazsınız"
+
+#~ msgid "Select type of offer"
+#~ msgstr "Teklif türü seçin"
+
+#~ msgid "A drop-down select of all offers"
+#~ msgstr "Açılır seçim kutusu ile teklifleri seçin"
+
+#~ msgid "Select an Offer"
+#~ msgstr "Teklif Seçin"
+
+#~ msgid "choosen room"
+#~ msgstr "seçilen oda"
+
+#~ msgid "choosen offer"
+#~ msgstr "seçilen teklif"
+
+#~ msgid "Choose the offer"
+#~ msgstr "Teklif seçin"
+
+#~ msgid "Detailed Price"
+#~ msgstr "Ayrıntılı Fiyat"
+
+#~ msgid "Price of Day"
+#~ msgstr "Günlük Fiyat"
+
+#~ msgid "Depature date  "
+#~ msgstr "Ayrılış tarihi"
+
+#~ msgid "Nights "
+#~ msgstr "Gece"
+
+#~ msgid "Filter by offer"
+#~ msgstr "Teklife göre filtreleme"
+
+#~ msgid "Highlight in overview at table hover"
+#~ msgstr "Tablo üzerinde vurgular"
+
+#, fuzzy
+#~ msgctxt "post type general name"
+#~ msgid "Rooms"
+#~ msgstr "Oda"
+
+#, fuzzy
+#~ msgctxt "post type singular name"
+#~ msgid "Room"
+#~ msgstr "Oda"
+
+#~ msgid "Edit Room"
+#~ msgstr "Oda Düzenle"
+
+#~ msgid "New Room"
+#~ msgstr "yeni Oda"
+
+#~ msgid "All Rooms"
+#~ msgstr "Tüm Odalar"
+
+#~ msgid "View Room"
+#~ msgstr "Oda Görüntüle"
+
+#~ msgid "No rooms found"
+#~ msgstr "Hiçbir oda bulunamadı"
+
+#~ msgid "No rooms found in Trash"
+#~ msgstr "Silinmiş hiçbir oda bulunamadı"
+
+#, fuzzy
+#~ msgctxt "post type general name"
+#~ msgid "Offers"
+#~ msgstr "Teklifler"
+
+#, fuzzy
+#~ msgctxt "post type singular name"
+#~ msgid "Offer"
+#~ msgstr "Teklif"
+
+#, fuzzy
+#~ msgctxt "book"
+#~ msgid "Add Offer"
+#~ msgstr "Teklif Ekle"
+
+#~ msgid "Add New Offer"
+#~ msgstr "Yeni Teklif Ekle"
+
+#~ msgid "Edit Offer"
+#~ msgstr "Teklif Düzenle"
+
+#~ msgid "New Offer"
+#~ msgstr "Yeni Teklif"
+
+#~ msgid "All Offers"
+#~ msgstr "Tüm Teklifler"
+
+#~ msgid "View Offer"
+#~ msgstr "Teklif Görüntüle"
+
+#~ msgid "Search Offers"
+#~ msgstr "Teklif Ara"
+
+#~ msgid "No offers found"
+#~ msgstr "Hiçbir teklif bulunamadı"
+
+#~ msgid "No offers found in Trash"
+#~ msgstr "Silinmiş hiç bir teklif bulunamadı"
+
+#~ msgid "The offer was edited"
+#~ msgstr "Teklif düzenlendi"
+
+#~ msgid "The arrival Date has to be in future"
+#~ msgstr "Lütfen, farklı bir geliş tarihi seçin."
+
+#~ msgid "You've choosen"
+#~ msgstr "Seçtiğiniz"
+
+#~ msgid "New Module Update"
+#~ msgstr "yeni modül güncellendi..."
+
+#~ msgid "Reser now!"
+#~ msgstr "Rezervasyon!"
+
+#~ msgid "Past Reservations"
+#~ msgstr "Geçmiş Rezervasyon"
+
+#~ msgid "Present Reservations"
+#~ msgstr "Mevcut Rezervasyon"
+
+#~ msgid "Future Reservations"
+#~ msgstr "Gelecek Rezervasyon"
+
+#~ msgid "Active Reservation"
+#~ msgstr "Aktif Rezervasyon"
+
+#~ msgid "How many rooms with the same price?"
+#~ msgstr "Aynı fiyatta kaç oda var?"
+
+#~ msgid "Permission to admin the %s"
+#~ msgstr "%s Yönetim izini"
+
+#~ msgid "id"
+#~ msgstr "id"
+
+#~ msgid "offer"
+#~ msgstr "teklif"
+
+#~ msgid "current"
+#~ msgstr "geçeri"
+
+#~ msgid "Min:"
+#~ msgstr "Min:"
+
+#~ msgid "Max:"
+#~ msgstr "Maks:"
+
+#~ msgid "Please fill out %s"
+#~ msgstr "%s doldurunuz"
+
+#~ msgid "Mon"
+#~ msgstr "Pts"
+
+#~ msgid "Tue"
+#~ msgstr "Sal"
+
+#~ msgid "Wed"
+#~ msgstr "Çar"
+
+#~ msgid "Thu"
+#~ msgstr "Per"
+
+#~ msgid "Fri"
+#~ msgstr "Cum"
+
+#~ msgid "Sun"
+#~ msgstr "Paz"
+
+#~ msgid "Jan"
+#~ msgstr "Oca"
+
+#~ msgid "Feb"
+#~ msgstr "Şub"
+
+#~ msgid "Mar"
+#~ msgstr "Mar"
+
+#~ msgid "Apr"
+#~ msgstr "Nis"
+
+#~ msgid "Jun"
+#~ msgstr "Haz"
+
+#~ msgid "Jul"
+#~ msgstr "Tem"
+
+#~ msgid "Aug"
+#~ msgstr "Ağu"
+
+#~ msgid "Sep"
+#~ msgstr "Eyl"
+
+#~ msgid "Oct"
+#~ msgstr "Eki"
+
+#~ msgid "Nov"
+#~ msgstr "Kas"
+
+#~ msgid "Dec"
+#~ msgstr "Ara"
+
+#~ msgid "Mo"
+#~ msgstr "Pts"
+
+#~ msgid "Tu"
+#~ msgstr "Sal"
+
+#~ msgid "Th"
+#~ msgstr "Per"
+
+#~ msgid "Fr"
+#~ msgstr "Cum"
+
+#~ msgid "Su"
+#~ msgstr "Paz"
+
+#~ msgid "The depature Date has to be in future"
+#~ msgstr "Ayrılış tarihi gelecekte olmak zorundadır"
+
+#~ msgid "inexistent"
+#~ msgstr "yok"
+
+#~ msgid "Kip"
+#~ msgstr "Kip"
+
+#~ msgid "Square Yuan"
+#~ msgstr "Square Yuan"
+
+#~ msgid "Dong"
+#~ msgstr "Dong"
+
+#~ msgid "Mill"
+#~ msgstr "Mill"
+
+#~ msgid ""
+#~ "This text should explain your guest the process of editing his reservation"
+#~ msgstr ""
+#~ "Aşağıdaki alana rezervasyon düzenleme işlemi ile ilgili açıklama "
+#~ "girilmesi gerekir."
+
+#~ msgid "'s roomID"
+#~ msgstr " oda ID"
+
+#~ msgid "'s offerID"
+#~ msgstr " teklif ID"
+
+#~ msgid "Select type of person input"
+#~ msgstr "Kişi girdi türünü seçin"
+
+#~ msgid "Select minimum and maximum number of persons to select"
+#~ msgstr "Seçilecek min ve maks kişi sayısını seçin"
+
+#~ msgid "Wrong ID and/or eMail"
+#~ msgstr "Yanlış ID ve/veya e-posta"
+
+#~ msgid "yes"
+#~ msgstr "evet"
+
+#~ msgid "Calendar height:"
+#~ msgstr "Takvim yüksekliği:"
+
+#, fuzzy
+#~ msgid "Mart"
+#~ msgstr "Mar"

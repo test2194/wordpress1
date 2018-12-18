@@ -1,0 +1,236 @@
+.easyFrontendFormular {
+    position: relative;
+}
+
+#easyFrontendFormular {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    width: 100%;
+}
+
+#easyFrontendFormular.inline {
+    line-height: 38px;
+}
+
+#easyFrontendFormular.inline footer {
+    display: block;
+    width: 100%;
+    text-align: right;
+    margin-top: 10px;
+}
+
+span.small {
+    display: none;
+}
+
+.easy-show-error-div {
+    display: block;
+    padding: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    border-left-color: #d9534f;
+    margin: 0 10px;
+}
+
+.easy-show-error-div.hidden {
+    visibility:hidden;
+    max-width:1px;
+    max-height:1px;
+    position:absolute;
+    overflow:hidden;
+}
+
+.easy-show-error-div h2 {
+    color: #d9534f;
+    margin-top: 0;
+    margin-bottom: .25rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.easy-show-error-div ul {
+    margin-bottom: 0;
+}
+
+.easy-show-error-div ul li label {
+    cursor: pointer;
+}
+
+span.error-wrapper {
+    margin: 0 20% 2px 30%;
+    display: block;
+}
+
+div.content span.error-wrapper {
+    margin: 0;
+}
+
+label.easy-show-error {
+    width: fit-content !important;
+    display: block;
+    color: #e15352 !important;
+}
+
+#easyFrontendFormular > textarea,
+#easyFrontendFormular > select,
+#easyFrontendFormular > span.select,
+#easyFrontendFormular > input[type=number],
+#easyFrontendFormular > input[type=text] {
+    width:52%;
+}
+
+.easy-ui-container {
+    border-top: 3px solid var(--easy-ui-primary);
+}
+
+.easy-ui-container > .easy-ui-container {
+    border-top:0;
+}
+/* Receipt */
+
+div.receipt {
+    position: relative;
+}
+
+div.receipt.inline {
+    width: auto;
+    padding: 5px 10px;
+    font-size: 14px;
+    border: 1px solid #d8d8d8;
+    border-bottom: 0;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom: 0;
+    display: inline-block;
+
+}
+
+.easy-ui.receipt-container {
+    margin-bottom: 10px;
+}
+
+.easy-ui.receipt-container,
+div.receipt.inline {
+    position: relative;
+}
+
+.easy-ui.receipt-container:after,
+div.receipt.inline:after {
+    content: '';
+    width: 100%;
+    width: calc(100% - -18px);
+    height: 0;
+    box-sizing: border-box;
+    position: absolute;
+    right: -10px;
+    bottom: -7px;
+    border-style: solid;
+    border-width: 9px;
+    border-image: url(../../images/bordertry.png) 9 round;
+    display: inline-block;
+}
+
+.easy-ui.receipt-container:after {
+    right: -9px;
+    bottom: -7px;
+}
+
+#easyFrontendFormular div.receipt {
+    margin: 15px 40px 0 30%;
+}
+
+.easy-ui.receipt-container div.receipt,
+#easyFrontendFormular .easy-ui.receipt-container div.receipt {
+    margin:0;
+    padding: 0 10px;
+}
+
+#easyFrontendFormular .easy-ui-container.receipt-container {
+    border-right:0;
+    border-left: 0;
+    border-bottom: 0;
+}
+
+div.receipt .line {
+    font-size: 14px;
+    display: inline-flex;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    line-height: 30px;
+}
+
+div.receipt .line.stay,
+div.receipt .line.total,
+div.receipt .line.subtotal {
+    border-top: 1px solid #d5d5d5;
+}
+div.receipt .line.total {
+    border-top: 1px solid #d5d5d5;
+}
+
+div.receipt .line span.receipt-label span {
+    white-space: nowrap;
+}
+
+div.receipt .line span.receipt-label,
+div.receipt .line span.receipt-amount,
+div.receipt .line span.receipt-rate {
+    display: table-cell;
+    flex: 1;
+    flex-direction: column;
+    position: relative;
+    padding: 4px 2px;
+}
+
+div.receipt .line span.receipt-label {
+    min-width: 50%;
+}
+
+div.receipt .line span.receipt-rate {
+    /*width: 30%;
+    min-width: 150px;*/
+}
+
+div.receipt .line span.receipt-amount {
+    width: 15%;
+    min-width: 80px;
+    max-width: 85px;
+    white-space: nowrap;
+}
+
+div.receipt .line span.receipt-rate,
+div.receipt .line span.receipt-amount {
+    text-align: right;
+}
+
+div.receipt .line.total span.receipt-amount span {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+div.receipt .line.header,
+div.receipt .line.stay .receipt-rate,
+div.receipt .line.total .receipt-rate,
+div.receipt .line.subtotal .receipt-rate {
+    font-weight: bold;
+}
+
+
+/* Datepicker selection color */
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active { background: var(--easy-ui-primary);  border-color: var(--easy-ui-primary); }
+
+/* CALENDAR JOINT */
+
+@media only screen and (max-width: 1000px) {
+    .easyFrontendFormular  #easyFrontendFormular div.receipt {
+        margin: 20px 20px;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+}

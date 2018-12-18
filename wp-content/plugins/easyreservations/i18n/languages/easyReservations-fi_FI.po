@@ -1,0 +1,6051 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: easyReservations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-13 13:10+0200\n"
+"PO-Revision-Date: 2018-10-13 13:13+0200\n"
+"Last-Translator: Hannu Jaatinen <hannu.jaatinen@jargon.fi>\n"
+"Language-Team: Feryaz Beer <contact@easyreservations.org>\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.1.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:11
+#, fuzzy
+#| msgid "easyReservations Shortcode Creator"
+msgid "Shortcode Creator"
+msgstr "easyReservations lyhytkoodinluontiohjelma"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:77
+#: lib/modules/hourlycal/hourlycal.php:194 lib/modules/paypal/paypal.php:206
+#: lib/modules/paypal/paypal.php:220 lib/modules/paypal/paypal.php:237
+#: lib/modules/paypal/paypal.php:267 lib/modules/paypal/paypal.php:284
+#: lib/modules/search/attributes.php:121
+msgid "Select"
+msgstr "Valitse"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:78
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:108
+#: lib/admin/views/html-admin-settings-header.php:19
+#: lib/modules/search/search.php:27 lib/widgets/form_widget.php:190
+msgid "Form"
+msgstr "Lomake"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:79
+#: lib/modules/search/search.php:51
+msgid "Calendar"
+msgstr "Kalenteri"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:81
+msgid "Type of shortcode"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:86
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:207
+msgid ""
+"The shortcodes wont work if more then one of the same type are on the same "
+"site"
+msgstr ""
+"Lyhytkoodit eivät toimi, jos samalla sivustolla on useita samantyyppisiä "
+"lyhytkoodeja"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:86
+msgid "This can happen with posts in category-views or on the homepage"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:86
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:207
+msgid "To prevent this add the shortcodes after the [more] tag"
+msgstr "Voit estää tämän lisäämällä lyhytkoodin [more]-tunnisteen jälkeen"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:91
+msgid "Insert"
+msgstr "Lisää"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:94
+#: lib/modules/paypal/paypal.php:203 lib/modules/paypal/paypal.php:219
+#: lib/modules/paypal/paypal.php:234 lib/modules/paypal/paypal.php:251
+#: lib/modules/paypal/paypal.php:264 lib/modules/paypal/paypal.php:280
+#: lib/modules/useredit/useredit.php:326 lib/modules/useredit/useredit.php:816
+#: lib/shortcodes/form.php:21
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:105
+msgid "Full width"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:105
+msgid "Float left"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:105
+msgid "Float right"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:109
+msgid "Select form template"
+msgstr "Valitse lomakemalli"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:112
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:172
+#: lib/admin/class-er-admin-resources.php:196 lib/admin/class-er-admin.php:407
+#: lib/admin/dashboard.php:958 lib/admin/dashboard.php:1062
+#: lib/admin/dashboard.php:1207 lib/admin/dashboard.php:1399
+#: lib/admin/dashboard.php:1521
+#: lib/admin/views/html-admin-settings-emails.php:25
+#: lib/admin/views/html-admin-settings-form.php:275 lib/class-er-ajax.php:1128
+#: lib/class-er-ajax.php:1167 lib/er-resource-functions.php:8
+#: lib/modules/export/export.php:71 lib/modules/hourlycal/hourlycal.php:169
+#: lib/modules/hourlycal/hourlycal.php:193
+#: lib/modules/htmlmails/htmlmails.php:127
+#: lib/modules/htmlmails/htmlmails.php:397 lib/modules/invoice/invoice.php:512
+#: lib/modules/search/search.php:87 lib/modules/search/search.php:217
+#: lib/modules/statistics/statistics.php:520
+#: lib/modules/statistics/statistics.php:718 lib/modules/sync/sync.php:168
+#: lib/modules/useredit/useredit.php:365 lib/modules/useredit/useredit.php:577
+#: lib/shortcodes/form.php:20
+msgid "Resource"
+msgstr "Resurssi"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:113
+msgid "Attached to reservations if no resource [tag] in form"
+msgstr "Liitetään varauksiin, jos lomakkeessa ei ole resurssi [tag]"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:116
+#: lib/admin/views/html-admin-settings-form.php:439
+#: lib/modules/styles/styles.php:50
+msgid "Style"
+msgstr "Tyyli"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:117
+#: lib/modules/styles/styles.php:51
+msgid "Boxed"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:117
+#: lib/modules/styles/styles.php:51
+msgid "Inline"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:120
+msgid "Multiple reservations"
+msgstr "Useita varauksia"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:121
+msgid "Allow multiple reservations in a"
+msgstr "Salli monta varausta"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:121 lib/admin/dashboard.php:570
+#: lib/admin/views/html-admin-resources.php:37
+msgid "Full"
+msgstr "Täysi"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:121
+msgid "Popup"
+msgstr "Ponnahdusikkuna"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:121
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:124
+msgid "Overlay"
+msgstr "Overlayikkuna"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:124
+#, fuzzy
+#| msgid ""
+#| "If multiple reservations are enabled the overlay will show the list of "
+#| "the reservations."
+msgid ""
+"If multiple reservations is enabled the overlay will show the list of the "
+"reservations with this message."
+msgstr ""
+"Jos useita varauksia -toiminto on käytössä, varausluettelo näytetään overlay-"
+"ikkunassa."
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:127
+msgid "Overlay message"
+msgstr "Overlay-viesti"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:131
+msgid "Overlay sub-message"
+msgstr "Overlay-alaviesti"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:135
+#: lib/modules/useredit/useredit.php:885
+#, fuzzy
+#| msgid "Name for resources"
+msgid "Label for resources"
+msgstr "Resurssien nimi"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:139
+#: lib/admin/class-er-admin.php:409 lib/admin/dashboard.php:958
+#: lib/admin/dashboard.php:1058 lib/admin/dashboard.php:1194
+#: lib/admin/dashboard.php:1386 lib/class-er-ajax.php:1124
+#: lib/class-er-ajax.php:1163 lib/functions/admin.php:566
+#: lib/modules/export/export.php:57 lib/modules/statistics/statistics.php:523
+#: lib/modules/statistics/statistics.php:719 lib/modules/styles/styles.php:94
+#: lib/modules/useredit/useredit.php:362 lib/modules/useredit/useredit.php:690
+#: lib/shortcodes/form.php:213
+msgid "Persons"
+msgstr "Henkilöt"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:140
+#, fuzzy
+#| msgid "Times per reservations"
+msgid "Display person count in reservation list"
+msgstr "Aikoja varauksia kohti"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:143
+#: lib/admin/views/html-admin-resource-add.php:28
+#: lib/admin/views/html-admin-resource-settings.php:48
+#: lib/admin/views/html-admin-resource-slot-add.php:17
+#: lib/admin/views/html-admin-resource-spaces-names.php:15
+#: lib/admin/views/html-admin-settings-custom.php:84
+#: lib/admin/views/html-admin-settings-emails.php:54
+#: lib/admin/views/html-admin-settings-form.php:250
+#: lib/admin/views/html-admin-settings-form.php:819
+#: lib/admin/views/html-admin-settings-general.php:109
+#: lib/functions/admin.php:206 lib/functions/admin.php:217
+#: lib/modules/coupons/coupons.php:73 lib/modules/htmlmails/htmlmails.php:156
+#: lib/modules/invoice/invoice.php:564 lib/modules/invoice/invoice.php:576
+#: lib/modules/paypal/creditcards.php:320
+#: lib/modules/paypal/creditcards.php:383 lib/modules/search/attributes.php:127
+#: lib/modules/search/attributes.php:204 lib/modules/search/search.php:79
+#: lib/modules/useredit/useredit.php:312 lib/modules/useredit/useredit.php:401
+#: lib/modules/useredit/useredit.php:815 lib/modules/useredit/useredit.php:839
+msgid "Submit"
+msgstr "Lähetä"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:143
+#, fuzzy
+#| msgid ""
+#| "After submit one or multiple reservations the overlay or page will show "
+#| "this messages, the price and, if available, the paypal button and the "
+#| "credit cards form."
+msgid ""
+"After the guest submits their reservation(s) this message, the price and if "
+"available the payment and credit cards form will be shown."
+msgstr ""
+"Kun yksi tai useampi varaus on lähetetty, overlay-ikkunassa tai sivulla "
+"näytetään nämä viestit, hinta sekä mahdollinen PayPal-painike ja "
+"luottokorttilomake."
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:146
+msgid "Submit message"
+msgstr "Lähetä viesti"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:150
+msgid "Submit sub-message"
+msgstr "Lähetä alaviesti"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:154
+#: lib/admin/views/html-admin-settings-form.php:200
+#: lib/modules/useredit/useredit.php:876
+msgid "Show price"
+msgstr "Näytä hinta"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:158
+#: lib/modules/paypal/creditcards.php:95 lib/modules/paypal/creditcards.php:212
+#: lib/modules/paypal/creditcards.php:232
+#: lib/modules/paypal/creditcards.php:289
+#: lib/modules/paypal/creditcards.php:378
+#, fuzzy
+#| msgid "Credit Card"
+msgid "Credit card"
+msgstr "Luottokortti"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:158
+msgid "Message to be displayed after the credit card got entered."
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:161
+#, fuzzy
+#| msgid "Credit Card message"
+msgid "Credit card message"
+msgstr "Luottokortin viesti"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:165
+#, fuzzy
+#| msgid "Credit Card sub-message"
+msgid "Credit card sub-message"
+msgstr "Luottokortin alaviesti"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:168
+msgid "Only add one form per page or post"
+msgstr "Lisää sivulle tai artikkeliin vain yksi lomake"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:173
+#: lib/admin/class-er-admin-resources.php:433 lib/modules/export/export.php:39
+#: lib/modules/hourlycal/hourlycal.php:170 lib/modules/search/search.php:20
+#: lib/modules/sync/sync.php:152
+#, fuzzy, php-format
+#| msgid "Select"
+msgid "Select %s"
+msgstr "Valitse"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:173
+#: lib/modules/hourlycal/hourlycal.php:170
+#, fuzzy
+#| msgid "Default resource:"
+msgid "default resource"
+msgstr "Oletusresurssi:"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:176
+#: lib/modules/hourlycal/hourlycal.php:181 lib/modules/search/search.php:23
+#: lib/modules/search/search.php:44 lib/modules/styles/styles.php:27
+#: lib/modules/styles/styles.php:58
+msgid "Width"
+msgstr "Leveys"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:180
+#: lib/modules/search/search.php:55 lib/widgets/form_widget.php:158
+msgid "Color scheme"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:184
+#: lib/admin/class-er-admin.php:415 lib/admin/dashboard.php:958
+#: lib/admin/dashboard.php:1160 lib/admin/dashboard.php:1291
+#: lib/admin/dashboard.php:1350 lib/admin/dashboard.php:1472
+#: lib/admin/views/html-admin-resource-filter-add.php:29
+#: lib/admin/views/html-admin-resource-filter-add.php:413
+#: lib/admin/views/html-admin-resource-filter-add.php:426
+#: lib/admin/views/html-admin-resource-filters.php:132
+#: lib/admin/views/html-admin-resource-filters.php:154
+#: lib/admin/views/html-admin-resource-settings.php:60
+#: lib/admin/views/html-admin-resource-slot-add.php:182
+#: lib/admin/views/html-admin-resource-slots.php:13
+#: lib/admin/views/html-admin-settings-custom.php:102
+#: lib/admin/views/html-admin-settings-emails.php:27 lib/class-er-ajax.php:668
+#: lib/class-er-ajax.php:1134 lib/class-er-ajax.php:1173
+#: lib/functions/admin.php:48 lib/functions/admin.php:547
+#: lib/functions/admin.php:587 lib/modules/export/export.php:64
+#: lib/modules/hourlycal/hourlycal.php:177
+#: lib/modules/htmlmails/htmlmails.php:140
+#: lib/modules/htmlmails/htmlmails.php:399 lib/modules/search/search.php:48
+#: lib/modules/statistics/statistics.php:104
+#: lib/modules/statistics/statistics.php:720
+#: lib/modules/useredit/useredit.php:367 lib/modules/useredit/useredit.php:693
+#: lib/modules/useredit/useredit.php:754 lib/modules/useredit/useredit.php:813
+#: lib/modules/useredit/useredit.php:875 lib/shortcodes/form.php:125
+#: lib/shortcodes/form.php:214
+msgid "Price"
+msgstr "Hinta"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:185 lib/admin/dashboard.php:343
+#: lib/admin/dashboard.php:977 lib/admin/dashboard.php:1000
+#: lib/admin/dashboard.php:1284 lib/admin/dashboard.php:1465
+#: lib/admin/views/html-admin-resource-filters.php:214
+#: lib/admin/views/html-admin-resource-filters.php:225
+#: lib/admin/views/html-admin-settings-general.php:49 lib/core/core.php:328
+#: lib/modules/hourlycal/hourlycal.php:178
+#: lib/modules/hourlycal/hourlycal.php:194 lib/modules/search/search.php:52
+msgid "None"
+msgstr "Ei mitään"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:185
+#: lib/modules/search/search.php:52
+msgid "Display available spaces"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:185
+#: lib/modules/hourlycal/hourlycal.php:178 lib/widgets/form_widget.php:182
+msgid "Show price in calendar"
+msgstr "Näytä hinta kalenterissa"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:188
+msgid "Selection"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:189
+msgid "No selection"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:189
+msgid "One click for arrival date"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:189
+msgid "First click for arrival date; second for departure date"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:189
+msgid "Select how the calendar can be clicked"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:192
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:200
+#: lib/widgets/form_widget.php:162
+msgid "Arrival and departure"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:193
+msgid ""
+"Check resources default possible arrival and departure days so they cant be "
+"selected"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:196 lib/admin/overview.php:279
+#: lib/functions/admin.php:40 lib/modules/export/export.php:116
+#: lib/modules/useredit/useredit.php:376 lib/widgets/form_widget.php:168
+msgid "Past"
+msgstr "Mennyt"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:197
+#: lib/widgets/form_widget.php:170
+msgid "Display past days availability"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:201
+#: lib/modules/search/search.php:60 lib/widgets/form_widget.php:164
+msgid "Display arrival and departure as half available dates"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:201
+#: lib/modules/search/search.php:60
+msgid "Display arrival days as free"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:201
+#: lib/modules/search/search.php:60
+msgid "Display arrival days as full"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:204
+msgid "This shortcode adds an availability calendar to the post or page"
+msgstr "Tämä lyhytkoodi lisää saatavuuskalenterin artikkeliin tai sivulle"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:204
+msgid ""
+"You can combine it with a formm the user control panel or the search form by "
+"adding it to the same page"
+msgstr ""
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:204
+msgid "Only add the calendar once per page or post"
+msgstr "Lisää artikkeliin tai sivuun vain yksi kalenteri"
+
+#: assets/js/tinyMCE/tinyMCE_shortcode_add.php:207
+msgid "This can happen with posts in category-views or on homepage"
+msgstr "Näin voi käydä esimerkiksi kategoria- tai etusivulla"
+
+#: lib/admin/class-er-admin-resources.php:76
+#, php-format
+msgid "From %1$s till %2$s"
+msgstr "%1$s - %2$s"
+
+#: lib/admin/class-er-admin-resources.php:112
+msgid "Resource and all its reservations deleted"
+msgstr "Resurssi ja sen kaikki varaukset poistettiin"
+
+#: lib/admin/class-er-admin-resources.php:116
+msgid "Reservations could not be deleted"
+msgstr ""
+
+#: lib/admin/class-er-admin-resources.php:121
+#, fuzzy
+#| msgid "Credit card data couldn't be deleted"
+msgid "Resource could not be deleted"
+msgstr "Luottokortin tietoja ei voitu poistaa"
+
+#: lib/admin/class-er-admin-resources.php:142
+#: lib/admin/class-er-admin-resources.php:176
+#, php-format
+msgid "Resource #%d added"
+msgstr "Lisättiin resurssi #%d"
+
+#: lib/admin/class-er-admin-resources.php:180
+#: lib/admin/class-er-admin-resources.php:536
+#: lib/admin/class-er-admin-resources.php:551
+#: lib/admin/class-er-admin-resources.php:579
+#: lib/admin/class-er-admin-settings.php:176 lib/class-er-ajax.php:577
+#: lib/class-er-reservation.php:878 lib/class-er-reservation.php:884
+#: lib/class-er-reservation.php:889 lib/modules/paypal/creditcards.php:121
+#: lib/modules/useredit/useredit.php:541
+#, php-format
+msgid "Please enter %s"
+msgstr "Kirjoita otsikko %s"
+
+#: lib/admin/class-er-admin-resources.php:180
+#, fuzzy
+#| msgid "Show title"
+msgid "a title"
+msgstr "Näytä otsikko"
+
+#: lib/admin/class-er-admin-resources.php:189
+#: lib/admin/class-er-admin-settings.php:197
+#: lib/admin/class-er-admin-settings.php:249
+#: lib/modules/search/attributes.php:58
+#, php-format
+msgid "%s saved"
+msgstr "%s tallennettu"
+
+#: lib/admin/class-er-admin-resources.php:189
+#: lib/admin/views/html-admin-resource-spaces-names.php:10
+#, fuzzy
+#| msgid "Resources Numbers/Names"
+msgid "Resource spaces names"
+msgstr "Resurssien numerot/nimet"
+
+#: lib/admin/class-er-admin-resources.php:196
+#: lib/admin/class-er-admin-settings.php:163
+#: lib/admin/class-er-admin-settings.php:275 lib/admin/class-er-admin.php:374
+#: lib/modules/invoice/invoice.php:371 lib/modules/paypal/creditcards.php:289
+#: lib/modules/paypal/creditcards.php:290 lib/modules/paypal/paypal.php:95
+#: lib/modules/paypal/paypal.php:103 lib/modules/paypal/paypal.php:113
+#: lib/modules/paypal/paypal.php:123 lib/modules/paypal/paypal.php:131
+#: lib/modules/paypal/paypal.php:139 lib/modules/useredit/useredit.php:294
+#, php-format
+msgid "%s settings saved"
+msgstr "%s Sähköpostiasetukset tallennettu"
+
+#: lib/admin/class-er-admin-resources.php:203
+#, fuzzy
+#| msgid "Arrival possible on"
+msgid "No arrival possible"
+msgstr "Tulo mahdollinen"
+
+#: lib/admin/class-er-admin-resources.php:206
+#, fuzzy
+#| msgid "Departure possible on"
+msgid "No departure possible"
+msgstr "Lähtö mahdollinen"
+
+#: lib/admin/class-er-admin-resources.php:240 lib/admin/dashboard.php:236
+#, fuzzy
+#| msgid "Insert right money format"
+msgid "Insert correct money format"
+msgstr "Anna oikea rahan muoto"
+
+#: lib/admin/class-er-admin-resources.php:253 lib/class-er-reservation.php:901
+#: lib/class-er-reservation.php:906
+#, fuzzy, php-format
+#| msgid "Children's has to be a number"
+msgid "%s has to be numeric"
+msgstr "Lapset-arvon on oltava numero"
+
+#: lib/admin/class-er-admin-resources.php:253 lib/admin/class-er-admin.php:408
+#: lib/admin/views/html-admin-settings-emails.php:26
+#: lib/modules/htmlmails/htmlmails.php:128
+#: lib/modules/htmlmails/htmlmails.php:398 lib/modules/invoice/invoice.php:513
+#: lib/modules/useredit/useredit.php:366
+#, fuzzy
+#| msgid "Resource Image"
+msgid "Resource space"
+msgstr "Resurssin kuva"
+
+#: lib/admin/class-er-admin-resources.php:289
+msgid "Only admins can change the permissions for"
+msgstr "Vain ylläpitäjä voi muuttaa oikeuksia kohteelle"
+
+#: lib/admin/class-er-admin-resources.php:289 lib/admin/class-er-admin.php:123
+#: lib/admin/views/html-admin-resources-header.php:13
+#: lib/admin/views/html-admin-settings-form.php:144
+#: lib/admin/views/html-admin-settings-form.php:667
+#: lib/admin/views/html-admin-settings-general.php:289
+#: lib/er-resource-functions.php:7
+#: lib/modules/statistics/dashboard.statistic.php:17
+msgid "Resources"
+msgstr "Resurssit"
+
+#: lib/admin/class-er-admin-resources.php:328
+msgid "Tax percentage has to be numeric"
+msgstr "Veroprosentin on oltava numero"
+
+#: lib/admin/class-er-admin-resources.php:399
+#, fuzzy
+#| msgid "Enter a starting date"
+msgid "Enter a starting date for the filter"
+msgstr "Anna alkamispäivä"
+
+#: lib/admin/class-er-admin-resources.php:405
+#, fuzzy
+#| msgid "Enter an ending date"
+msgid "Enter an ending date for the filter"
+msgstr "Anna päättymispäivä"
+
+#: lib/admin/class-er-admin-resources.php:433
+#: lib/admin/views/html-admin-resource-filter-add.php:363
+msgid "condition"
+msgstr ""
+
+#: lib/admin/class-er-admin-resources.php:536
+#: lib/admin/class-er-admin-resources.php:579
+#, fuzzy
+#| msgid "name"
+msgid "a name"
+msgstr "nimi"
+
+#: lib/admin/class-er-admin-resources.php:551 lib/class-er-reservation.php:889
+#, fuzzy
+#| msgid "Credit card number has invalid format"
+msgid "arrival and departure as valid date format"
+msgstr "Luottokortin numero on väärässä muodossa"
+
+#: lib/admin/class-er-admin-resources.php:556
+#, fuzzy, php-format
+#| msgid "Please enter %s"
+msgid "Please select %s"
+msgstr "Kirjoita otsikko %s"
+
+#: lib/admin/class-er-admin-resources.php:556
+#, fuzzy
+#| msgid "days before their arrival"
+msgid "days for arrival"
+msgstr "päivää ennen saapumista"
+
+#: lib/admin/class-er-admin-resources.php:586
+#, fuzzy, php-format
+#| msgid "Prices got edited"
+msgid "%s edited"
+msgstr "Hintoja muokattu"
+
+#: lib/admin/class-er-admin-resources.php:586
+#: lib/admin/class-er-admin-resources.php:588
+#: lib/admin/class-er-admin-resources.php:603
+#: lib/admin/views/html-admin-resource-slot-add.php:11
+#: lib/admin/views/html-admin-resource-slot-add.php:35
+msgid "Slot"
+msgstr ""
+
+#: lib/admin/class-er-admin-resources.php:588
+#: lib/admin/class-er-admin-settings.php:175
+#: lib/admin/class-er-admin-settings.php:254
+#: lib/modules/coupons/coupons.php:141 lib/modules/search/attributes.php:64
+#, php-format
+msgid "%s added"
+msgstr "%s lisätty"
+
+#: lib/admin/class-er-admin-resources.php:603
+#: lib/admin/class-er-admin-settings.php:39
+#: lib/admin/class-er-admin-settings.php:59 lib/admin/dashboard.php:82
+#: lib/core/core.php:74 lib/modules/coupons/coupons.php:147
+#: lib/modules/paypal/creditcards.php:95 lib/modules/search/attributes.php:21
+#, php-format
+msgid "%s deleted"
+msgstr "%s poista"
+
+#: lib/admin/class-er-admin-settings.php:39
+#: lib/admin/class-er-admin-settings.php:175
+#: lib/admin/class-er-admin-settings.php:197
+#, php-format
+msgid "Form %s"
+msgstr "Lomake %s"
+
+#: lib/admin/class-er-admin-settings.php:59
+#: lib/admin/class-er-admin-settings.php:249
+#: lib/admin/class-er-admin-settings.php:254 lib/admin/dashboard.php:82
+#: lib/admin/views/html-admin-settings-custom.php:77
+#: lib/admin/views/html-admin-settings-emails.php:29
+#: lib/functions/admin.php:520
+#, fuzzy
+#| msgid "Custom fields"
+msgid "Custom field"
+msgstr "Omat kentät"
+
+#: lib/admin/class-er-admin-settings.php:163
+#: lib/admin/views/html-admin-settings-general.php:103
+#: lib/admin/views/html-admin-settings-header.php:14
+msgid "General"
+msgstr "Yleiset"
+
+#: lib/admin/class-er-admin-settings.php:176
+#, fuzzy
+#| msgid "Please enter a name for the form"
+msgid "a name for the form"
+msgstr "Anna lomakkeelle nimi"
+
+#: lib/admin/class-er-admin-settings.php:275 lib/admin/class-er-admin.php:406
+#: lib/admin/dashboard.php:1054 lib/admin/dashboard.php:1220
+#: lib/admin/dashboard.php:1412
+#: lib/admin/views/html-admin-settings-emails.php:17
+#: lib/admin/views/html-admin-settings-form.php:164
+#: lib/admin/views/html-admin-settings-form.php:758
+#: lib/admin/views/html-admin-settings-header.php:29 lib/class-er-ajax.php:1120
+#: lib/class-er-ajax.php:1159 lib/class-er-ajax.php:1255
+#: lib/functions/admin.php:123 lib/modules/export/export.php:56
+#: lib/modules/htmlmails/htmlmails.php:33
+#: lib/modules/htmlmails/htmlmails.php:133 lib/modules/invoice/editor.php:24
+#: lib/modules/invoice/invoice.php:511 lib/modules/paypal/creditcards.php:347
+#: lib/modules/useredit/useredit.php:794 lib/modules/useredit/useredit.php:837
+msgid "Email"
+msgstr "Sähköposti"
+
+#: lib/admin/class-er-admin.php:120 lib/admin/dashboard.php:38
+#: lib/admin/dashboard.php:55 lib/admin/dashboard.php:70
+#: lib/admin/views/html-admin-resources.php:20 lib/modules/export/export.php:39
+#: lib/modules/statistics/dashboard.statistic.php:16
+#: lib/modules/statistics/statistics.php:92
+msgid "Reservations"
+msgstr "Varaukset"
+
+#: lib/admin/class-er-admin.php:122
+#: lib/admin/views/html-admin-settings-general.php:276
+msgid "Dashboard"
+msgstr "Yhteenveto"
+
+#: lib/admin/class-er-admin.php:131
+#: lib/admin/views/html-admin-resource-header.php:38
+#: lib/admin/views/html-admin-resource-settings.php:41
+#: lib/admin/views/html-admin-settings-general.php:315
+#: lib/admin/views/html-admin-settings-header.php:6
+#: lib/modules/paypal/paypal.php:191 lib/modules/useredit/useredit.php:381
+msgid "Settings"
+msgstr "Asetukset"
+
+#: lib/admin/class-er-admin.php:374 lib/admin/dashboard.php:330
+#, fuzzy
+#| msgid "Reservations Dashboard"
+msgid "Reservations dashboard"
+msgstr "Varausten yhteenvetosivu"
+
+#: lib/admin/class-er-admin.php:385
+msgid "Show/Hide content"
+msgstr "Näytä/piilota sisältö"
+
+#: lib/admin/class-er-admin.php:386 lib/admin/class-er-admin.php:443
+msgid "Overview"
+msgstr "Yleiskatsaus"
+
+#: lib/admin/class-er-admin.php:388
+#: lib/admin/views/html-admin-settings-general.php:302
+#: lib/modules/statistics/statistics.php:25
+#: lib/modules/statistics/statistics.php:263
+msgid "Statistics"
+msgstr "Tilastot"
+
+#: lib/admin/class-er-admin.php:390 lib/modules/useredit/useredit.php:354
+#: lib/modules/useredit/useredit.php:867
+msgid "Table"
+msgstr "Taulukko"
+
+#: lib/admin/class-er-admin.php:391 lib/admin/dashboard.php:903
+#: lib/modules/statistics/statistics.php:498
+msgid "Upcoming reservations"
+msgstr "Tulevat varaukset"
+
+#: lib/admin/class-er-admin.php:392 lib/admin/dashboard.php:920
+msgid "New reservations"
+msgstr "Uudet varaukset"
+
+#: lib/admin/class-er-admin.php:393 lib/modules/export/export.php:20
+msgid "Export"
+msgstr "Vie"
+
+#: lib/admin/class-er-admin.php:394 lib/admin/dashboard.php:946
+msgid "What's happening today"
+msgstr ""
+
+#: lib/admin/class-er-admin.php:397
+msgid "Table information"
+msgstr "Taulukon tiedot"
+
+#: lib/admin/class-er-admin.php:399
+msgid "Color"
+msgstr "Väri"
+
+#: lib/admin/class-er-admin.php:400 lib/admin/views/html-admin-resources.php:17
+#: lib/admin/views/html-admin-settings-custom.php:22
+#: lib/admin/views/html-admin-settings-emails.php:15
+#: lib/modules/export/export.php:54 lib/modules/useredit/useredit.php:359
+#: lib/modules/useredit/useredit.php:686 lib/modules/useredit/useredit.php:836
+msgid "ID"
+msgstr "Tunnus"
+
+#: lib/admin/class-er-admin.php:401 lib/admin/dashboard.php:958
+#: lib/admin/dashboard.php:1044 lib/admin/dashboard.php:1169
+#: lib/admin/dashboard.php:1355 lib/admin/views/html-admin-resource-slots.php:9
+#: lib/admin/views/html-admin-settings-emails.php:16
+#: lib/admin/views/html-admin-settings-form.php:159
+#: lib/admin/views/html-admin-settings-form.php:744 lib/class-er-ajax.php:1110
+#: lib/class-er-ajax.php:1149 lib/core/core.php:276
+#: lib/modules/export/export.php:55 lib/modules/htmlmails/htmlmails.php:132
+#: lib/modules/invoice/invoice.php:510 lib/modules/paypal/creditcards.php:213
+#: lib/modules/paypal/creditcards.php:238
+#: lib/modules/paypal/creditcards.php:348 lib/modules/paypal/paypal.php:232
+#: lib/modules/paypal/paypal.php:249 lib/modules/search/attributes.php:115
+#: lib/modules/statistics/statistics.php:716
+#: lib/modules/useredit/useredit.php:360 lib/modules/useredit/useredit.php:688
+#: lib/modules/useredit/useredit.php:793
+msgid "Name"
+msgstr "Nimi"
+
+#: lib/admin/class-er-admin.php:402 lib/admin/dashboard.php:1048
+#: lib/admin/views/html-admin-settings-form.php:475 lib/class-er-ajax.php:1106
+#: lib/class-er-ajax.php:1145 lib/functions/admin.php:547
+#: lib/modules/export/export.php:62 lib/modules/statistics/statistics.php:717
+#: lib/modules/useredit/useredit.php:361 lib/modules/useredit/useredit.php:687
+msgid "Date"
+msgstr "Päiväys"
+
+#: lib/admin/class-er-admin.php:403 lib/admin/dashboard.php:1279
+#: lib/admin/dashboard.php:1460 lib/class-er-ajax.php:1114
+#: lib/class-er-ajax.php:1153 lib/modules/export/export.php:73
+#: lib/modules/statistics/statistics.php:146
+#: lib/modules/useredit/useredit.php:363 lib/modules/useredit/useredit.php:692
+msgid "Reserved"
+msgstr "Varattu"
+
+#: lib/admin/class-er-admin.php:410 lib/admin/dashboard.php:1268
+#: lib/admin/dashboard.php:1273 lib/admin/dashboard.php:1449
+#: lib/admin/dashboard.php:1454 lib/admin/views/html-admin-resources.php:21
+#: lib/admin/views/html-admin-settings-about.php:8 lib/class-er-ajax.php:1118
+#: lib/class-er-ajax.php:1157 lib/functions/admin.php:60
+#: lib/modules/export/export.php:58 lib/modules/statistics/statistics.php:521
+#: lib/modules/useredit/useredit.php:364 lib/modules/useredit/useredit.php:370
+#: lib/modules/useredit/useredit.php:689 lib/modules/useredit/useredit.php:871
+msgid "Status"
+msgstr "Tila"
+
+#: lib/admin/class-er-admin.php:413 lib/admin/dashboard.php:1067
+#: lib/admin/dashboard.php:1229 lib/admin/dashboard.php:1421
+#: lib/admin/views/html-admin-settings-emails.php:24
+#: lib/admin/views/html-admin-settings-form.php:169
+#: lib/admin/views/html-admin-settings-form.php:772 lib/class-er-ajax.php:1130
+#: lib/class-er-ajax.php:1169 lib/modules/export/export.php:70
+#: lib/modules/htmlmails/htmlmails.php:134
+#: lib/modules/htmlmails/htmlmails.php:396 lib/modules/invoice/invoice.php:517
+#: lib/modules/useredit/useredit.php:799
+msgid "Country"
+msgstr "Maa"
+
+#: lib/admin/class-er-admin.php:414 lib/class-er-ajax.php:1132
+#: lib/class-er-ajax.php:1171 lib/modules/htmlmails/htmlmails.php:404
+#: lib/modules/styles/styles.php:89
+msgid "Custom fields"
+msgstr "Omat kentät"
+
+#: lib/admin/class-er-admin.php:416
+msgid "Favourites"
+msgstr "Suosikit"
+
+#: lib/admin/class-er-admin.php:420
+msgid "Table actions"
+msgstr "Taulukon toiminnot"
+
+#: lib/admin/class-er-admin.php:421 lib/admin/class-er-admin.php:422
+#: lib/admin/class-er-admin.php:423
+#: lib/admin/views/html-admin-resource-filter-add.php:62
+#: lib/admin/views/html-admin-resource-filter-add.php:363
+#, php-format
+msgid "Filter by %s"
+msgstr "Suodata tilan %s"
+
+#: lib/admin/class-er-admin.php:422
+#: lib/admin/views/html-admin-resource-add.php:6
+#: lib/admin/views/html-admin-resource-add.php:7
+#: lib/admin/views/html-admin-resources.php:65 lib/er-resource-functions.php:9
+#: lib/er-resource-functions.php:10 lib/er-resource-functions.php:11
+#: lib/modules/sync/sync.php:152
+msgid "resource"
+msgstr "resurssi"
+
+#: lib/admin/class-er-admin.php:423
+msgid "status"
+msgstr "tila"
+
+#: lib/admin/class-er-admin.php:424
+msgid "Entries to display"
+msgstr ""
+
+#: lib/admin/class-er-admin.php:425 lib/class-er-ajax.php:1092
+#: lib/modules/search/search.php:31 lib/modules/search/search.php:172
+#: lib/modules/search/search.php:219
+msgid "Search"
+msgstr "Haku"
+
+#: lib/admin/class-er-admin.php:426 lib/class-er-ajax.php:1316
+#, fuzzy
+#| msgid "Bulk Actions"
+msgid "Bulk actions"
+msgstr "Massatoiminnot"
+
+#: lib/admin/class-er-admin.php:429
+msgid "Show Resources"
+msgstr "Näytä resurssit"
+
+#: lib/admin/class-er-admin.php:444
+msgid "Overview onMouseOver Date & Select animation"
+msgstr "Yleiskatsaus kun osoitin pvm päällä & Valitse animaatio"
+
+# hmm
+#: lib/admin/class-er-admin.php:445
+msgid "Overview autoselect with inputs on add/edit"
+msgstr "Yleiskatsauksen autom. valinta kun tietoja lisätään/muokataan"
+
+#: lib/admin/class-er-admin.php:446
+msgid "Hourly mode as standard"
+msgstr "Käytä tuntitilaa oletuksena"
+
+#: lib/admin/class-er-admin.php:447
+msgid "Only display hours between"
+msgstr ""
+
+#: lib/admin/dashboard-statistics.php:47 lib/admin/dashboard.php:317
+#: lib/class-er-reservation.php:1151 lib/modules/statistics/statistics.php:428
+#: lib/modules/useredit/useredit.php:371
+msgid "approved"
+msgstr "hyväksytty"
+
+#: lib/admin/dashboard-statistics.php:47 lib/admin/dashboard.php:318
+#: lib/class-er-reservation.php:1155 lib/modules/statistics/statistics.php:428
+#: lib/modules/useredit/useredit.php:373
+msgid "rejected"
+msgstr "hylätty"
+
+#: lib/admin/dashboard-statistics.php:47 lib/class-er-reservation.php:1163
+#: lib/modules/statistics/statistics.php:428
+#: lib/modules/useredit/useredit.php:372
+msgid "pending"
+msgstr "odottaa"
+
+#: lib/admin/dashboard.php:37 lib/admin/dashboard.php:54
+#: lib/admin/dashboard.php:70 lib/admin/dashboard.php:1025
+#: lib/admin/views/html-admin-resource-filter-add.php:374
+#: lib/admin/views/html-admin-resource-filter-add.php:389
+#: lib/admin/views/html-admin-resource-filters.php:30
+msgid "Reservation"
+msgstr "Varaus"
+
+#: lib/admin/dashboard.php:40
+#, fuzzy, php-format
+#| msgid "moved to trash"
+msgid "%s moved to trash"
+msgstr "siirretty roskakoriin"
+
+#: lib/admin/dashboard.php:40
+msgid "Undo"
+msgstr "Kumoa"
+
+#: lib/admin/dashboard.php:57
+#, fuzzy, php-format
+#| msgid "restored from trash"
+msgid "%s restored from trash"
+msgstr "palautettu roskakorista"
+
+#: lib/admin/dashboard.php:71
+#, php-format
+msgid "%s deleted permanently"
+msgstr "%s poistettu pysyvästi"
+
+#: lib/admin/dashboard.php:83
+#, fuzzy
+#| msgid "Custom price isn't existing"
+msgid "Custom field is not existing"
+msgstr "Omaa hintaa ei ole olemassa"
+
+#: lib/admin/dashboard.php:140 lib/admin/dashboard.php:168
+#: lib/admin/dashboard.php:317 lib/admin/dashboard.php:318
+#: lib/modules/useredit/useredit.php:635
+#, php-format
+msgid "Reservation %s"
+msgstr "Varaukset %s"
+
+#: lib/admin/dashboard.php:140 lib/core/core.php:46
+msgid "updated"
+msgstr "päivitetty"
+
+#: lib/admin/dashboard.php:151
+#, php-format
+msgid "Reservation #%1$d copied as #%2$d"
+msgstr "Varaus #%1$d kopioitiin #%2$d"
+
+#: lib/admin/dashboard.php:168
+#, fuzzy
+#| msgid "calculate"
+msgid "recalculated"
+msgstr "laske"
+
+#: lib/admin/dashboard.php:244
+#, php-format
+msgid "Reservation #%d added"
+msgstr "Varaus #%d lisätty"
+
+#: lib/admin/dashboard.php:255 lib/class-er-ajax.php:708
+#: lib/class-er-ajax.php:718
+msgid "Wrong date format"
+msgstr "Väärä päivämäärän muoto"
+
+#: lib/admin/dashboard.php:291
+msgid "Email sent successfully"
+msgstr "Sähköpostin lähetys onnistui"
+
+#: lib/admin/dashboard.php:331
+#: lib/admin/views/html-admin-resources-header.php:14
+#: lib/admin/views/html-admin-settings-form.php:67 lib/functions/admin.php:524
+#: lib/modules/coupons/coupons.php:198 lib/modules/invoice/invoice.php:596
+#: lib/modules/sync/ical.import.php:193 lib/modules/sync/sync.php:161
+msgid "Add"
+msgstr "Lisää"
+
+#: lib/admin/dashboard.php:956
+msgid "Arrival today"
+msgstr "Saapuu tänään"
+
+#: lib/admin/dashboard.php:981
+msgid "Departure today"
+msgstr "Lähtö tänään"
+
+#: lib/admin/dashboard.php:1011
+msgid "This reservation is imported. It cannot be changed."
+msgstr ""
+
+#: lib/admin/dashboard.php:1029 lib/admin/dashboard.php:1143
+msgid "Really delete this reservation permanently?"
+msgstr "Poistetaanko varaus varmasti lopullisesti?"
+
+#: lib/admin/dashboard.php:1029 lib/admin/dashboard.php:1143
+#: lib/admin/views/html-admin-resource-header.php:33
+#: lib/admin/views/html-admin-resources.php:67 lib/core/core.php:311
+#: lib/modules/paypal/creditcards.php:224 lib/modules/useredit/useredit.php:61
+#: lib/modules/useredit/useredit.php:62 lib/modules/useredit/useredit.php:126
+#: lib/modules/useredit/useredit.php:132
+msgid "delete"
+msgstr "poista"
+
+#: lib/admin/dashboard.php:1031 lib/admin/dashboard.php:1145
+msgid "Really move this reservation to trash?"
+msgstr "Siirretäänkö varaus varmasti roskakoriin?"
+
+#: lib/admin/dashboard.php:1031 lib/admin/dashboard.php:1145
+#: lib/class-er-ajax.php:1046
+msgid "trash"
+msgstr "roskakoriin"
+
+#: lib/admin/dashboard.php:1059
+#: lib/admin/views/html-admin-settings-form.php:149
+#: lib/admin/views/html-admin-settings-form.php:283
+#: lib/admin/views/html-admin-settings-form.php:690
+#: lib/class-er-reservation.php:901 lib/functions/admin.php:568
+#: lib/modules/htmlmails/htmlmails.php:394 lib/modules/styles/styles.php:74
+#: lib/modules/styles/styles.php:87 lib/modules/styles/styles.php:95
+#: lib/modules/useredit/useredit.php:797
+msgid "Adults"
+msgstr "Aikuisia"
+
+#: lib/admin/dashboard.php:1059
+#: lib/admin/views/html-admin-settings-form.php:154
+#: lib/admin/views/html-admin-settings-form.php:284
+#: lib/admin/views/html-admin-settings-form.php:717
+#: lib/class-er-reservation.php:906 lib/functions/admin.php:570
+#: lib/modules/htmlmails/htmlmails.php:395 lib/modules/styles/styles.php:79
+#: lib/modules/styles/styles.php:88 lib/modules/styles/styles.php:96
+#: lib/modules/useredit/useredit.php:798
+msgid "Children"
+msgstr "Lapsia"
+
+#: lib/admin/dashboard.php:1106 lib/modules/useredit/useredit.php:396
+msgid "User chat"
+msgstr ""
+
+#: lib/admin/dashboard.php:1139 lib/admin/dashboard.php:1158
+#: lib/admin/views/html-admin-resource-filter-add.php:518
+#: lib/admin/views/html-admin-resource-filters.php:179
+#: lib/admin/views/html-admin-resource-filters.php:252
+#: lib/admin/views/html-admin-resource-slots.php:47
+#: lib/admin/views/html-admin-resources.php:64
+#: lib/admin/views/html-admin-resources.php:65 lib/er-resource-functions.php:11
+#, fuzzy, php-format
+#| msgid "Edit filter"
+msgid "Edit %s"
+msgstr "Muokkaa suodinta"
+
+#: lib/admin/dashboard.php:1139 lib/admin/dashboard.php:1158
+#: lib/admin/dashboard.php:1345 lib/admin/dashboard.php:1350
+msgid "reservation"
+msgstr ""
+
+#: lib/admin/dashboard.php:1157
+#: lib/admin/views/html-admin-resource-header.php:32
+#, fuzzy
+#| msgid "Copy"
+msgid "Copy"
+msgstr "Kopioi"
+
+#: lib/admin/dashboard.php:1173 lib/admin/dashboard.php:1359
+#: lib/admin/views/html-admin-resource-filter-add.php:374
+#: lib/admin/views/html-admin-resource-slot-add.php:82
+#: lib/modules/htmlmails/htmlmails.php:391 templates/date-selection.php:22
+msgid "Arrival"
+msgstr "Tulo"
+
+#: lib/admin/dashboard.php:1184 lib/admin/dashboard.php:1373
+#: lib/admin/views/html-admin-resource-slot-add.php:107
+#: lib/modules/htmlmails/htmlmails.php:392 templates/date-selection.php:12
+msgid "Departure"
+msgstr "Lähtö"
+
+#: lib/admin/dashboard.php:1232 lib/admin/dashboard.php:1424
+#: lib/functions/both.php:21
+msgid "Unknown"
+msgstr "Tuntematon"
+
+#: lib/admin/dashboard.php:1260
+#, fuzzy
+#| msgid "calculate"
+msgid "Recalculate"
+msgstr "laske"
+
+#: lib/admin/dashboard.php:1275 lib/admin/dashboard.php:1456
+#: lib/class-er-ajax.php:1042 lib/class-er-ajax.php:1053
+#: lib/modules/export/export.php:111 lib/modules/statistics/statistics.php:553
+msgid "Pending"
+msgstr "Odottaa"
+
+#: lib/admin/dashboard.php:1275 lib/admin/dashboard.php:1456
+#: lib/class-er-ajax.php:1053 lib/modules/export/export.php:110
+msgid "Approved"
+msgstr "Hyväksytty"
+
+#: lib/admin/dashboard.php:1275 lib/admin/dashboard.php:1456
+#: lib/class-er-ajax.php:1043 lib/class-er-ajax.php:1053
+#: lib/modules/export/export.php:112 lib/modules/statistics/statistics.php:557
+msgid "Rejected"
+msgstr "Hylätty"
+
+#: lib/admin/dashboard.php:1275 lib/admin/dashboard.php:1456
+#: lib/class-er-ajax.php:1053 lib/modules/export/export.php:113
+#: lib/modules/statistics/statistics.php:561
+msgid "Trashed"
+msgstr "Siirretty roskakoriin"
+
+#: lib/admin/dashboard.php:1283 lib/admin/dashboard.php:1464
+#, fuzzy
+#| msgid "Username"
+msgid "User"
+msgstr "Käyttäjänimi"
+
+#: lib/admin/dashboard.php:1295 lib/admin/dashboard.php:1476
+#: lib/admin/views/html-admin-settings-emails.php:28 lib/class-er-ajax.php:1296
+#: lib/functions/admin.php:52 lib/modules/export/export.php:65
+#: lib/modules/htmlmails/htmlmails.php:141
+#: lib/modules/htmlmails/htmlmails.php:400 lib/modules/invoice/invoice.php:520
+#: lib/modules/statistics/statistics.php:116
+#: lib/modules/statistics/statistics.php:128
+#: lib/modules/statistics/statistics.php:522
+#: lib/modules/useredit/useredit.php:754
+msgid "Paid"
+msgstr "Maksettu"
+
+#: lib/admin/dashboard.php:1305 lib/admin/dashboard.php:1555
+msgid "Send email"
+msgstr ""
+
+#: lib/admin/dashboard.php:1310
+msgid "Send email to user on edit"
+msgstr ""
+
+#: lib/admin/dashboard.php:1345 lib/admin/dashboard.php:1350
+#: lib/admin/views/html-admin-resource-add.php:7
+#: lib/admin/views/html-admin-resource-filter-add.php:438
+#: lib/admin/views/html-admin-resource-filter-add.php:760
+#: lib/er-resource-functions.php:9 lib/er-resource-functions.php:10
+#: lib/functions/admin.php:520 lib/modules/coupons/coupons.php:68
+#: lib/modules/search/attributes.php:110 lib/shortcodes/form.php:216
+#, php-format
+msgid "Add %s"
+msgstr "Lisää uusi %s"
+
+#: lib/admin/dashboard.php:1505
+msgid "Approve reservation"
+msgstr ""
+
+#: lib/admin/dashboard.php:1505
+msgid "Reject reservation"
+msgstr ""
+
+#: lib/admin/dashboard.php:1513 lib/class-er-ajax.php:1250
+#: lib/functions/admin.php:117
+msgid "Approve"
+msgstr "Hyväksy"
+
+#: lib/admin/dashboard.php:1513 lib/class-er-ajax.php:1251
+#: lib/functions/admin.php:119
+msgid "Reject"
+msgstr "Hylkää"
+
+#: lib/admin/dashboard.php:1526 lib/admin/dashboard.php:1548
+msgid "Send email to guest"
+msgstr ""
+
+#: lib/admin/dashboard.php:1527
+msgid "Has been paid"
+msgstr "On maksettu"
+
+#: lib/admin/overview.php:171 lib/admin/overview.php:280
+#: lib/modules/export/export.php:117
+msgid "Present"
+msgstr "Nykyinen"
+
+#: lib/admin/overview.php:281 lib/functions/admin.php:35
+#: lib/modules/export/export.php:118 lib/modules/useredit/useredit.php:378
+msgid "Future"
+msgstr "Tuleva"
+
+#: lib/admin/overview.php:282 lib/admin/views/html-admin-resource-slots.php:10
+#: lib/admin/views/html-admin-settings-emails.php:45 lib/functions/admin.php:30
+#: lib/modules/htmlmails/htmlmails.php:47
+#: lib/modules/paypal/creditcards.php:398
+msgid "Active"
+msgstr "Aktiivinen"
+
+#: lib/admin/views/html-admin-resource-add.php:6
+#: lib/admin/views/html-admin-resource-filters.php:180
+#: lib/admin/views/html-admin-resource-filters.php:253
+#: lib/admin/views/html-admin-resource-slots.php:49
+#, fuzzy, php-format
+#| msgid "Copy"
+msgid "Copy %s"
+msgstr "Kopioi"
+
+#: lib/admin/views/html-admin-resource-add.php:34
+msgid "You can change this later on in the post view"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-add.php:37
+#: lib/admin/views/html-admin-resources.php:16
+#: lib/admin/views/html-admin-settings-custom.php:23
+#: lib/admin/views/html-admin-settings-custom.php:96
+#: lib/admin/views/html-admin-settings-form.php:443
+#: lib/admin/views/html-admin-settings-form.php:461
+#: lib/modules/paypal/paypal.php:186 lib/modules/styles/styles.php:19
+#: lib/modules/styles/styles.php:46 lib/modules/useredit/useredit.php:416
+#: lib/widgets/form_widget.php:150
+msgid "Title"
+msgstr "Otsikko"
+
+#: lib/admin/views/html-admin-resource-add.php:41
+msgid "Content"
+msgstr "Sisältö"
+
+#: lib/admin/views/html-admin-resource-add.php:45
+msgid "Image"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:5
+#: lib/admin/views/html-admin-settings-emails.php:20
+#: lib/admin/views/html-admin-settings-emails.php:21
+#: lib/admin/views/html-admin-settings-emails.php:22
+#: lib/admin/views/html-admin-settings-emails.php:23
+#: lib/modules/invoice/invoice.php:509 lib/modules/invoice/invoice.php:514
+#: lib/modules/invoice/invoice.php:515 lib/modules/invoice/invoice.php:516
+#, php-format
+msgid "Amount of %s"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:13
+#: lib/admin/views/html-admin-resource-filters.php:151
+#: lib/admin/views/html-admin-resource-filters.php:192
+#: lib/admin/views/html-admin-resource-header.php:39
+msgid "Filter"
+msgstr "Suodin"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:20
+msgid ""
+"With filter you can change the price, availability and requirements by "
+"flexible conditions."
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:22
+#: lib/admin/views/html-admin-resource-slot-add.php:28
+#, fuzzy, php-format
+#| msgid "Past"
+msgid "Paste %s"
+msgstr "Mennyt"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:22
+#: lib/admin/views/html-admin-resource-filter-add.php:438
+#: lib/admin/views/html-admin-resource-filter-add.php:518
+#: lib/admin/views/html-admin-resource-filter-add.php:760
+#: lib/admin/views/html-admin-resource-filters.php:179
+#: lib/admin/views/html-admin-resource-filters.php:180
+#: lib/admin/views/html-admin-resource-filters.php:181
+#: lib/admin/views/html-admin-resource-filters.php:252
+#: lib/admin/views/html-admin-resource-filters.php:253
+#: lib/admin/views/html-admin-resource-filters.php:254
+#, fuzzy
+#| msgid "Filter"
+msgid "filter"
+msgstr "Suodin"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:30
+#: lib/admin/views/html-admin-resource-filters.php:142
+#: lib/modules/search/search.php:39
+msgid "Unavailability"
+msgstr "Ei saatavilla"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:31
+#: lib/admin/views/html-admin-resource-filter-add.php:290
+#: lib/admin/views/html-admin-resource-settings.php:213
+msgid "Requirements"
+msgstr "Vaatimukset"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:39
+#: lib/admin/views/html-admin-resource-slot-add.php:40
+#: lib/admin/views/html-admin-settings-form.php:218
+msgid "Label"
+msgstr "Nimike"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:46
+#: lib/admin/views/html-admin-resource-filters.php:152
+msgid "Priority"
+msgstr "Prioriteetti"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:55
+#: lib/admin/views/html-admin-resource-filter-add.php:383
+#: lib/admin/views/html-admin-resource-filters.php:193
+#: lib/admin/views/html-admin-settings-custom.php:44
+#, fuzzy
+#| msgid "Condition"
+msgid "Condition"
+msgstr "Ehto"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:57
+msgid ""
+"This condition must be met so the filter gets applied. Only the first "
+"matched filter for each type condition gets applied - sorted by priority "
+"from low to high."
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:62
+#: lib/er-date-functions.php:42
+#, fuzzy
+msgid "time"
+msgstr "aika"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:72
+msgid "Date range"
+msgstr "Aikaväli"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:78
+#: lib/modules/coupons/coupons.php:82 lib/modules/useredit/useredit.php:795
+msgid "From"
+msgstr "Alkaen"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:87
+#: lib/modules/coupons/coupons.php:86 lib/modules/useredit/useredit.php:796
+msgid "To"
+msgstr "Päättyen"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:98
+msgid "Apply every year"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:107
+#, fuzzy
+#| msgid "Date  "
+msgid "Date unit"
+msgstr "Pvm"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:113
+#: lib/modules/hourlycal/hourlycal.php:197
+msgid "Hours"
+msgstr "Tuntia"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:114
+#: lib/admin/views/html-admin-resource-filter-add.php:150
+#: lib/admin/views/html-admin-resource-filter-add.php:166
+#: lib/admin/views/html-admin-resource-filter-add.php:237
+#: lib/admin/views/html-admin-resource-filter-add.php:261
+msgid "select nothing to change price/availability for entire"
+msgstr "älä valitse mitään, jos haluat muuttaa hintaa/saatavuutta ajalta"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:150
+#: lib/admin/views/html-admin-resource-filters.php:86
+msgid "calendar week"
+msgstr "kalenteriviikko"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:165
+#, fuzzy
+#| msgid "calendar week"
+msgid "Calendar week"
+msgstr "kalenteriviikko"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:235
+msgid "Months"
+msgstr "Kuukautta"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:237
+#: lib/admin/views/html-admin-resource-filter-add.php:260
+#: lib/admin/views/html-admin-resource-filters.php:88
+msgid "quarter"
+msgstr "neljännes"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:261
+#: lib/admin/views/html-admin-resource-filter-add.php:269
+#: lib/modules/paypal/creditcards.php:251
+msgid "year"
+msgstr "vuosi"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:298
+#: lib/admin/views/html-admin-resource-filter-add.php:316
+#: lib/admin/views/html-admin-resource-settings.php:224
+#: lib/admin/views/html-admin-resource-settings.php:246
+#: lib/admin/views/html-admin-settings-form.php:644
+#: lib/admin/views/html-admin-settings-form.php:694
+#: lib/admin/views/html-admin-settings-form.php:721
+msgid "Min"
+msgstr "Min"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:303
+#: lib/admin/views/html-admin-resource-filter-add.php:321
+#: lib/admin/views/html-admin-resource-settings.php:230
+#: lib/admin/views/html-admin-resource-settings.php:252
+#: lib/admin/views/html-admin-settings-form.php:650
+#: lib/admin/views/html-admin-settings-form.php:700
+#: lib/admin/views/html-admin-settings-form.php:727
+msgid "Max"
+msgstr "Maks"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:313
+#: lib/admin/views/html-admin-resource-filter-add.php:377
+#: lib/admin/views/html-admin-resource-filter-add.php:766
+#: lib/admin/views/html-admin-resource-filters.php:210
+#: lib/admin/views/html-admin-resource-settings.php:241
+#: lib/admin/views/html-admin-settings-emails.php:21
+#: lib/modules/htmlmails/htmlmails.php:129 lib/modules/invoice/invoice.php:514
+#: lib/modules/statistics/statistics.php:160
+msgid "persons"
+msgstr "henkilöä"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:331
+#: lib/admin/views/html-admin-resource-settings.php:263
+msgid "Arrival possible on"
+msgstr "Tulo mahdollinen"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:345
+#: lib/admin/views/html-admin-resource-settings.php:280
+msgid "Departure possible on"
+msgstr "Lähtö mahdollinen"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:371
+#: lib/admin/views/html-admin-resource-filter-add.php:418
+#: lib/admin/views/html-admin-settings-custom.php:24
+#: lib/admin/views/html-admin-settings-custom.php:109
+#: lib/admin/views/html-admin-settings-form.php:83
+#: lib/admin/views/html-admin-settings-form.php:137
+#: lib/admin/views/html-admin-settings-form.php:181
+#: lib/admin/views/html-admin-settings-form.php:272
+#: lib/admin/views/html-admin-settings-form.php:274
+#: lib/modules/export/export.php:109 lib/modules/htmlmails/htmlmails.php:38
+#: lib/modules/search/attributes.php:119
+msgid "Type"
+msgstr "Tyyppi"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:374
+#: lib/admin/views/html-admin-resource-filters.php:53
+#, php-format
+msgid "between %1$s and %2$s"
+msgstr "välillä %1$s - %2$s"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:375
+msgid "Recurring guests"
+msgstr "Vakioasiakkaat"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:378
+#: lib/admin/views/html-admin-resource-filter-add.php:767
+#: lib/admin/views/html-admin-settings-emails.php:22
+#: lib/modules/htmlmails/htmlmails.php:130 lib/modules/invoice/invoice.php:515
+msgid "adults"
+msgstr "aikuista"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:379
+#: lib/admin/views/html-admin-resource-filter-add.php:768
+#: lib/admin/views/html-admin-resource-filters.php:36
+#: lib/admin/views/html-admin-resource-filters.php:37
+#: lib/admin/views/html-admin-resource-filters.php:110
+#: lib/admin/views/html-admin-settings-emails.php:23
+#: lib/functions/admin.php:582 lib/modules/htmlmails/htmlmails.php:131
+#: lib/modules/invoice/invoice.php:516
+msgid "children"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:387
+#: lib/modules/hourlycal/hourlycal.php:173
+#: lib/modules/paypal/creditcards.php:325 lib/modules/paypal/paypal.php:198
+#: lib/modules/paypal/paypal.php:215 lib/modules/paypal/paypal.php:229
+#: lib/modules/paypal/paypal.php:246 lib/modules/paypal/paypal.php:260
+#: lib/modules/paypal/paypal.php:275 lib/modules/styles/styles.php:23
+#: lib/modules/styles/styles.php:54 lib/modules/sync/sync.php:199
+#: lib/modules/useredit/useredit.php:406
+msgid "Mode"
+msgstr "Moodi"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:389
+#: lib/admin/views/html-admin-resource-filter-add.php:390
+#: lib/admin/views/html-admin-resource-filter-add.php:391
+#: lib/admin/views/html-admin-resource-filter-add.php:392
+#: lib/admin/views/html-admin-resource-filter-add.php:393
+#: lib/admin/views/html-admin-resource-filter-add.php:394
+#: lib/admin/views/html-admin-resource-filter-add.php:395
+#: lib/admin/views/html-admin-resource-filter-add.php:396
+#: lib/admin/views/html-admin-resource-filter-add.php:397
+#: lib/admin/views/html-admin-resource-filter-add.php:398
+#: lib/admin/views/html-admin-resource-filter-add.php:399
+#: lib/admin/views/html-admin-resource-settings.php:125
+#: lib/functions/admin.php:578 lib/functions/admin.php:582
+#, php-format
+msgid "Price per %s"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:396
+#, fuzzy
+#| msgid "Billing units"
+msgid "billing unit"
+msgstr "Laskutusyksiköt"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:397
+#: lib/admin/views/html-admin-resource-filter-add.php:400
+#: lib/admin/views/html-admin-resource-filters.php:32
+#: lib/admin/views/html-admin-resource-filters.php:33
+#: lib/admin/views/html-admin-resource-filters.php:102
+#: lib/admin/views/html-admin-resource-settings.php:125
+#: lib/admin/views/html-admin-resource-settings.php:203
+#: lib/functions/admin.php:578
+msgid "person"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:398
+#: lib/admin/views/html-admin-resource-filter-add.php:401
+#: lib/admin/views/html-admin-resource-filters.php:34
+#: lib/admin/views/html-admin-resource-filters.php:35
+#: lib/admin/views/html-admin-resource-filters.php:106
+#: lib/admin/views/html-admin-resource-settings.php:204
+msgid "adult"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:399
+#: lib/admin/views/html-admin-resource-filter-add.php:402
+#: lib/admin/views/html-admin-resource-settings.php:205
+msgid "child"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:400
+#: lib/admin/views/html-admin-resource-filter-add.php:401
+#: lib/admin/views/html-admin-resource-filter-add.php:402
+#, php-format
+msgid "Price per %s and %s"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:403
+msgid "Percent"
+msgstr "Prosentti"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:406
+msgid "Only the first condition match from high to low will be applied"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:415
+msgid ""
+"Base price filter get checked for and applied each billing unit - extra "
+"charge and discount filter only once per reservation based on arrival."
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:421
+#: lib/admin/views/html-admin-resource-filters.php:139
+#: lib/functions/admin.php:574 lib/modules/styles/styles.php:98
+#, fuzzy
+#| msgid "Extra Charge"
+msgid "Extra charge"
+msgstr "Ekstran veloitus"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:422
+#: lib/admin/views/html-admin-resource-filters.php:136
+#: lib/functions/admin.php:572 lib/modules/coupons/coupons.php:39
+#: lib/modules/styles/styles.php:97
+msgid "Discount"
+msgstr "Alennus"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:423
+msgid "Change base price"
+msgstr "Muuta perushintaa"
+
+#: lib/admin/views/html-admin-resource-filter-add.php:429
+#: lib/admin/views/html-admin-resource-settings.php:79
+#: lib/admin/views/html-admin-resource-slot-add.php:198
+msgid "Children price"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filter-add.php:765
+msgid "visits"
+msgstr "käyntiä"
+
+#: lib/admin/views/html-admin-resource-filters.php:19
+msgid "the base price changes to"
+msgstr "perushinnaksi vaihtuu"
+
+#: lib/admin/views/html-admin-resource-filters.php:28
+msgid "each"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:33
+#: lib/admin/views/html-admin-resource-filters.php:35
+#: lib/admin/views/html-admin-resource-filters.php:36
+#: lib/admin/views/html-admin-resource-filters.php:84
+#: lib/admin/views/html-admin-resource-filters.php:85
+#: lib/admin/views/html-admin-resource-filters.php:86
+#: lib/admin/views/html-admin-resource-filters.php:87
+#: lib/admin/views/html-admin-resource-filters.php:88
+#: lib/admin/views/html-admin-resource-filters.php:89
+#: lib/admin/views/html-admin-resource-filters.php:90
+#: lib/admin/views/html-admin-resource-filters.php:127
+msgid "and"
+msgstr "ja"
+
+#: lib/admin/views/html-admin-resource-filters.php:39
+msgid "the price increases by"
+msgstr "hinta nousee"
+
+#: lib/admin/views/html-admin-resource-filters.php:40
+msgid "the price decreases by"
+msgstr "hinta laskee"
+
+#: lib/admin/views/html-admin-resource-filters.php:46
+#, php-format
+msgid "If %s to calculate is "
+msgstr "Jos %s, joka lasketaan on "
+
+#: lib/admin/views/html-admin-resource-filters.php:48
+#, fuzzy
+#| msgid "resource is unavailable"
+msgid "Resource is unavailable "
+msgstr "resurssi ei ole saatavilla"
+
+#: lib/admin/views/html-admin-resource-filters.php:50
+#, fuzzy
+#| msgid "Arrival"
+msgid "If arrival is "
+msgstr "Tulo"
+
+#: lib/admin/views/html-admin-resource-filters.php:84
+#, php-format
+msgid "at %s"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:86
+#: lib/admin/views/html-admin-resource-filters.php:87
+#: lib/admin/views/html-admin-resource-filters.php:88
+#: lib/admin/views/html-admin-resource-filters.php:89
+#, fuzzy, php-format
+#| msgid "min %s pers"
+msgid "in %s"
+msgstr "väh. %s hlöä"
+
+#: lib/admin/views/html-admin-resource-filters.php:98
+#: lib/admin/views/html-admin-resource-slot-add.php:112
+#: lib/admin/views/html-admin-resource-slots.php:11
+msgid "Duration"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:100
+#, php-format
+msgid "guest stays %s days or more"
+msgstr "asiakas viipyy vähintään %s päivää"
+
+#: lib/admin/views/html-admin-resource-filters.php:104
+#, php-format
+msgid "%s or more persons reserve"
+msgstr "vähintään %s henkilöä varaa"
+
+#: lib/admin/views/html-admin-resource-filters.php:108
+#, php-format
+msgid "%s or more adults reserve"
+msgstr "vähintään %s aikuista varaa"
+
+#: lib/admin/views/html-admin-resource-filters.php:112
+#, php-format
+msgid "%s or more children reserve"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:114
+#: lib/functions/admin.php:564 lib/modules/styles/styles.php:93
+msgid "Loyal"
+msgstr "Uskollinen"
+
+#: lib/admin/views/html-admin-resource-filters.php:120
+#, php-format
+msgid "guest comes the %1$s%2$s time"
+msgstr "asiakas tulee %1$s%2$s kertaa"
+
+#: lib/admin/views/html-admin-resource-filters.php:122
+#: lib/functions/admin.php:576 lib/modules/styles/styles.php:99
+#, fuzzy
+#| msgid "Earlybird filter"
+msgid "Early bird"
+msgstr "Aikainen varaaja -suodin"
+
+#: lib/admin/views/html-admin-resource-filters.php:124
+#, php-format
+msgid "the guest reserves %s before his arrival"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:128
+msgid "If"
+msgstr "Jos"
+
+#: lib/admin/views/html-admin-resource-filters.php:153
+#: lib/admin/views/html-admin-resource-slot-add.php:97
+#: lib/admin/views/html-admin-resource-slot-add.php:125
+#: lib/admin/views/html-admin-settings-general.php:192
+#: lib/modules/coupons/coupons.php:37 lib/modules/export/export.php:115
+#: lib/modules/useredit/useredit.php:375 lib/shortcodes/form.php:211
+msgid "Time"
+msgstr "Aika"
+
+#: lib/admin/views/html-admin-resource-filters.php:181
+#: lib/admin/views/html-admin-resource-filters.php:254
+#: lib/admin/views/html-admin-resource-slots.php:52 lib/class-er-ajax.php:1253
+#: lib/class-er-ajax.php:1320
+#, fuzzy, php-format
+#| msgid "Delete"
+msgid "Delete %s"
+msgstr "Poista"
+
+#: lib/admin/views/html-admin-resource-filters.php:187
+#, fuzzy
+#| msgid "No price filter set"
+msgid "No price filter defined"
+msgstr "Hintasuodinta ei ole asetettu"
+
+#: lib/admin/views/html-admin-resource-filters.php:207
+msgid "resources requirements change to"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-filters.php:213
+#: lib/admin/views/html-admin-resource-filters.php:224
+#: lib/class-er-ajax.php:1044
+msgid "All"
+msgstr "Kaikki"
+
+#: lib/admin/views/html-admin-resource-filters.php:261
+#, fuzzy
+#| msgid "No filter set"
+msgid "No filter defined"
+msgstr "Suodinta ei ole asetettu"
+
+#: lib/admin/views/html-admin-resource-header.php:31
+#: lib/admin/views/html-admin-resources-header.php:16
+#, fuzzy
+#| msgid "Post View"
+msgid "Post view"
+msgstr "Julkaisunäkymä"
+
+#: lib/admin/views/html-admin-resource-header.php:33
+#: lib/admin/views/html-admin-resources.php:67
+msgid "Really delete this resource and all its reservations?"
+msgstr "Haluatko varmasti poistaa tämän resurssin ja sen kaikki varaukset?"
+
+#: lib/admin/views/html-admin-resource-header.php:40
+msgid "Slots"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:55
+msgid ""
+"If you want your customers to only be able to select certain time ranges use "
+"slots, else use requirements to define when they can reserve. "
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:65
+#: lib/admin/views/html-admin-resource-slot-add.php:187
+#: lib/admin/views/html-admin-resources.php:19 lib/functions/admin.php:560
+#: lib/functions/admin.php:562 lib/functions/admin.php:590
+#: lib/modules/styles/styles.php:92
+msgid "Base price"
+msgstr "Perushinta"
+
+#: lib/admin/views/html-admin-resource-settings.php:74
+msgid "per billing unit"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:92
+msgid "Billing"
+msgstr "Laskutus"
+
+#: lib/admin/views/html-admin-resource-settings.php:96
+msgid "Bill each"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:100
+msgid "started"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:101
+msgid "completed"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:139
+msgid "Apply base price only once regardless of duration"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:145
+#: lib/admin/views/html-admin-settings-general.php:170
+#: lib/modules/export/export.php:66 lib/modules/statistics/statistics.php:593
+#: lib/modules/styles/styles.php:90
+msgid "Taxes"
+msgstr "Verot"
+
+#: lib/admin/views/html-admin-resource-settings.php:157
+#: lib/admin/views/html-admin-settings-general.php:235
+#: lib/modules/search/search.php:48
+msgid "Availability"
+msgstr "Saatavuus"
+
+#: lib/admin/views/html-admin-resource-settings.php:164
+msgid "Frequency"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:171
+#: lib/modules/hourlycal/hourlycal.php:174
+msgid "Half-hourly"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:172
+#: lib/modules/hourlycal/hourlycal.php:174
+#, fuzzy
+#| msgid "Hour"
+msgid "Hourly"
+msgstr "Tuntia"
+
+#: lib/admin/views/html-admin-resource-settings.php:173
+msgid "Daily"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:182
+#, fuzzy
+#| msgid "Quantity"
+msgid "Spaces/Quantity"
+msgstr "Määrä"
+
+#: lib/admin/views/html-admin-resource-settings.php:196
+msgid "Availability per"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-settings.php:202
+msgid "Object"
+msgstr "Objekti"
+
+#: lib/admin/views/html-admin-resource-settings.php:297
+#, fuzzy
+#| msgid "Required  permission"
+msgid "Required permission"
+msgstr "Tarvittava käyttöoikeus"
+
+#: lib/admin/views/html-admin-resource-slot-add.php:28
+#: lib/admin/views/html-admin-resource-slots.php:47
+#: lib/admin/views/html-admin-resource-slots.php:49
+#: lib/admin/views/html-admin-resource-slots.php:52
+msgid "slot"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-slot-add.php:49
+#, fuzzy
+#| msgid "Activate"
+msgid "Active between"
+msgstr "Aktivoi"
+
+#: lib/admin/views/html-admin-resource-slot-add.php:66
+#: lib/admin/views/html-admin-resource-slots.php:12
+msgid "Repeat"
+msgstr ""
+
+#: lib/admin/views/html-admin-resource-slot-add.php:87
+#, fuzzy
+#| msgid "Weeks"
+msgid "Week days"
+msgstr "Viikkoa"
+
+#: lib/admin/views/html-admin-resource-slots.php:59
+#, fuzzy
+#| msgid "No filter set"
+msgid "No slots defined"
+msgstr "Suodinta ei ole asetettu"
+
+#: lib/admin/views/html-admin-resources.php:18
+msgid "Quantity"
+msgstr "Määrä"
+
+#: lib/admin/views/html-admin-resources.php:22 lib/modules/styles/styles.php:35
+msgid "Excerpt"
+msgstr "Ote"
+
+#: lib/admin/views/html-admin-resources.php:38
+#: lib/modules/search/search.php:381
+msgid "Available"
+msgstr "Saatavilla"
+
+#: lib/admin/views/html-admin-resources.php:64
+#, fuzzy
+#| msgid "edit post"
+msgid "post"
+msgstr "muokkaa julkaisua"
+
+#: lib/admin/views/html-admin-settings-about.php:16
+msgid "Documentation"
+msgstr "Ohjeet"
+
+#: lib/admin/views/html-admin-settings-about.php:19
+msgid "Report bug"
+msgstr "Ilmoita virheestä"
+
+#: lib/admin/views/html-admin-settings-about.php:22 lib/core/core.php:16
+msgid "Premium"
+msgstr "Premium"
+
+#: lib/admin/views/html-admin-settings-about.php:25
+msgid "Rate the Plugin, please!"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-about.php:33 lib/core/core.php:314
+#: lib/modules/htmlmails/htmlmails.php:401
+msgid "Changelog"
+msgstr "Muutosloki"
+
+#: lib/admin/views/html-admin-settings-custom.php:25
+#: lib/admin/views/html-admin-settings-form.php:320
+#: lib/admin/views/html-admin-settings-form.php:526
+#: lib/admin/views/html-admin-settings-form.php:554
+#: lib/admin/views/html-admin-settings-form.php:748
+#: lib/admin/views/html-admin-settings-form.php:762
+#: lib/admin/views/html-admin-settings-form.php:823
+#: lib/modules/lang/lang.php:112
+msgid "Value"
+msgstr "Arvo"
+
+#: lib/admin/views/html-admin-settings-custom.php:26
+msgid "Unused"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-custom.php:67
+msgid "No custom fields defined"
+msgstr "Omia kenttiä ei ole määritetty"
+
+#: lib/admin/views/html-admin-settings-custom.php:91
+msgid ""
+"With custom fields you can add your own fields to the form. The data "
+"gathered can be used through the whole system in emails, invoices and when "
+"the guest edits his reservation."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-custom.php:104
+msgid "Field has influence on price"
+msgstr "Kenttä vaikuttaa hintaan"
+
+#: lib/admin/views/html-admin-settings-emails.php:10
+#, fuzzy
+#| msgid "Available"
+msgid "Available tags"
+msgstr "Saatavilla"
+
+#: lib/admin/views/html-admin-settings-emails.php:13
+#, fuzzy
+#| msgid "wordwrap"
+msgid "Wordwrap"
+msgstr "rivitys"
+
+#: lib/admin/views/html-admin-settings-emails.php:14
+#: lib/modules/htmlmails/htmlmails.php:138
+msgid "Message from admin"
+msgstr "Viesti ylläpidolta"
+
+#: lib/admin/views/html-admin-settings-emails.php:18
+#: lib/admin/views/html-admin-settings-form.php:95
+#: lib/admin/views/html-admin-settings-form.php:276
+#: lib/admin/views/html-admin-settings-form.php:521
+#: lib/modules/htmlmails/htmlmails.php:124 lib/modules/invoice/invoice.php:507
+msgid "Arrival date"
+msgstr "Tulopäivä"
+
+#: lib/admin/views/html-admin-settings-emails.php:19
+#: lib/admin/views/html-admin-settings-form.php:110
+#: lib/admin/views/html-admin-settings-form.php:279
+#: lib/admin/views/html-admin-settings-form.php:550
+#: lib/modules/htmlmails/htmlmails.php:125 lib/modules/invoice/invoice.php:508
+msgid "Departure date"
+msgstr "Tulopäivä"
+
+#: lib/admin/views/html-admin-settings-emails.php:20
+#: lib/admin/views/html-admin-settings-form.php:125
+#: lib/admin/views/html-admin-settings-form.php:282
+#: lib/admin/views/html-admin-settings-form.php:640
+#: lib/modules/htmlmails/htmlmails.php:126
+#: lib/modules/htmlmails/htmlmails.php:393 lib/modules/invoice/invoice.php:509
+msgid "billing units"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-emails.php:30
+#: lib/modules/htmlmails/htmlmails.php:139
+#, fuzzy
+#| msgid "link to user control panel"
+msgid "Link to user control panel"
+msgstr "linkki käyttäjän hallintapaneeliin"
+
+#: lib/admin/views/html-admin-settings-emails.php:62
+#: lib/modules/htmlmails/htmlmails.php:42
+msgid "Subject"
+msgstr "Aihe"
+
+#: lib/admin/views/html-admin-settings-emails.php:63
+#: lib/admin/views/html-admin-settings-form.php:84
+#: lib/admin/views/html-admin-settings-form.php:138
+#: lib/admin/views/html-admin-settings-form.php:251
+#: lib/modules/htmlmails/htmlmails.php:55
+msgid "Default"
+msgstr "Oletus"
+
+#: lib/admin/views/html-admin-settings-form.php:40
+msgid "Standard"
+msgstr "Normaali"
+
+#: lib/admin/views/html-admin-settings-form.php:77
+msgid "Date fields"
+msgstr "Päivämääräkentät"
+
+#: lib/admin/views/html-admin-settings-form.php:90
+#, fuzzy
+#| msgid "Description"
+msgid "Date selection"
+msgstr "Kuvaus"
+
+#: lib/admin/views/html-admin-settings-form.php:90
+#, fuzzy
+#| msgid "arrival date"
+msgid "For arrival and departure"
+msgstr "tulopäivä"
+
+#: lib/admin/views/html-admin-settings-form.php:95
+#: lib/admin/views/html-admin-settings-form.php:110
+msgid "Text field with datepicker"
+msgstr "Tekstikenttä päivämäärävalinnalla"
+
+#: lib/admin/views/html-admin-settings-form.php:100
+#: lib/admin/views/html-admin-settings-form.php:277
+#: lib/admin/views/html-admin-settings-form.php:564
+msgid "Arrival hour"
+msgstr "Tuloajan tunnit"
+
+# hmm
+#: lib/admin/views/html-admin-settings-form.php:100
+#: lib/admin/views/html-admin-settings-form.php:115
+msgid "Select field as of the time pattern selection"
+msgstr "Valitse kenttä ajan valintaa varten"
+
+#: lib/admin/views/html-admin-settings-form.php:105
+#: lib/admin/views/html-admin-settings-form.php:278
+#: lib/admin/views/html-admin-settings-form.php:598
+msgid "Arrival minute"
+msgstr "Tuloajan minuutit"
+
+# hmm
+#: lib/admin/views/html-admin-settings-form.php:105
+#: lib/admin/views/html-admin-settings-form.php:120
+#: lib/admin/views/html-admin-settings-form.php:836
+msgid "Select field"
+msgstr "Valitse kenttä"
+
+#: lib/admin/views/html-admin-settings-form.php:115
+#: lib/admin/views/html-admin-settings-form.php:280
+#: lib/admin/views/html-admin-settings-form.php:581
+msgid "Departure hour"
+msgstr "Lähtöajan tunnit"
+
+#: lib/admin/views/html-admin-settings-form.php:120
+#: lib/admin/views/html-admin-settings-form.php:281
+#: lib/admin/views/html-admin-settings-form.php:619
+msgid "Departure minute"
+msgstr "Lähtöajan minuutit"
+
+#: lib/admin/views/html-admin-settings-form.php:125
+msgid "Select field to choose length of stay"
+msgstr "Valitse kenttä viipymisen pituuden valintaa varten"
+
+#: lib/admin/views/html-admin-settings-form.php:131
+msgid "Information fields"
+msgstr "Tietokentät"
+
+#: lib/admin/views/html-admin-settings-form.php:144
+#, fuzzy
+#| msgid "Select of resource"
+msgid "Select for resource"
+msgstr "Resurssin valinta"
+
+#: lib/admin/views/html-admin-settings-form.php:149
+msgid "Select field for adults"
+msgstr "Aikuisten valintakenttä"
+
+#: lib/admin/views/html-admin-settings-form.php:154
+#, fuzzy
+#| msgid "Select field for children's"
+msgid "Select field for children"
+msgstr "Lasten valintakenttä"
+
+#: lib/admin/views/html-admin-settings-form.php:159
+msgid "Text field for name"
+msgstr "Nimen tekstikenttä"
+
+#: lib/admin/views/html-admin-settings-form.php:164
+msgid "Text field for email"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:169
+#: lib/admin/views/html-admin-settings-form.php:773
+#, fuzzy
+#| msgid "Select field of country's"
+msgid "Select field for country"
+msgstr "Maan valintakenttä"
+
+#: lib/admin/views/html-admin-settings-form.php:175
+msgid "Special fields"
+msgstr "Erikoiskentät"
+
+#: lib/admin/views/html-admin-settings-form.php:187
+#: lib/admin/views/html-admin-settings-form.php:787
+msgid "Hidden"
+msgstr "Piilotettu"
+
+#: lib/admin/views/html-admin-settings-form.php:187
+msgid "Dictate information and/or hide it from guest"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:191
+#: lib/admin/views/html-admin-settings-form.php:832
+#: lib/admin/views/html-admin-settings-header.php:24
+#: lib/functions/admin.php:558 lib/modules/export/export.php:69
+#: lib/modules/htmlmails/htmlmails.php:135
+msgid "Custom"
+msgstr "Oma"
+
+#: lib/admin/views/html-admin-settings-form.php:191
+msgid "Custom form elements to get more information"
+msgstr "Omat lomake-elementit lisätietojen saamiseksi"
+
+#: lib/admin/views/html-admin-settings-form.php:196
+#: lib/admin/views/html-admin-settings-form.php:792
+#: lib/modules/useredit/useredit.php:838
+msgid "Captcha"
+msgstr "Captcha"
+
+#: lib/admin/views/html-admin-settings-form.php:196
+#: lib/admin/views/html-admin-settings-form.php:793
+#, fuzzy
+#| msgid "Revenue of past reservations"
+msgid "To be secure against spam reservations"
+msgstr "Tulot menneistä varauksista"
+
+#: lib/admin/views/html-admin-settings-form.php:200
+#: lib/admin/views/html-admin-settings-form.php:806
+msgid "Display price live"
+msgstr "Näytä hinta reaaliajassa"
+
+#: lib/admin/views/html-admin-settings-form.php:204
+msgid "Error"
+msgstr "Virhe"
+
+#: lib/admin/views/html-admin-settings-form.php:204
+msgid "Displays errors"
+msgstr "Näytä virheet"
+
+#: lib/admin/views/html-admin-settings-form.php:208
+#: lib/widgets/form_widget.php:194
+msgid "Submit button"
+msgstr "Lähetä-painike"
+
+#: lib/admin/views/html-admin-settings-form.php:208
+#: lib/admin/views/html-admin-settings-form.php:820
+msgid "Button to submit the form"
+msgstr "Lomakkeen lähetyspainike"
+
+#: lib/admin/views/html-admin-settings-form.php:213
+#: lib/admin/views/html-admin-settings-general.php:116
+msgid "Format"
+msgstr "Muoto"
+
+#: lib/admin/views/html-admin-settings-form.php:218
+#, fuzzy
+#| msgid "Used for description of tags. Should be before the tag."
+msgid "Used for description of tags. Should be before the content wrapper."
+msgstr "Käytetään tunnisteiden kuvaamiseen. Tulee olla ennen tunnistetta."
+
+#: lib/admin/views/html-admin-settings-form.php:221
+msgid "Content wrapper"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:221
+msgid "Wrapper around content. Should be around fields and text."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:224
+msgid "Row"
+msgstr "Rivi"
+
+#: lib/admin/views/html-admin-settings-form.php:224
+msgid ""
+"Wrapper for multiple elements in one row. Should be inside the content "
+"wrapper and around any form elements and/or text. It may be necessary to "
+"define their width's."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:227
+msgid "Small"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:227
+msgid "A caption for the form element. Should be in the content wrapper."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:230
+msgid "Bold"
+msgstr "Lihavoitu"
+
+#: lib/admin/views/html-admin-settings-form.php:230
+msgid "Bold text"
+msgstr "Lihavoi teksti"
+
+#: lib/admin/views/html-admin-settings-form.php:233
+msgid "Italic"
+msgstr "Kursivoitu"
+
+#: lib/admin/views/html-admin-settings-form.php:233
+msgid "Italic text"
+msgstr "Kursivoi teksti"
+
+#: lib/admin/views/html-admin-settings-form.php:236
+msgid "Headline"
+msgstr "Otsikko"
+
+#: lib/admin/views/html-admin-settings-form.php:236
+#, fuzzy
+#| msgid "Big headline."
+msgid "Big headline"
+msgstr "Iso otsikko."
+
+#: lib/admin/views/html-admin-settings-form.php:239
+msgid "Sub-headline"
+msgstr "Alaotsikko"
+
+#: lib/admin/views/html-admin-settings-form.php:239
+msgid "Smaller headline to divide the form."
+msgstr "Pienempi otsikko lomakkeen jaotteluun."
+
+#: lib/admin/views/html-admin-settings-form.php:248
+msgid ""
+"Default widget and search bar template cannot be edited so you always have "
+"them as reference"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:292
+msgid "Display value"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:385
+msgid "Required"
+msgstr "Pakollinen"
+
+#: lib/admin/views/html-admin-settings-form.php:447
+msgid "Time range"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:451
+#: lib/modules/paypal/paypal.php:365
+msgid "Disabled"
+msgstr "Pois käytöstä"
+
+#: lib/admin/views/html-admin-settings-form.php:457
+msgid "Errors"
+msgstr "Virheet"
+
+#: lib/admin/views/html-admin-settings-form.php:458
+msgid ""
+"Shows the warning messages in form. Is required for the multiple "
+"reservations form function."
+msgstr ""
+"Näyttää varoitussanomat lomakkeissa. Pakollinen useiden varausten "
+"lomaketoiminnossa."
+
+#: lib/admin/views/html-admin-settings-form.php:466
+msgid "Message"
+msgstr "Sanoma"
+
+#: lib/admin/views/html-admin-settings-form.php:476
+msgid ""
+"For resources with slots and resources that get reserved on a daily basis."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:479
+#, fuzzy
+#| msgid "Departure possible on"
+msgid "Departure is selectable"
+msgstr "Lähtö mahdollinen"
+
+#: lib/admin/views/html-admin-settings-form.php:485
+#, fuzzy
+#| msgid "Time to delete"
+msgid "Time is selectable"
+msgstr "Poistamisaika"
+
+#: lib/admin/views/html-admin-settings-form.php:491
+#: lib/widgets/form_widget.php:174
+msgid "Default resource"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:495
+#, fuzzy
+#| msgid "Arrival hour"
+msgid "Default arrival hour"
+msgstr "Tuloajan tunnit"
+
+#: lib/admin/views/html-admin-settings-form.php:501
+#, fuzzy
+#| msgid "Select for arrival minute."
+msgid "Default arrival minute"
+msgstr "Valitse tuloajan minuutit."
+
+#: lib/admin/views/html-admin-settings-form.php:507
+#, fuzzy
+#| msgid "Departure hour"
+msgid "Default departure hour"
+msgstr "Lähtöajan tunnit"
+
+#: lib/admin/views/html-admin-settings-form.php:513
+#, fuzzy
+#| msgid "Departure minute"
+msgid "Default departure minute"
+msgstr "Lähtöajan minuutit"
+
+#: lib/admin/views/html-admin-settings-form.php:522
+#: lib/admin/views/html-admin-settings-form.php:745
+#: lib/admin/views/html-admin-settings-form.php:759
+#, fuzzy
+#| msgid "Text field for name. Is required in any form."
+msgid "Is required in any form."
+msgstr "Nimen tekstikenttä. Pakollinen kaikissa lomakkeissa."
+
+#: lib/admin/views/html-admin-settings-form.php:531
+msgid "Selectable days"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:535
+msgid "Earliest selectable date in days (0=now)"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:540
+msgid "Latest selectable date in days (0=endless)"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:551
+msgid ""
+"Field with datepicker for the departure date. Can be replaced by billing "
+"units selection or deleted so that every reservation lasts one billing unit."
+msgstr ""
+"Lähtöpäivän valintakenttä. Voidaan korvata laskutusyksiköiden valinnalla tai "
+"poistaa, jolloin jokainen varaus kestää yhden laskutusyksikön."
+
+#: lib/admin/views/html-admin-settings-form.php:565
+msgid ""
+"Select for arrival hour. Can be replaced by a hidden field and defaults to "
+"12:00 if not in form."
+msgstr ""
+"Valitse tuloajan tunti. Voidaan korvata piilotetulla kentällä. Jos arvoa ei "
+"anneta lomakkeessa, käytetään oletusarvoa 12.00."
+
+#: lib/admin/views/html-admin-settings-form.php:569
+#: lib/admin/views/html-admin-settings-form.php:586
+#: lib/admin/views/html-admin-settings-form.php:602
+#: lib/admin/views/html-admin-settings-form.php:623
+#: lib/admin/views/html-admin-settings-form.php:656
+#: lib/admin/views/html-admin-settings-form.php:671
+#: lib/admin/views/html-admin-settings-form.php:706
+#: lib/admin/views/html-admin-settings-form.php:733
+#: lib/admin/views/html-admin-settings-form.php:776
+msgid "Selected"
+msgstr "Valittu"
+
+#: lib/admin/views/html-admin-settings-form.php:582
+msgid ""
+"Select for departure hour. Can be replaced by a hidden field and defaults to "
+"12:00 if not in form."
+msgstr ""
+"Valitse lähtöajan tunti. Voidaan korvata piilotetulla kentällä. Jos arvoa ei "
+"anneta lomakkeessa, käytetään oletusarvoa 12.00."
+
+#: lib/admin/views/html-admin-settings-form.php:599
+msgid "Select for arrival minute."
+msgstr "Valitse tuloajan minuutit."
+
+#: lib/admin/views/html-admin-settings-form.php:608
+#: lib/admin/views/html-admin-settings-form.php:629
+msgid "Increment"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:620
+msgid "Select for departure minute."
+msgstr "Valitse lähtöajan minuutit."
+
+#: lib/admin/views/html-admin-settings-form.php:641
+#, fuzzy
+#| msgid ""
+#| "Select of billing units to define the length of stay. Can be replaced by "
+#| "depature date field or defaults to one billing unit if not in form."
+msgid ""
+"Select of billing units to define the duration of stay. Can be replaced by "
+"departure date field or defaults to one billing unit if not in form."
+msgstr ""
+"Viipymisen laskutusyksiköiden valinta. Voidaan korvata lähtöpäiväkentällä. "
+"Jos arvoa ei anneta lomakkeessa, käytetään yhden laskutusyksikön oletusarvoa."
+
+#: lib/admin/views/html-admin-settings-form.php:668
+msgid ""
+"Select of resources. Is required and can only be replaced by hidden field. "
+"You can exclude or include resources by entering comma separated IDs."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:675
+#: lib/modules/search/search.php:35 lib/modules/styles/styles.php:39
+msgid "Exclude"
+msgstr "Sulje pois"
+
+#: lib/admin/views/html-admin-settings-form.php:680
+msgid "Include"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:691
+msgid "Select of adults. Is required and can only be replaced by hidden field."
+msgstr ""
+"Aikuisten valintakenttä. Pakollinen ja voidaan korvata vain piilotetulla "
+"kentällä."
+
+#: lib/admin/views/html-admin-settings-form.php:718
+msgid "Select of children. Can be replaced by hidden field or deleted."
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-form.php:788
+msgid ""
+"Date and information fields can be replaced by hidden fields to force the "
+"selection without the guest choosing or seeing it. They are helpful for "
+"special offers or forms for just one resource."
+msgstr ""
+"Päivämäärä- ja tietokentät voidaan korvata piilotetuilla kentillä, jos "
+"valinta halutaan tehdä niin, ettei asiakas voi valita tai nähdä sitä. Ne "
+"ovat näppäriä erikoistarjouksissa tai vain yhden resurssin lomakkeissa."
+
+#: lib/admin/views/html-admin-settings-form.php:796
+msgid "Color of code"
+msgstr "Koodin väri"
+
+#: lib/admin/views/html-admin-settings-form.php:798
+msgid "Black"
+msgstr "Musta"
+
+#: lib/admin/views/html-admin-settings-form.php:798
+msgid "White"
+msgstr "Valkoinen"
+
+# hmm
+#: lib/admin/views/html-admin-settings-form.php:807
+#, fuzzy
+#| msgid "Shows the price as of selections."
+msgid "Display price as of current selection."
+msgstr "Näyttää valintojen mukaisen hinnan."
+
+#: lib/admin/views/html-admin-settings-form.php:810
+msgid "Text before price"
+msgstr "Teksti ennen hintaa"
+
+#: lib/admin/views/html-admin-settings-form.php:833
+#, php-format
+msgid ""
+"Can be any form element, can have an impact on the price and are used to get "
+"more information. Define them %s first"
+msgstr ""
+"Voi olla mikä tahansa lomake-elementti, voi vaikuttaa hintaan ja käytetään "
+"lisätietojen saamiseen. Määritä ne %s ensin"
+
+#: lib/admin/views/html-admin-settings-general.php:50
+msgid "Light"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:50
+msgid "Dark"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:66
+#: lib/modules/useredit/useredit.php:456 lib/modules/useredit/useredit.php:457
+#: lib/modules/useredit/useredit.php:458
+msgid "minutes"
+msgstr "minuuttia"
+
+#: lib/admin/views/html-admin-settings-general.php:103
+#: lib/modules/htmlmails/htmlmails.php:33 lib/modules/invoice/invoice.php:481
+#: lib/modules/paypal/creditcards.php:315
+#: lib/modules/paypal/creditcards.php:378 lib/modules/paypal/paypal.php:190
+#: lib/modules/paypal/paypal.php:209 lib/modules/paypal/paypal.php:222
+#: lib/modules/paypal/paypal.php:239 lib/modules/paypal/paypal.php:254
+#: lib/modules/paypal/paypal.php:269 lib/modules/paypal/paypal.php:287
+#: lib/modules/useredit/useredit.php:307 lib/modules/useredit/useredit.php:354
+#: lib/modules/useredit/useredit.php:396
+#, php-format
+msgid "%s settings"
+msgstr "%s asetukset"
+
+#: lib/admin/views/html-admin-settings-general.php:121
+msgid "Support email"
+msgstr "Tukisähköposti"
+
+#: lib/admin/views/html-admin-settings-general.php:130
+msgid "Money format"
+msgstr "Rahan muoto"
+
+#: lib/admin/views/html-admin-settings-general.php:146
+#, fuzzy
+#| msgid "Base Price"
+msgid "after Price"
+msgstr "Perushinta"
+
+#: lib/admin/views/html-admin-settings-general.php:146
+#, fuzzy
+#| msgid "Text before price"
+msgid "before Price"
+msgstr "Teksti ennen hintaa"
+
+#: lib/admin/views/html-admin-settings-general.php:152
+msgid "Whitespace between price and currency sign"
+msgstr "Välilyönti hinnan ja valuuttamerkin välissä"
+
+#: lib/admin/views/html-admin-settings-general.php:156
+#, fuzzy
+#| msgid "Th. seperator"
+msgid "Thousand separator"
+msgstr "Tuhaterotin"
+
+#: lib/admin/views/html-admin-settings-general.php:159
+#, fuzzy
+#| msgid "Dec. seperator"
+msgid "Decimal separator"
+msgstr "Desim.erotin"
+
+#: lib/admin/views/html-admin-settings-general.php:162
+#, fuzzy
+#| msgid "show decimals"
+msgid "Number of decimals"
+msgstr "näytä desimaalit"
+
+#: lib/admin/views/html-admin-settings-general.php:164
+msgid "Example"
+msgstr "Esimerkki"
+
+#: lib/admin/views/html-admin-settings-general.php:175
+msgid "Enter prices exclusive of tax"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:176
+msgid "Enter prices inclusive of tax"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:182
+msgid "Date format"
+msgstr "Pvm muoto"
+
+#: lib/admin/views/html-admin-settings-general.php:199
+msgid "Enable display of time"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:207
+msgid "Appearance"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:212
+msgid "Primary color"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:224
+msgid "Frontend style"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:240
+msgid "Merge resources"
+msgstr "Yhdistä resurssit"
+
+#: lib/admin/views/html-admin-settings-general.php:249
+#, php-format
+msgid "Only allow %s reservations at the same time across all resources"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:256
+msgid "Block time"
+msgstr "Estä aika"
+
+#: lib/admin/views/html-admin-settings-general.php:261
+#, fuzzy, php-format
+#| msgid "Mail to admin after new reservation"
+msgid "Block %s before and %s after each reservation"
+msgstr "Lähetä sähköposti ylläpitäjälle uuden varauksen jälkeen"
+
+#: lib/admin/views/html-admin-settings-general.php:271
+#, fuzzy
+#| msgid "Change Permissions"
+msgid "Permissions"
+msgstr "Muuta käyttöoikeuksia"
+
+#: lib/admin/views/html-admin-settings-general.php:330
+msgid "Miscellaneous"
+msgstr ""
+
+#: lib/admin/views/html-admin-settings-general.php:335
+msgid "Tutorial"
+msgstr "Opas"
+
+#: lib/admin/views/html-admin-settings-general.php:342
+msgid "Enable tutorial mode"
+msgstr "Ota opastila käyttöön"
+
+#: lib/admin/views/html-admin-settings-general.php:344
+msgid "Reset"
+msgstr "Palauta"
+
+#: lib/admin/views/html-admin-settings-general.php:349
+msgid "Uninstall"
+msgstr "Poista asennus"
+
+#: lib/admin/views/html-admin-settings-general.php:356
+msgid "Delete settings, reservations and resources"
+msgstr "Poista asetukset, varaukset ja resurssit"
+
+#: lib/admin/views/html-admin-settings-general.php:362
+msgid "Important guests"
+msgstr "Tärkeät asiakkaat"
+
+#: lib/admin/views/html-admin-settings-general.php:371
+#, fuzzy
+#| msgid "Execute scripts"
+msgid "Execute script"
+msgstr "Suorita komentosarjoja"
+
+#: lib/admin/views/html-admin-settings-header.php:35
+msgid "About"
+msgstr "Tietoja"
+
+#: lib/class-er-ajax.php:530 lib/modules/coupons/coupons.php:137
+#: lib/modules/invoice/invoice.php:267 lib/modules/paypal/creditcards.php:278
+#: lib/modules/paypal/paypal.php:71 lib/modules/useredit/useredit.php:529
+#: lib/modules/useredit/useredit.php:541 lib/modules/useredit/useredit.php:544
+#: lib/modules/useredit/useredit.php:556 lib/modules/useredit/useredit.php:581
+#: lib/modules/useredit/useredit.php:628 lib/modules/useredit/useredit.php:635
+#: lib/modules/useredit/useredit.php:724 lib/modules/useredit/useredit.php:827
+#: lib/shortcodes/form.php:56
+msgid "Back"
+msgstr "Takaisin"
+
+#: lib/class-er-ajax.php:577 lib/modules/useredit/useredit.php:541
+#, fuzzy
+#| msgid "Enter correct captcha"
+msgid "the correct captcha"
+msgstr "Kirjoita oikea Captcha"
+
+#: lib/class-er-ajax.php:684 lib/modules/statistics/statistics.php:628
+msgid "Add reservations first"
+msgstr "Lisää varaukset ensin"
+
+#: lib/class-er-ajax.php:772 lib/er-form-functions.php:466
+#, php-format
+msgid "%s is required"
+msgstr "%s on pakollinen"
+
+#: lib/class-er-ajax.php:781
+msgid "Captcha is required"
+msgstr "Captcha on pakollinen"
+
+#: lib/class-er-ajax.php:784 lib/class-er-ajax.php:792
+msgid "Enter correct captcha"
+msgstr "Kirjoita oikea Captcha"
+
+#: lib/class-er-ajax.php:1040
+msgid "Upcoming"
+msgstr "Tuleva"
+
+#: lib/class-er-ajax.php:1041 lib/modules/useredit/useredit.php:377
+msgid "Current"
+msgstr "Nykyinen"
+
+#: lib/class-er-ajax.php:1045
+msgid "Old"
+msgstr "Vanha"
+
+#: lib/class-er-ajax.php:1053
+msgid "View all states"
+msgstr ""
+
+#: lib/class-er-ajax.php:1058
+msgid "Show all months"
+msgstr ""
+
+#: lib/class-er-ajax.php:1073
+msgid "View all Resources"
+msgstr "Näytä kaikki resurssit"
+
+#: lib/class-er-ajax.php:1249 lib/functions/admin.php:121
+#: lib/modules/search/attributes.php:136 lib/modules/sync/ical.import.php:254
+#: lib/modules/useredit/useredit.php:60 lib/modules/useredit/useredit.php:131
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: lib/class-er-ajax.php:1252 lib/class-er-ajax.php:1319
+msgid "Restore"
+msgstr "Palauta"
+
+#: lib/class-er-ajax.php:1253 lib/class-er-ajax.php:1320
+#, fuzzy
+#| msgid "Delete Permanently"
+msgid "permanently"
+msgstr "Poista pysyvästi"
+
+#: lib/class-er-ajax.php:1259 lib/modules/useredit/useredit.php:29
+#: lib/modules/useredit/useredit.php:57 lib/modules/useredit/useredit.php:138
+#: lib/modules/useredit/useredit.php:708
+msgid "ago"
+msgstr "sitten"
+
+#: lib/class-er-ajax.php:1305
+#, fuzzy
+#| msgid "No Reservations found!"
+msgid "No reservations found"
+msgstr "Varauksia ei löytynyt!"
+
+#: lib/class-er-ajax.php:1318
+#, fuzzy
+#| msgid "Move to Trash"
+msgid "Move to trash"
+msgstr "Siirrä roskakoriin"
+
+#: lib/class-er-ajax.php:1323
+msgid "Apply"
+msgstr "Käytä"
+
+#: lib/class-er-ajax.php:1346
+msgid "Elements"
+msgstr "Elementit"
+
+#: lib/class-er-frontend.php:75
+msgid "Wait"
+msgstr ""
+
+#: lib/class-er-frontend.php:76 templates/date-selection.php:24
+#, fuzzy
+#| msgid "Select style"
+msgid "Select Date"
+msgstr "Valitse tyyli"
+
+#: lib/class-er-reservation.php:878
+#, fuzzy
+#| msgid "Your name"
+msgid "your name"
+msgstr "Nimesi"
+
+#: lib/class-er-reservation.php:884
+msgid "a valid email address"
+msgstr ""
+
+#: lib/class-er-reservation.php:895
+msgid "The departure date has to be after the arrival date"
+msgstr "Lähtöpäivän on oltava ennen tulopäivää"
+
+#: lib/class-er-reservation.php:915 lib/modules/search/search.php:377
+msgid "Not available at"
+msgstr "Ei saatavilla"
+
+#: lib/class-er-reservation.php:916 lib/class-er-reservation.php:917
+msgid "Selected time is occupied"
+msgstr "Valittu aika on varattu"
+
+#: lib/class-er-reservation.php:924
+#, fuzzy
+#| msgid "The arrival date has to be in future"
+msgid "The arrival date has to be in the future"
+msgstr "Tulopäivän on oltava tulevaisuudessa"
+
+#: lib/class-er-reservation.php:956
+#, php-format
+msgid "At least %1$s persons in %2$s"
+msgstr "Vähintään %1$s henkilöä kohteessa %2$s"
+
+#: lib/class-er-reservation.php:960
+#, php-format
+msgid "Maximum %1$s persons in %2$s"
+msgstr "Enintään %1$s henkilöä kohteessa %2$s"
+
+#: lib/class-er-reservation.php:965
+#, php-format
+msgid "At least %1$s %2$s in %3$s"
+msgstr "Vähintään %1$s %2$s kohteessa %3$s"
+
+#: lib/class-er-reservation.php:974
+#, php-format
+msgid "Maximum %1$s %2$s in %3$s"
+msgstr "Enintään %1$s %2$s kohteessa %3$s"
+
+#: lib/class-er-reservation.php:985
+#, fuzzy, php-format
+#| msgid "Arrival only possible on %s"
+msgid "Arrival not possible on %s"
+msgstr "Tulo mahdollinen vain %s"
+
+#: lib/class-er-reservation.php:994
+#, php-format
+msgid "Arrival only possible on %s"
+msgstr "Tulo mahdollinen vain %s"
+
+#: lib/class-er-reservation.php:1000
+#, fuzzy, php-format
+#| msgid "Departure only possible on %s"
+msgid "Departure not possible on %s"
+msgstr "Lähtö mahdollinen vain %s"
+
+#: lib/class-er-reservation.php:1007
+#, php-format
+msgid "Departure only possible on %s"
+msgstr "Lähtö mahdollinen vain %s"
+
+#: lib/class-er-reservation.php:1015
+#, php-format
+msgid "Arrival only possible from %s"
+msgstr "Tulo mahdollinen vain alkaen %s"
+
+#: lib/class-er-reservation.php:1022
+#, php-format
+msgid "Arrival only possible till %s"
+msgstr "Tulo mahdollinen vain viimeistään %s"
+
+#: lib/class-er-reservation.php:1031
+#, php-format
+msgid "Departure only possible from %s"
+msgstr "Lähtö mahdollinen vain alkaen %s"
+
+#: lib/class-er-reservation.php:1038
+#, php-format
+msgid "Departure only possible till %s"
+msgstr "Lähtö mahdollinen vain viimeistään %s"
+
+#: lib/class-er-reservation.php:1159 lib/modules/useredit/useredit.php:374
+msgid "trashed"
+msgstr "siirretty roskiin"
+
+#: lib/core/core.php:28
+msgid "Checked for updates"
+msgstr "Päivitykset tarkistettu"
+
+#: lib/core/core.php:31
+msgid "Logged in"
+msgstr ""
+
+#: lib/core/core.php:34
+#, php-format
+msgid "%s activated"
+msgstr "%s aktivoitu"
+
+#: lib/core/core.php:34 lib/core/core.php:57 lib/core/core.php:59
+#: lib/core/core.php:74 lib/core/core.php:106
+#, php-format
+msgid "Module %s"
+msgstr "Moduuli %s"
+
+#: lib/core/core.php:37
+msgid "Logged out"
+msgstr "Kirjattu ulos"
+
+#: lib/core/core.php:39
+msgid "All installed modules activated"
+msgstr "Kaikki asennetut moduulit aktivoitu"
+
+#: lib/core/core.php:41
+msgid "All installed modules deactivated"
+msgstr "Kaikki asennetut moduulit deaktivoitu"
+
+#: lib/core/core.php:49 lib/core/core.php:106 lib/core/core.php:278
+msgid "installed"
+msgstr "asennettu"
+
+#: lib/core/core.php:54
+#, php-format
+msgid "Failure at updating module %1$s - %2$s"
+msgstr "Virhe päivitettäessä moduulia %1$s - %2$s"
+
+#: lib/core/core.php:55
+#, php-format
+msgid "Failure at extracting module %1$s - %2$s"
+msgstr "Virhe purettaessa moduulia %1$s - %2$s"
+
+#: lib/core/core.php:59
+#, php-format
+msgid "%s deactivated"
+msgstr "%s deaktivoitu"
+
+#: lib/core/core.php:108
+msgid "Upload failed"
+msgstr "Lähetys epäonnistui"
+
+#: lib/core/core.php:277 lib/functions/admin.php:547
+#: lib/modules/paypal/creditcards.php:343
+msgid "Description"
+msgstr "Kuvaus"
+
+#: lib/core/core.php:279
+msgid "Actual"
+msgstr "Todellinen"
+
+#: lib/core/core.php:310 lib/core/core.php:356
+msgid "Activate"
+msgstr "Aktivoi"
+
+#: lib/core/core.php:312 lib/core/core.php:357
+msgid "Deactivate"
+msgstr "Deaktivoi"
+
+#: lib/core/core.php:324 lib/core/core.php:361
+#, php-format
+msgid "Incompatibility - Update easyReservations to at least %s"
+msgstr ""
+"Yhteensopivuusongelma - Päivitys easyReservations vähintään versioon %s"
+
+#: lib/core/core.php:325 lib/core/core.php:362
+#, php-format
+msgid ""
+"Incompatibility - This version of easyReservations needs at least version %s "
+"of this module"
+msgstr ""
+"Yhteensopivuusongelma - easyReservationsin tämä versio edellyttää vähintään "
+"version %s tästä moduulista"
+
+#: lib/core/core.php:332
+msgid "Update"
+msgstr "Päivitä"
+
+#: lib/core/core.php:333
+msgid "Reinstall"
+msgstr "Asenna uudelleen"
+
+#: lib/core/core.php:334 lib/core/core.php:435
+msgid "Install"
+msgstr "Asenna"
+
+#: lib/core/core.php:336 lib/core/core.php:337 lib/core/core.php:367
+#: lib/modules/useredit/useredit.php:750
+msgid "Download"
+msgstr "Lataa"
+
+#: lib/core/core.php:378
+msgid "Premium Login"
+msgstr "Premium Kirjaudu"
+
+#: lib/core/core.php:378
+msgid "Premium Features"
+msgstr "Premium-ominaisuudet"
+
+#: lib/core/core.php:383
+msgid "Login"
+msgstr "Kirjaudu sisään"
+
+#: lib/core/core.php:394
+msgid "Username"
+msgstr "Käyttäjänimi"
+
+#: lib/core/core.php:398
+msgid "Password"
+msgstr "Salasana"
+
+#: lib/core/core.php:407
+msgid "Install all modules"
+msgstr "Asenna kaikki moduulit"
+
+#: lib/core/core.php:411
+#, fuzzy
+#| msgid "Activate All"
+msgid "Activate all"
+msgstr "Aktivoi kaikki"
+
+#: lib/core/core.php:415
+#, fuzzy
+#| msgid "Deactivate All"
+msgid "Deactivate all"
+msgstr "Deaktivoi kaikki"
+
+#: lib/core/core.php:418
+msgid "Check for updates"
+msgstr "Etsi päivityksiä"
+
+#: lib/core/core.php:419
+#, fuzzy
+#| msgid "logout"
+msgid "Logout"
+msgstr "kirjaudu ulos"
+
+#: lib/core/core.php:420
+#, fuzzy
+#| msgid "Last check"
+msgid "Last checked at"
+msgstr "Viimeinen tarkistus"
+
+#: lib/core/core.php:429
+msgid "Install or update module manually"
+msgstr ""
+
+#: lib/core/core.php:538
+msgid "Wrong login data"
+msgstr "Väärät kirjautumistiedot"
+
+#: lib/core/core.php:539
+#, php-format
+msgid "No premium account - %s"
+msgstr "Ei Premium-tiliä - %s"
+
+#: lib/core/core.php:541
+msgid "cURL isnt installed on your server, please contact your host"
+msgstr "URL ei ole asennettu palvelimellesi, ota yhteyttä ylläpitäjään"
+
+#: lib/core/core.php:552
+#, php-format
+msgid "Failure at copying module %1$s - %2$s"
+msgstr "Virhe kopioitaessa moduulia %1$s - %2$s"
+
+#: lib/core/core.php:651
+#, fuzzy, php-format
+#| msgid ""
+#| "Modules %1$s is incopatible to easyReservations %2$s - update to version "
+#| "%3$s"
+msgid ""
+"Module %1$s is incompatible to easyReservations %2$s - update to version %3$s"
+msgstr ""
+"Moduuli %1$s ei ole yhteensopiva easyReservations %2$s kanssa - päivitä "
+"versioon %3$s"
+
+#: lib/core/core.php:653
+#, fuzzy, php-format
+#| msgid ""
+#| "easyReservations %1$s is incompatible to %2$s %3$s - update at least to "
+#| "version %4$s"
+msgid "%1$s is incompatible to %2$s %3$s - update at least to version %4$s"
+msgstr ""
+"easyReservations %1$s ei ole yhteensopiva %2$s %3$s kanssa - päivitä "
+"vähintään versioon %4$s"
+
+#: lib/er-date-functions.php:30
+msgid "half hour"
+msgid_plural "half hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/er-date-functions.php:32
+#, fuzzy
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "tunti"
+msgstr[1] "tunti"
+
+# hmm
+#: lib/er-date-functions.php:34
+#, fuzzy
+msgid "day"
+msgid_plural "days"
+msgstr[0] "päivä"
+msgstr[1] "päivä"
+
+#: lib/er-date-functions.php:36
+msgid "night"
+msgid_plural "nights"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/er-date-functions.php:38
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/er-date-functions.php:40
+#, fuzzy
+msgid "month"
+msgid_plural "months"
+msgstr[0] "kuukausi"
+msgstr[1] "kuukausi"
+
+#: lib/er-date-functions.php:63
+msgid "Monday"
+msgstr "Maanantai"
+
+#: lib/er-date-functions.php:64
+msgid "Tuesday"
+msgstr "Tiistai"
+
+#: lib/er-date-functions.php:65
+msgid "Wednesday"
+msgstr "Keskiviikko"
+
+#: lib/er-date-functions.php:66
+msgid "Thursday"
+msgstr "Torstai"
+
+#: lib/er-date-functions.php:67
+msgid "Friday"
+msgstr "Perjantai"
+
+#: lib/er-date-functions.php:68
+msgid "Saturday"
+msgstr "Lauantai"
+
+#: lib/er-date-functions.php:69
+msgid "Sunday"
+msgstr "Sunnuntai"
+
+#: lib/er-date-functions.php:71
+msgid "January"
+msgstr "tammikuu"
+
+#: lib/er-date-functions.php:72
+msgid "February"
+msgstr "helmikuu"
+
+#: lib/er-date-functions.php:73
+msgid "March"
+msgstr "maaliskuu"
+
+#: lib/er-date-functions.php:74
+msgid "April"
+msgstr "huhtikuu"
+
+#: lib/er-date-functions.php:75
+msgid "May"
+msgstr "toukokuu"
+
+#: lib/er-date-functions.php:76
+msgid "June"
+msgstr "kesäkuu"
+
+#: lib/er-date-functions.php:77
+msgid "July"
+msgstr "heinäkuu"
+
+#: lib/er-date-functions.php:78
+msgid "August"
+msgstr "elokuu"
+
+#: lib/er-date-functions.php:79
+msgid "September"
+msgstr "syyskuu"
+
+#: lib/er-date-functions.php:80
+msgid "October"
+msgstr "lokakuu"
+
+#: lib/er-date-functions.php:81
+msgid "November"
+msgstr "marraskuu"
+
+#: lib/er-date-functions.php:82
+msgid "December"
+msgstr "joulukuu"
+
+#: lib/er-form-functions.php:93
+#, fuzzy
+#| msgid "Default"
+msgid "Default form"
+msgstr "Oletus"
+
+#: lib/er-resource-functions.php:12
+#, fuzzy
+#| msgid "New Resource"
+msgid "New resource"
+msgstr "Uusi resurssi"
+
+#: lib/er-resource-functions.php:13 lib/modules/statistics/statistics.php:264
+msgid "All resources"
+msgstr "Kaikki resurssit"
+
+#: lib/er-resource-functions.php:14
+#, fuzzy
+#| msgid "View Resource"
+msgid "View resource"
+msgstr "Näytä resurssi"
+
+#: lib/functions/admin.php:74
+msgid "Email to guest from admin in dashboard"
+msgstr ""
+
+#: lib/functions/admin.php:79
+msgid "Email to admin after new reservation"
+msgstr ""
+
+#: lib/functions/admin.php:84
+msgid "Email to guest after new reservation"
+msgstr ""
+
+#: lib/functions/admin.php:89
+msgid "Email to guest after approval"
+msgstr ""
+
+#: lib/functions/admin.php:94
+msgid "Email to guest after rejection"
+msgstr ""
+
+#: lib/functions/admin.php:99
+msgid "Email to guest after admin edited"
+msgstr ""
+
+#: lib/functions/admin.php:547 lib/modules/invoice/invoice.php:257
+#: lib/modules/invoice/invoice.php:371 lib/modules/invoice/invoice.php:481
+#: lib/modules/useredit/useredit.php:751 lib/modules/useredit/useredit.php:880
+msgid "Invoice"
+msgstr "Lasku"
+
+#: lib/functions/admin.php:547 lib/modules/styles/styles.php:70
+msgid "Total"
+msgstr "Yhteensä"
+
+#: lib/functions/admin.php:560 lib/functions/admin.php:562
+#: lib/functions/admin.php:564 lib/functions/admin.php:566
+#: lib/functions/admin.php:568 lib/functions/admin.php:570
+#: lib/functions/admin.php:572 lib/functions/admin.php:574
+#: lib/functions/admin.php:576 lib/functions/admin.php:587
+#: lib/modules/styles/styles.php:92 lib/modules/styles/styles.php:93
+#: lib/modules/styles/styles.php:94 lib/modules/styles/styles.php:95
+#: lib/modules/styles/styles.php:96 lib/modules/styles/styles.php:97
+#: lib/modules/styles/styles.php:98 lib/modules/styles/styles.php:99
+#, php-format
+msgid "%s filter"
+msgstr "%s suodin"
+
+#: lib/functions/admin.php:580 lib/modules/coupons/coupons.php:141
+#: lib/modules/coupons/coupons.php:147
+#: lib/modules/styles/shortcodes/receipt.php:97
+msgid "Coupon code"
+msgstr ""
+
+#: lib/functions/admin.php:584
+msgid "Tax"
+msgstr "Vero"
+
+#: lib/functions/both.php:29
+msgid "only unavailability"
+msgstr ""
+
+#: lib/functions/both.php:29
+msgid "with availability"
+msgstr ""
+
+#: lib/functions/both.php:29
+msgid "with partly availability"
+msgstr ""
+
+#: lib/functions/both.php:29
+msgid "with both"
+msgstr ""
+
+#: lib/modules/coupons/coupons.php:21 lib/modules/coupons/coupons.php:183
+#: lib/modules/styles/styles.php:91
+msgid "Coupons"
+msgstr "Kupongit"
+
+#: lib/modules/coupons/coupons.php:36 lib/modules/coupons/coupons.php:78
+msgid "Code"
+msgstr "Koodi"
+
+#: lib/modules/coupons/coupons.php:38 lib/modules/coupons/coupons.php:90
+#, fuzzy
+#| msgid "Message"
+msgid "Usages"
+msgstr "Sanoma"
+
+#: lib/modules/coupons/coupons.php:60
+#, fuzzy
+#| msgid "No custom fields defined"
+msgid "No coupon codes defined"
+msgstr "Omia kenttiä ei ole määritetty"
+
+#: lib/modules/coupons/coupons.php:68 lib/modules/coupons/coupons.php:216
+#: lib/modules/coupons/coupons.php:233
+msgid "Coupon"
+msgstr "Kuponki"
+
+#: lib/modules/coupons/coupons.php:94
+#: lib/modules/styles/shortcodes/receipt.php:133
+msgid "Amount"
+msgstr "Määrä"
+
+#: lib/modules/coupons/coupons.php:157
+#, fuzzy
+#| msgid "No custom fields defined"
+msgid "No coupon added"
+msgstr "Omia kenttiä ei ole määritetty"
+
+#: lib/modules/coupons/coupons.php:217 lib/modules/coupons/coupons.php:233
+msgid "Text field to enter coupon codes"
+msgstr "Kuponkikoodien kirjoituskenttä"
+
+#: lib/modules/export/export.php:27
+msgid "Export reservations"
+msgstr "Vie varaukset"
+
+#: lib/modules/export/export.php:37
+msgid "Reservations in table"
+msgstr "Varaukset taulukossa"
+
+#: lib/modules/export/export.php:38
+msgid "All reservations"
+msgstr "Kaikki varaukset"
+
+#: lib/modules/export/export.php:44 lib/modules/export/export.php:46
+msgid "file"
+msgstr ""
+
+#: lib/modules/export/export.php:52 lib/modules/useredit/useredit.php:358
+#: lib/modules/useredit/useredit.php:422 lib/modules/useredit/useredit.php:747
+msgid "Information"
+msgstr ""
+
+#: lib/modules/export/export.php:72 lib/modules/sync/sync.php:169
+msgid "Space"
+msgstr ""
+
+#: lib/modules/hourlycal/hourlycal.php:185
+#, fuzzy
+#| msgid "Date format"
+msgid "Time format"
+msgstr "Pvm muoto"
+
+#: lib/modules/hourlycal/hourlycal.php:194
+msgid "Display"
+msgstr "Näytä"
+
+#: lib/modules/hourlycal/hourlycal.php:194
+msgid "Navigation"
+msgstr "Navigointi"
+
+#: lib/modules/hourlycal/hourlycal.php:198
+#, fuzzy, php-format
+#| msgid "Display hours from"
+msgid "Display hours from %s until"
+msgstr "Näytä tunnit alkaen"
+
+#: lib/modules/hourlycal/hourlycal.php:233
+#, fuzzy
+#| msgid "Hourly Calendar"
+msgid "Hourly calendar"
+msgstr "Tuntikalenteri"
+
+#: lib/modules/htmlmails/htmlmails.php:49
+msgid "Activate email type"
+msgstr ""
+
+#: lib/modules/htmlmails/htmlmails.php:55
+msgid "Plain text"
+msgstr "Pelkkä teksti"
+
+#: lib/modules/htmlmails/htmlmails.php:136
+msgid "Date today"
+msgstr "Pvm tänään"
+
+#: lib/modules/htmlmails/htmlmails.php:137
+msgid "ID of reservation"
+msgstr "Varaustunnus"
+
+#: lib/modules/htmlmails/htmlmails.php:142
+#: lib/modules/htmlmails/htmlmails.php:405
+msgid "PayPal URL"
+msgstr "PayPal URL"
+
+# hmm
+#: lib/modules/htmlmails/htmlmails.php:402
+msgid "Editlink"
+msgstr "Muokkauslinkki"
+
+#: lib/modules/htmlmails/htmlmails.php:403
+#, fuzzy
+#| msgid "Admin Message"
+msgid "Admin message"
+msgstr "Ylläpidon viesti"
+
+#: lib/modules/invoice/editor.php:22
+msgid "Generate"
+msgstr "Luo"
+
+#: lib/modules/invoice/editor.php:23
+msgid "Preview"
+msgstr "Esikatselu"
+
+#: lib/modules/invoice/invoice.php:153
+msgid "Due date"
+msgstr "Eräpäivä"
+
+#: lib/modules/invoice/invoice.php:519
+#, fuzzy
+#| msgid "paid amount"
+msgid "Total amount"
+msgstr "maksettu summa"
+
+#: lib/modules/invoice/invoice.php:554
+msgid "with template"
+msgstr "mallin mukaan"
+
+#: lib/modules/invoice/invoice.php:596
+msgid "Copy & Add"
+msgstr "Kopioi ja lisää"
+
+#: lib/modules/lang/lang.php:63
+msgid "translateable content"
+msgstr "käännettävä sisältö"
+
+#: lib/modules/lang/lang.php:107 lib/modules/lang/lang.php:132
+msgid "Translation"
+msgstr "Käännös"
+
+#: lib/modules/lang/lang.php:108
+msgid ""
+"For multilingual content. It can be used inside other tags and used in "
+"emails, the search bar or invoice templates."
+msgstr ""
+"Monikielisiä sisältöjä varten. Voidaan käyttää muiden tunnisteiden sisällä "
+"sähköposteissa, hakupalkissa ja laskumalleissa."
+
+#: lib/modules/lang/lang.php:117
+msgid "Translations"
+msgstr "Käännökset"
+
+#: lib/modules/lang/lang.php:126 lib/modules/paypal/paypal.php:201
+#: lib/modules/paypal/paypal.php:235 lib/modules/paypal/paypal.php:266
+#: lib/modules/paypal/paypal.php:282
+msgid "Language"
+msgstr "Kieli"
+
+#: lib/modules/lang/lang.php:132
+msgid "For multilingual content"
+msgstr "Monikielistä sisältöä varten"
+
+#: lib/modules/multical/multical.php:23
+msgid "Display months"
+msgstr "Näytä kuukaudet"
+
+#: lib/modules/multical/multical.php:25
+msgid "Interval"
+msgstr "Väli"
+
+#: lib/modules/multical/multical.php:26
+msgid "Months to skip on previous/next "
+msgstr ""
+
+#: lib/modules/multical/multical.php:28
+msgid "Display month name"
+msgstr "Näytä kuukauden nimi"
+
+#: lib/modules/paypal/creditcards.php:96
+#, fuzzy
+#| msgid "Credit card data couldn't be deleted"
+msgid "Credit card could not be deleted"
+msgstr "Luottokortin tietoja ei voitu poistaa"
+
+#: lib/modules/paypal/creditcards.php:109
+msgid "All credit cards deleted"
+msgstr "Kaikki luottokortit poistettu"
+
+#: lib/modules/paypal/creditcards.php:116
+msgid "Unknown card type"
+msgstr "Tuntematon kortin tyyppi"
+
+#: lib/modules/paypal/creditcards.php:117
+msgid "No card number provided"
+msgstr "Kortin numero ei ole annettu"
+
+#: lib/modules/paypal/creditcards.php:118
+msgid "Credit card number has invalid format"
+msgstr "Luottokortin numero on väärässä muodossa"
+
+#: lib/modules/paypal/creditcards.php:119
+msgid "Credit card number is invalid"
+msgstr "Luottokortin numero ei kelpaa"
+
+#: lib/modules/paypal/creditcards.php:120
+msgid "Credit card number is wrong length"
+msgstr "Luottokortin numero on väärän pituinen"
+
+#: lib/modules/paypal/creditcards.php:121
+#, fuzzy
+#| msgid "Please enter credit cards owner name"
+msgid "credit card owner name"
+msgstr "Kirjoita luottokortin omistajan nimi"
+
+#: lib/modules/paypal/creditcards.php:199
+#: lib/modules/paypal/creditcards.php:200
+msgid "Enter correct CVV code"
+msgstr "Anna oikea CVV-koodi"
+
+#: lib/modules/paypal/creditcards.php:213
+#: lib/modules/paypal/creditcards.php:243
+msgid "Number"
+msgstr "Numero"
+
+#: lib/modules/paypal/creditcards.php:213
+#: lib/modules/paypal/creditcards.php:446
+msgid "Expires"
+msgstr "Vanhenee"
+
+#: lib/modules/paypal/creditcards.php:264
+#, fuzzy
+#| msgid ""
+#| "Credit Card Number must be a number and between 12 and 16 characters long"
+msgid ""
+"Credit card number must be a number and between 12 and 16 characters long"
+msgstr "Luottokortin numeron on oltava 12-16 merkkiä pitkä numero"
+
+#: lib/modules/paypal/creditcards.php:302
+#, php-format
+msgid "Before using open the file %1$s and enter a long random password"
+msgstr ""
+"Ennen kuin ryhdyt käyttämään, avaa tiedosto %1$s ja anna pitkä satunnainen "
+"salasana"
+
+#: lib/modules/paypal/creditcards.php:303
+#, php-format
+msgid ""
+"Can't open the file %1$s with the security key. Try to give it and it's "
+"folder CHMOD 755 or higher."
+msgstr ""
+"Tiedostoa %1$s ei voi avata suojausavaimella. Yritä muuttaa tiedoston ja sen "
+"kansion oikeuksiksi vähintään 755."
+
+#: lib/modules/paypal/creditcards.php:304
+#, php-format
+msgid "Before using create a file named %1$s in %2$s and enter %3$s"
+msgstr ""
+"Ennen kuin ryhdyt käyttämään, luo tiedosto %1$s kohteeseen %2$s ja kirjoita "
+"%3$s"
+
+#: lib/modules/paypal/creditcards.php:328 lib/modules/paypal/paypal.php:198
+#: lib/modules/paypal/paypal.php:215 lib/modules/paypal/paypal.php:229
+#: lib/modules/paypal/paypal.php:246 lib/modules/paypal/paypal.php:260
+#: lib/modules/paypal/paypal.php:275 lib/modules/sync/sync.php:198
+#: lib/modules/useredit/useredit.php:409
+msgid "Off"
+msgstr "Pois"
+
+# hmm
+#: lib/modules/paypal/creditcards.php:329
+msgid "Normal credit card form get send to stripe"
+msgstr "Normaali luottokorttilomake lähetetään Stripe-palveluun"
+
+#: lib/modules/paypal/creditcards.php:330
+#, fuzzy, php-format
+#| msgid "Stripe button with blue style popup form"
+msgid "%s button with blue style popup form"
+msgstr "Stripe-painike sinisellä ponnahduslomakkeella"
+
+#: lib/modules/paypal/creditcards.php:345
+msgid "Attach transaction to"
+msgstr "Liitä maksutapahtuma kohteeseen"
+
+#: lib/modules/paypal/creditcards.php:354 lib/modules/paypal/paypal.php:206
+#: lib/modules/paypal/paypal.php:220 lib/modules/paypal/paypal.php:237
+#: lib/modules/paypal/paypal.php:267 lib/modules/paypal/paypal.php:284
+#: lib/modules/search/search.php:83
+msgid "Button"
+msgstr "Painike"
+
+#: lib/modules/paypal/creditcards.php:356
+msgid "Ask for address in popup form"
+msgstr "Pyydä osoite ponnahduslomakkeessa"
+
+#: lib/modules/paypal/creditcards.php:357
+msgid "Title in popup"
+msgstr "Ponnahdusikkunan otsikko"
+
+#: lib/modules/paypal/creditcards.php:358
+msgid "Subtitle in popup"
+msgstr "Ponnahdusikkunan alaotsikko"
+
+#: lib/modules/paypal/creditcards.php:362 lib/modules/paypal/paypal.php:200
+#: lib/modules/paypal/paypal.php:252 lib/modules/paypal/paypal.php:265
+#: lib/modules/paypal/paypal.php:281
+msgid "Currency"
+msgstr "Valuutta"
+
+#: lib/modules/paypal/creditcards.php:378
+msgid "Delete all credit cards"
+msgstr "Poista kaikki luottokortit"
+
+#: lib/modules/paypal/creditcards.php:400
+msgid ""
+"Check to give your guests the opportunity to enter their credit card "
+"information after submit"
+msgstr ""
+"Valitse, jos haluat että asiakas voi kirjoittaa luottokortin tiedot "
+"lähettämisen jälkeen"
+
+#: lib/modules/paypal/creditcards.php:404 lib/modules/paypal/paypal.php:199
+msgid "Owner"
+msgstr "Omistaja"
+
+#: lib/modules/paypal/creditcards.php:406
+msgid "Ask for name of card holder"
+msgstr "Pyydä kortin haltijan nimi"
+
+#: lib/modules/paypal/creditcards.php:410 lib/modules/paypal/paypal.php:360
+msgid "Automatic approval"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:412
+msgid "Auto-approve after guest entered correct credit card"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:416
+#, fuzzy
+#| msgid "Delete all credit cards"
+msgid "Accepted credit cards"
+msgstr "Poista kaikki luottokortit"
+
+#: lib/modules/paypal/creditcards.php:441
+#: lib/modules/paypal/creditcards.php:478
+msgid "Pay with credit card"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:443
+msgid "Card Type"
+msgstr "Kortin tyyppi"
+
+#: lib/modules/paypal/creditcards.php:444
+msgid "Holders name"
+msgstr "Haltijan nimi"
+
+#: lib/modules/paypal/creditcards.php:445
+msgid "Card Number"
+msgstr "Kortin numero"
+
+#: lib/modules/paypal/creditcards.php:447
+msgid "CVV"
+msgstr ""
+
+#: lib/modules/paypal/creditcards.php:473
+msgid "Pay"
+msgstr "Maksa"
+
+#: lib/modules/paypal/creditcards.php:473
+msgid "Secure"
+msgstr "Turvallinen"
+
+#: lib/modules/paypal/paypal.php:63
+msgid "Payment"
+msgstr "Maksu"
+
+#: lib/modules/paypal/paypal.php:159
+#, fuzzy
+#| msgid "Dont forget the new email types!"
+msgid "Setup the new payment email types"
+msgstr "Älä unohda uusia sähköpostityyppejä!"
+
+#: lib/modules/paypal/paypal.php:187
+msgid "Title when paying multiple reservations"
+msgstr "Otsikko maksettaessa useita varauksia"
+
+#: lib/modules/paypal/paypal.php:188
+msgid "Deposit"
+msgstr "Ennakkomaksu"
+
+#: lib/modules/paypal/paypal.php:190
+#, fuzzy
+#| msgid "General payment settings"
+msgid "General payment"
+msgstr "Yleiset maksuasetukset"
+
+#: lib/modules/paypal/paypal.php:198 lib/modules/paypal/paypal.php:215
+#: lib/modules/paypal/paypal.php:229 lib/modules/paypal/paypal.php:246
+#: lib/modules/paypal/paypal.php:260 lib/modules/paypal/paypal.php:275
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: lib/modules/paypal/paypal.php:198 lib/modules/paypal/paypal.php:215
+#: lib/modules/paypal/paypal.php:229 lib/modules/paypal/paypal.php:246
+#: lib/modules/paypal/paypal.php:260 lib/modules/paypal/paypal.php:275
+msgid "Live"
+msgstr "Normaali"
+
+#: lib/modules/paypal/paypal.php:198
+msgid "The validation only works with SSL in Sandbox"
+msgstr "Validointi toimii vain SSL/Sandbox-yhdistelmällä"
+
+#: lib/modules/paypal/paypal.php:199
+msgid "Paypal email or Secure Merchant ID"
+msgstr "Paypal-sähköpostiosoite tai Secure Merchant -tunnus"
+
+#: lib/modules/paypal/paypal.php:202 lib/modules/paypal/paypal.php:218
+#: lib/modules/paypal/paypal.php:233 lib/modules/paypal/paypal.php:250
+#: lib/modules/paypal/paypal.php:263 lib/modules/paypal/paypal.php:279
+msgid "After success return to"
+msgstr "Palaa onnistumisen jälkeen kohtaan"
+
+#: lib/modules/paypal/paypal.php:202 lib/modules/paypal/paypal.php:218
+#: lib/modules/paypal/paypal.php:233 lib/modules/paypal/paypal.php:250
+#: lib/modules/paypal/paypal.php:263 lib/modules/paypal/paypal.php:279
+#: lib/modules/useredit/useredit.php:294 lib/modules/useredit/useredit.php:307
+#: lib/modules/useredit/useredit.php:910
+#, fuzzy
+#| msgid "User Control Panel"
+msgid "User control panel"
+msgstr "Käyttäjän hallintapaneeli"
+
+#: lib/modules/paypal/paypal.php:202 lib/modules/paypal/paypal.php:218
+#: lib/modules/paypal/paypal.php:233 lib/modules/paypal/paypal.php:250
+#: lib/modules/paypal/paypal.php:263 lib/modules/paypal/paypal.php:279
+msgid "Page"
+msgstr "Sivu"
+
+#: lib/modules/paypal/paypal.php:202 lib/modules/paypal/paypal.php:218
+#: lib/modules/paypal/paypal.php:233 lib/modules/paypal/paypal.php:250
+#: lib/modules/paypal/paypal.php:263 lib/modules/paypal/paypal.php:279
+msgid "URL"
+msgstr "URL"
+
+#: lib/modules/paypal/paypal.php:204
+msgid "Label above note"
+msgstr "Nimike huomautuksen yllä"
+
+#: lib/modules/paypal/paypal.php:205
+msgid "Charset"
+msgstr "Merkistö"
+
+#: lib/modules/paypal/paypal.php:207
+msgid "Instant Payment Notifications"
+msgstr "Välittömät maksuilmoitukset"
+
+#: lib/modules/paypal/paypal.php:207
+msgid "Validate payment & set paid amount"
+msgstr "Vahvista maksu ja tallenna maksettu summa"
+
+#: lib/modules/paypal/paypal.php:230
+msgid "Routine"
+msgstr "Rutiini"
+
+#: lib/modules/paypal/paypal.php:230
+#, fuzzy
+#| msgid "Multi-page Payment"
+msgid "Multi-page payment"
+msgstr "Maksu usealla sivulla"
+
+#: lib/modules/paypal/paypal.php:230
+msgid "Single Page Payment"
+msgstr "Maksu yhdellä sivulla"
+
+#: lib/modules/paypal/paypal.php:236
+msgid "Skip review page"
+msgstr "Ohita tarkistussivu"
+
+#: lib/modules/paypal/paypal.php:283
+msgid "Logo"
+msgstr "Logo"
+
+#: lib/modules/paypal/paypal.php:285
+#, fuzzy
+#| msgid "Button Background"
+msgid "Button background"
+msgstr "Painikkeen tausta"
+
+#: lib/modules/paypal/paypal.php:346
+msgid "Payment button"
+msgstr "Maksupainike"
+
+#: lib/modules/paypal/paypal.php:366
+msgid "After submit"
+msgstr "Lähetyksen jälkeen"
+
+#: lib/modules/paypal/paypal.php:367
+msgid "After payment"
+msgstr "Maksun jälkeen"
+
+#: lib/modules/paypal/paypal.php:368
+msgid "Both"
+msgstr "Molemmat"
+
+#: lib/modules/paypal/paypal.php:370
+#, fuzzy
+#| msgid "If there's free space in resource"
+msgid "if there is free space in resource"
+msgstr "Jos resurssissa on vapaata"
+
+#: lib/modules/paypal/paypal.php:375
+msgid "Only auto-approve important guests defined below"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:381
+msgid "Pending availability"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:388
+msgid "Pending reservations count for availability check"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:406
+msgid "Email to admin after payment"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:411
+msgid "Email to guest after payment"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:433
+msgid "OR"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:440
+msgid "Choose payment method"
+msgstr ""
+
+#: lib/modules/paypal/paypal.php:759 lib/modules/paypal/paypal.php:765
+msgid "Pay a deposit of"
+msgstr "Maksa ennakkomaksuna"
+
+#: lib/modules/paypal/paypal.php:769
+msgid "Pay the full price of"
+msgstr "Maksa koko hinta"
+
+#: lib/modules/paypal/paypal.php:841
+#, php-format
+msgid "Payment about %1$s successful"
+msgstr "Maksu kohteesta %1$s onnistui"
+
+#: lib/modules/search/attributes.php:121
+msgid "Checkbox"
+msgstr "Valintaruutu"
+
+#: lib/modules/search/attributes.php:154
+msgid "Comma separated options"
+msgstr "Pilkulla erotetut vaihtoehdot"
+
+#: lib/modules/search/attributes.php:158
+msgid "Only numbers"
+msgstr "Vain numeroita"
+
+#: lib/modules/search/search.php:19
+#, fuzzy
+#| msgid "Select form template"
+msgid "Search bar template"
+msgstr "Valitse lomakemalli"
+
+#: lib/modules/search/search.php:20
+#, fuzzy
+#| msgid "with template"
+msgid "template"
+msgstr "mallin mukaan"
+
+#: lib/modules/search/search.php:28
+msgid "URL to page or post with form"
+msgstr "Lomakkeen sisältävän sivun tai artikkelin URL"
+
+#: lib/modules/search/search.php:32
+msgid "Search after page loaded"
+msgstr "Haku sivun lataamisen jälkeen"
+
+#: lib/modules/search/search.php:32
+msgid "Search after every change"
+msgstr "Haku jokaisen muutoksen jälkeen"
+
+#: lib/modules/search/search.php:36 lib/modules/styles/styles.php:40
+msgid "Exclude resources by comma separated IDs"
+msgstr ""
+
+#: lib/modules/search/search.php:40
+msgid "Display unavailable resources"
+msgstr ""
+
+#: lib/modules/search/search.php:43
+msgid "Thumbnail"
+msgstr "Pikkukuva"
+
+#: lib/modules/search/search.php:44 lib/modules/styles/styles.php:31
+msgid "Height"
+msgstr "Korkeus"
+
+#: lib/modules/search/search.php:47
+msgid "Show"
+msgstr "Näytä"
+
+#: lib/modules/search/search.php:48
+msgid "first characters of content"
+msgstr "sisällön ensimmäistä merkkiä"
+
+#: lib/modules/search/search.php:48
+#, fuzzy
+#| msgid "More link to resources post"
+msgid "More link to resources page"
+msgstr "Lisää-linkki resurssien artikkeliin"
+
+#: lib/modules/search/search.php:52
+#, php-format
+msgid "Display %s billing units in calendar with %s"
+msgstr ""
+
+#: lib/modules/search/search.php:59
+msgid "Calendar availability"
+msgstr ""
+
+#: lib/modules/search/search.php:63
+msgid "Calendar days"
+msgstr ""
+
+#: lib/modules/search/search.php:67
+msgid "Calendar hours"
+msgstr ""
+
+#: lib/modules/search/search.php:68
+msgid "Display only certain hours in calendar"
+msgstr ""
+
+#: lib/modules/search/search.php:74
+msgid "Calendar selection"
+msgstr ""
+
+#: lib/modules/search/search.php:75
+msgid "Enable selection of arrival and departure in calendar"
+msgstr ""
+
+#: lib/modules/search/search.php:76
+msgid ""
+"Days and hours not displayed are not reservable; Arrival and departure must "
+"be within the displayed datetime range."
+msgstr ""
+
+#: lib/modules/search/search.php:80
+msgid "Text for seach button"
+msgstr "Hakupainikkeen teksti"
+
+#: lib/modules/search/search.php:84
+#, fuzzy
+#| msgid "Text for reserve link/button"
+msgid "Text for reserve button"
+msgstr "Varauslinkin/-painikkeen teksti"
+
+#: lib/modules/search/search.php:88
+msgid "Name for resources"
+msgstr "Resurssien nimi"
+
+#: lib/modules/search/search.php:90
+msgid "This shortcode adds an availability search form to the post or page"
+msgstr "Tämä lyhytkoodi lisää saatavuushakulomakkeen artikkeliin tai sivulle"
+
+#: lib/modules/search/search.php:90
+msgid "You can combine it with a calendar by adding it to the same page"
+msgstr ""
+
+#: lib/modules/search/search.php:90 lib/modules/styles/styles.php:42
+#: lib/modules/styles/styles.php:101
+msgid "Only add it once per page or post"
+msgstr "Lisää artikkeliin tai sivuun vain kerran"
+
+#: lib/modules/search/search.php:220 lib/widgets/form_widget.php:131
+msgid "Reserve now!"
+msgstr "Varaa nyt!"
+
+#: lib/modules/search/search.php:386
+msgid "more"
+msgstr "lisää"
+
+#: lib/modules/search/search.php:590
+msgid "None available in this period"
+msgstr "Ei yhtään saatavilla tällä aikavälillä"
+
+#: lib/modules/statistics/dashboard.statistic.php:18
+msgid "Income"
+msgstr ""
+
+#: lib/modules/statistics/dashboard.statistic.php:19
+#, fuzzy
+#| msgid "Resource"
+msgid "Source"
+msgstr "Resurssi"
+
+#: lib/modules/statistics/statistics.php:536
+#, fuzzy
+#| msgid "Detailed Statistics"
+msgid "Detailed statistics"
+msgstr "Tarkat tilastot"
+
+#: lib/modules/statistics/statistics.php:541
+msgid "Total reservations"
+msgstr "Varauksia yhteensä"
+
+#: lib/modules/statistics/statistics.php:545
+#, fuzzy
+#| msgid "Future approved reservations"
+msgid "Future approved"
+msgstr "Tulevat hyväksytyt varaukset"
+
+#: lib/modules/statistics/statistics.php:549
+#, fuzzy
+#| msgid "approved"
+msgid "Past approved"
+msgstr "hyväksytty"
+
+#: lib/modules/statistics/statistics.php:565
+#, fuzzy
+#| msgid "Guests per reservations"
+msgid "Guests per reservation"
+msgstr "Asiakkaita varauksia kohti"
+
+#: lib/modules/statistics/statistics.php:569
+#, fuzzy
+#| msgid "Guests per reservations"
+msgid "Billing units per reservation"
+msgstr "Asiakkaita varauksia kohti"
+
+#: lib/modules/statistics/statistics.php:573
+msgid "Paid amount of all reservations"
+msgstr "Kaikkien varattujen maksettu summa"
+
+#: lib/modules/statistics/statistics.php:577
+#, fuzzy
+#| msgid "Paid per reservations"
+msgid "Paid per reservation"
+msgstr "Maksetut varauksia kohti"
+
+#: lib/modules/statistics/statistics.php:581
+msgid "Revenue of all reservations"
+msgstr "Tulot kaikista varauksista"
+
+#: lib/modules/statistics/statistics.php:585
+msgid "Revenue of future reservations"
+msgstr "Tulot tulevista varauksista"
+
+#: lib/modules/statistics/statistics.php:589
+msgid "Revenue of past reservations"
+msgstr "Tulot menneistä varauksista"
+
+#: lib/modules/statistics/statistics.php:597
+#: lib/modules/statistics/statistics.php:602
+msgid "Gross"
+msgstr "Brutto"
+
+#: lib/modules/statistics/statistics.php:601
+#, fuzzy
+#| msgid "Revenue per reservations"
+msgid "Revenue per reservation"
+msgstr "Tulot varauksista"
+
+#: lib/modules/statistics/statistics.php:602
+msgid "Net"
+msgstr "Netto"
+
+#: lib/modules/statistics/statistics.php:614
+#, fuzzy
+#| msgid "Approved and reservated graph"
+msgid "Approved and reserved graph"
+msgstr "Hyväksyttyjen ja varattujen kuvaaja"
+
+#: lib/modules/styles/shortcodes/receipt.php:135
+msgid "Rate"
+msgstr ""
+
+#: lib/modules/styles/styles.php:24
+msgid "Slider"
+msgstr ""
+
+#: lib/modules/styles/styles.php:24
+msgid "List"
+msgstr "Luettelo"
+
+#: lib/modules/styles/styles.php:36
+msgid "Display resource excerpt"
+msgstr ""
+
+#: lib/modules/styles/styles.php:42
+msgid ""
+"This shortcode adds a list or slider to select the resource. It should be "
+"used with form."
+msgstr ""
+
+#: lib/modules/styles/styles.php:55
+msgid "Extensive"
+msgstr ""
+
+#: lib/modules/styles/styles.php:55
+msgid "Condensed"
+msgstr ""
+
+#: lib/modules/styles/styles.php:62
+msgid "Base price subtotal"
+msgstr ""
+
+#: lib/modules/styles/styles.php:63
+msgid "Display base price subtotal with label"
+msgstr ""
+
+#: lib/modules/styles/styles.php:66
+msgid "Tax subtotal"
+msgstr ""
+
+#: lib/modules/styles/styles.php:67
+msgid "Display subtotal before tax with label "
+msgstr ""
+
+#: lib/modules/styles/styles.php:71
+msgid "Label for total "
+msgstr ""
+
+#: lib/modules/styles/styles.php:75
+msgid "Adults label singular"
+msgstr ""
+
+#: lib/modules/styles/styles.php:76
+msgid "Adults label plural"
+msgstr ""
+
+#: lib/modules/styles/styles.php:80
+msgid "Children receipt line label"
+msgstr ""
+
+#: lib/modules/styles/styles.php:81
+msgid "Children label singular"
+msgstr ""
+
+#: lib/modules/styles/styles.php:82
+msgid "Children label plural"
+msgstr ""
+
+#: lib/modules/styles/styles.php:85
+msgid "Summarize"
+msgstr ""
+
+#: lib/modules/styles/styles.php:86
+msgid "Reserved dates into one column"
+msgstr ""
+
+#: lib/modules/styles/styles.php:87 lib/modules/styles/styles.php:88
+#: lib/modules/styles/styles.php:89 lib/modules/styles/styles.php:90
+#: lib/modules/styles/styles.php:91 lib/modules/styles/styles.php:92
+#: lib/modules/styles/styles.php:93 lib/modules/styles/styles.php:94
+#: lib/modules/styles/styles.php:95 lib/modules/styles/styles.php:96
+#: lib/modules/styles/styles.php:97 lib/modules/styles/styles.php:98
+#: lib/modules/styles/styles.php:99
+#, php-format
+msgid "%s into base price"
+msgstr "%s Muuta perushintaa"
+
+#: lib/modules/styles/styles.php:101
+msgid ""
+"This shortcode adds an receipt to extensively display the forms price "
+"calculation."
+msgstr ""
+
+#: lib/modules/styles/styles.php:154
+msgid "Resource box"
+msgstr ""
+
+#: lib/modules/styles/styles.php:155
+msgid "Receipt"
+msgstr ""
+
+#: lib/modules/styles/styles.php:216
+msgid "Datepicker availability"
+msgstr "Päivämäärän valitsimen saatavuus"
+
+#: lib/modules/styles/styles.php:221
+#, php-format
+msgid "Check availability for %s days"
+msgstr "Tarkista saatavuus %s päivälle"
+
+#: lib/modules/styles/styles.php:236
+#, fuzzy
+#| msgid "Datepicker style"
+msgid "Datepicker theme"
+msgstr "Päivämäärän valitsimen tyyli"
+
+#: lib/modules/sync/ical.import.php:193 lib/modules/sync/ical.import.php:254
+#, fuzzy, php-format
+#| msgid "Add another reservation"
+msgid "Cannot %s imported reservation"
+msgstr "Lisää toinen varaus"
+
+#: lib/modules/sync/ical.import.php:334 lib/modules/sync/ical.import.php:339
+#: lib/modules/sync/ical.import.php:344 lib/modules/sync/ical.import.php:349
+#, php-format
+msgid "Once every %d minutes"
+msgstr ""
+
+#: lib/modules/sync/sync.php:66
+msgid ""
+"Exports the approved reservations in a live iCal format for each resource "
+"and space."
+msgstr ""
+
+#: lib/modules/sync/sync.php:67
+msgid ""
+"You can use the links to sync the resources with Google Calendar or channels "
+"like Booking.com."
+msgstr ""
+
+#: lib/modules/sync/sync.php:68
+#, php-format
+msgid ""
+"If the links below do not work please save your %spermalink%s settings once."
+msgstr ""
+
+#: lib/modules/sync/sync.php:70
+msgid "iCal export"
+msgstr ""
+
+#: lib/modules/sync/sync.php:136
+msgid "You can add .ics feeds to import from here."
+msgstr ""
+
+#: lib/modules/sync/sync.php:137
+msgid "Imported reservations cannot be changed."
+msgstr ""
+
+#: lib/modules/sync/sync.php:138
+msgid "Deleting a source will also delete all related reservations."
+msgstr ""
+
+#: lib/modules/sync/sync.php:140
+#, fuzzy
+#| msgid "Export reservations"
+msgid "Import past reservations"
+msgstr "Vie varaukset"
+
+#: lib/modules/sync/sync.php:141
+msgid "Import"
+msgstr "Tuo"
+
+#: lib/modules/sync/sync.php:150
+#, php-format
+msgid "Or setup a cronjob to %s"
+msgstr ""
+
+#: lib/modules/sync/sync.php:160
+msgid "URL to .ics feed"
+msgstr ""
+
+#: lib/modules/sync/sync.php:170
+msgid "Feed URL"
+msgstr ""
+
+#: lib/modules/sync/sync.php:178
+msgid "Are you sure? This will delete all related reservations."
+msgstr ""
+
+#: lib/modules/sync/sync.php:184
+msgid "iCal import"
+msgstr ""
+
+#: lib/modules/sync/sync.php:195
+msgid "This function will add reservations to the woocommerce cart."
+msgstr "Tämä toiminto lisää varaukset WooCommercen ostoskoriin."
+
+#: lib/modules/sync/sync.php:196
+msgid "After first activation save the settings of each resource once."
+msgstr ""
+"Kun toiminto on aktivoitu, tallenna jokaisen resurssin asetukset kertaalleen."
+
+#: lib/modules/sync/sync.php:197
+msgid "On"
+msgstr "Päällä"
+
+#: lib/modules/sync/sync.php:200
+msgid "WooCommerce compatibility"
+msgstr "WooCommerce-yhteensopivuus"
+
+#: lib/modules/sync/sync.php:208
+msgid "Sync"
+msgstr "Synkr"
+
+#: lib/modules/useredit/useredit.php:71
+msgid "Message to guest"
+msgstr "Viesti asiakkaalle"
+
+#: lib/modules/useredit/useredit.php:71
+#, fuzzy
+#| msgid "Message to admin or Note"
+msgid "Message to admin or note"
+msgstr "Viesti ylläpidolle tai Huomautus"
+
+#: lib/modules/useredit/useredit.php:75
+msgid "Send"
+msgstr "Lähetä"
+
+#: lib/modules/useredit/useredit.php:242
+#, fuzzy
+#| msgid "Mail to guest after guest edited"
+msgid "Email to guest after guest edit"
+msgstr "Lähetä sähköposti asiakkaalle asiakkaan muokkauksen jälkeen"
+
+#: lib/modules/useredit/useredit.php:247
+#, fuzzy
+#| msgid "Mail to admin after guest edited"
+msgid "Email to admin after guest edit"
+msgstr "Lähetä sähköposti ylläpidolle asiakkaan muokkauksen jälkeen"
+
+#: lib/modules/useredit/useredit.php:252
+msgid "Email to admin after guest canceled"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:262
+#, fuzzy
+#| msgid "User Control Panel"
+msgid "Control Panel"
+msgstr "Käyttäjän hallintapaneeli"
+
+#: lib/modules/useredit/useredit.php:318
+msgid "URL of page with shortcode"
+msgstr "Lyhytkoodin sisältämän sivun URL"
+
+#: lib/modules/useredit/useredit.php:329
+#, php-format
+msgid "Let the guest cancel his reservation till %s days before arrival"
+msgstr "Salli asiakkaan perua varauksensa vielä %s päivää saapumista ennen"
+
+#: lib/modules/useredit/useredit.php:334
+#, fuzzy
+#| msgid "Text after Submit"
+msgid "Text after submit"
+msgstr "Teksti lähettämisen jälkeen"
+
+#: lib/modules/useredit/useredit.php:343
+msgid "Text over login area - optional"
+msgstr "Teksti kirjautumisalueen yllä - valinnainen"
+
+#: lib/modules/useredit/useredit.php:347
+msgid "Text over edit area - optional"
+msgstr "Teksti muokkausalueen yllä - valinnainen"
+
+#: lib/modules/useredit/useredit.php:355
+msgid "Table of other reservations from the same email"
+msgstr "Muut varaukset sisältävä taulukko samassa sähköpostissa"
+
+#: lib/modules/useredit/useredit.php:382
+msgid "Use style for table"
+msgstr "Käytä tyylejä taulukoissa"
+
+#: lib/modules/useredit/useredit.php:383
+msgid "Only display table if guest reserved more than once"
+msgstr "Näytä taulukko vain, jos asiakas on varannut useammin kuin kerran"
+
+#: lib/modules/useredit/useredit.php:410
+msgid "Only admin"
+msgstr "Vain ylläpito"
+
+#: lib/modules/useredit/useredit.php:411
+#, fuzzy
+#| msgid "User Control Panel and admin"
+msgid "User control panel and admin"
+msgstr "Käyttäjän hallintapaneeli ja ylläpito"
+
+#: lib/modules/useredit/useredit.php:418
+msgid "Title over textarea"
+msgstr "Otsikko tekstialueen yläpuolella"
+
+#: lib/modules/useredit/useredit.php:424
+msgid "Show avatars"
+msgstr "Näytä avatarit"
+
+#: lib/modules/useredit/useredit.php:425
+msgid "Show time ago"
+msgstr "Näytä kuinka kauan sitten"
+
+#: lib/modules/useredit/useredit.php:426
+msgid "Show unanswered messages in table"
+msgstr "Näytä vastaamattomat viestit taulukossa"
+
+#: lib/modules/useredit/useredit.php:430
+#, fuzzy
+#| msgid "Guest Avatar"
+msgid "Guest avatar"
+msgstr "Asiakkaan avatar"
+
+#: lib/modules/useredit/useredit.php:432
+msgid "Image as avatar for guests"
+msgstr "Kuva asiakkaiden avatarina"
+
+#: lib/modules/useredit/useredit.php:436
+msgid "Dummy"
+msgstr "Dummy"
+
+#: lib/modules/useredit/useredit.php:438
+msgid "Show dummy"
+msgstr "Näytä dummy"
+
+#: lib/modules/useredit/useredit.php:442
+msgid "Dummy user"
+msgstr "Dummy-käyttäjä"
+
+#: lib/modules/useredit/useredit.php:443
+msgid "User of dummy"
+msgstr "Dummyn käyttäjä"
+
+#: lib/modules/useredit/useredit.php:446
+msgid "Dummy message"
+msgstr "Dummy-viesti"
+
+#: lib/modules/useredit/useredit.php:452
+msgid "Time to delete"
+msgstr "Poistamisaika"
+
+#: lib/modules/useredit/useredit.php:455
+msgid "Not at all"
+msgstr "Ei ollenkaan"
+
+#: lib/modules/useredit/useredit.php:508 lib/shortcodes/form.php:22
+msgid "Your reservation is complete"
+msgstr "Varauksesi on valmis"
+
+#: lib/modules/useredit/useredit.php:529 lib/modules/useredit/useredit.php:556
+#: lib/modules/useredit/useredit.php:581 lib/modules/useredit/useredit.php:628
+msgid "An error occurred, please try again"
+msgstr "Tapahtui virhe, yritä uudelleen"
+
+#: lib/modules/useredit/useredit.php:544
+#, fuzzy
+#| msgid "Link is only 24h valid"
+msgid "This link is only valid for 24h"
+msgstr "Linkki on voimassa vain 24 tuntia"
+
+#: lib/modules/useredit/useredit.php:635
+#, fuzzy
+#| msgid "Cancel"
+msgid "canceled"
+msgstr "Peruuta"
+
+#: lib/modules/useredit/useredit.php:636
+msgid "Too late to cancel"
+msgstr "Liian myöhäistä perua"
+
+#: lib/modules/useredit/useredit.php:645
+msgid "Your reservation was updated"
+msgstr ""
+
+#: lib/modules/useredit/useredit.php:724
+msgid "Wrong email"
+msgstr "Väärä sähköpostiosoite"
+
+#: lib/modules/useredit/useredit.php:727
+msgid "Please contact us to edit your reservation"
+msgstr "Ota meihin yhteyttä, jos haluat muokata varaustasi"
+
+#: lib/modules/useredit/useredit.php:736
+msgid "Pay now"
+msgstr "Maksa nyt"
+
+#: lib/modules/useredit/useredit.php:755
+msgid "logout"
+msgstr "kirjaudu ulos"
+
+#: lib/modules/useredit/useredit.php:827
+msgid "Wrong ID or email"
+msgstr "Väärä tunnus tai sähköposti"
+
+#: lib/modules/useredit/useredit.php:863
+msgid "Reservations are editable till"
+msgstr "Varauksia voi muokata vielä"
+
+#: lib/modules/useredit/useredit.php:864
+msgid "days before their arrival"
+msgstr "päivää ennen saapumista"
+
+#: lib/modules/useredit/useredit.php:868
+msgid "Show table with other reservations by the same email"
+msgstr "Näytä muut varaukset sisältävä taulukko samassa sähköpostissa"
+
+#: lib/modules/useredit/useredit.php:872
+msgid "Show status"
+msgstr "Näytä tila"
+
+#: lib/modules/useredit/useredit.php:881
+msgid ""
+"Let your guests view and download their invoices by invoice guest template"
+msgstr ""
+"Salli asiakkaiden tarkastella ja ladata laskuja asiakkaiden laskupohjan "
+"avulla"
+
+#: lib/modules/useredit/useredit.php:888
+msgid ""
+"This shortcode adds the function for your guests to edit their reservations "
+"afterwards"
+msgstr ""
+"Tämä lyhytkoodi lisää toiminnon, jonka avulla asiakkaat voivat muokata "
+"varauksiaan myöhemmin"
+
+#: lib/modules/useredit/useredit.php:888
+msgid ""
+"You have to copy the URL of this site to the easyReservations general "
+"settings"
+msgstr ""
+"Sinun on kopioitava tämän sivuston www-osoite easyReservationsin yleisiin "
+"asetuksiin"
+
+#: lib/modules/useredit/useredit.php:888
+msgid "Only add the edit-form on one page or post"
+msgstr "Lisää muokkauslomake vain yhteen sivuun tai artikkeliin"
+
+#: lib/shortcodes/form.php:23
+msgid "Your reservation was sent"
+msgstr "Varauksesi lähetettiin"
+
+#: lib/shortcodes/form.php:24
+#, fuzzy
+#| msgid "Reservation was validated succesfully"
+msgid "Reservation was validated successfully"
+msgstr "Varauksesi vahvistus onnistui"
+
+#: lib/shortcodes/form.php:216
+#, fuzzy
+#| msgid "Add another reservation"
+msgid "another reservation"
+msgstr "Lisää toinen varaus"
+
+#: lib/shortcodes/form.php:217
+msgid "Submit all reservations"
+msgstr "Lähetä kaikki varaukset"
+
+#: lib/widgets/form_widget.php:139
+msgid "Enter URL of a page with a real form"
+msgstr ""
+
+#: lib/widgets/form_widget.php:140
+msgid "Continue"
+msgstr ""
+
+#: lib/widgets/form_widget.php:147
+msgid ""
+"The widget is not a real form and can only be used as pre-form to populate "
+"the real form. If you want to use the form or calendar as widget there are "
+"plugins to use shortcodes in text widgets."
+msgstr ""
+
+#: lib/widgets/form_widget.php:154
+msgid "Show calendar"
+msgstr ""
+
+#: lib/widgets/form_widget.php:178
+msgid "Calendar width"
+msgstr ""
+
+#: lib/widgets/form_widget.php:186
+msgid "Widgets form template"
+msgstr ""
+
+#: lib/widgets/form_widget.php:187
+msgid "No form"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Category:"
+#~ msgstr ""
+#~ "#-#-#-#-#  29extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "#-#-#-#-#  55extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#~ msgid "You are not allowed to access this file."
+#~ msgstr "Sinulla ei ole tämän tiedoston käyttöoikeutta."
+
+#~ msgid "choose"
+#~ msgstr "valitse"
+
+#~ msgid "Select default resource"
+#~ msgstr "Valitse oletusresurssi"
+
+# hmm
+#, fuzzy
+#~| msgid "Resource's count names changed"
+#~ msgid "Resource spaces names updated"
+#~ msgstr "Resurssin lukumäärien nimet muutettu"
+
+#, fuzzy
+#~| msgid "Select a condition"
+#~ msgid "Select a filter condition"
+#~ msgstr "Valitse ehto"
+
+#, fuzzy
+#~| msgid "Please enter your name"
+#~ msgid "Please enter a name"
+#~ msgstr "Kirjoita nimesi"
+
+#, fuzzy
+#~| msgid "%s added"
+#~ msgid "Slot added"
+#~ msgstr "%s lisätty"
+
+#, fuzzy
+#~| msgid "%s deleted"
+#~ msgid "Slot deleted"
+#~ msgstr "%s poista"
+
+#, fuzzy
+#~| msgid "custom fields"
+#~ msgid "custom field"
+#~ msgstr "omat kentät"
+
+#, fuzzy
+#~| msgid "Price couldn't be fixed, input isn't valid money format"
+#~ msgid "Price could not be fixed, input is not a valid money format"
+#~ msgstr "Hintaa ei voitu määrittää, annettu tieto ei ole rahan muodossa"
+
+#~ msgid "Edit reservation"
+#~ msgstr "Muokkaa varausta"
+
+#~ msgid "Assign user"
+#~ msgstr "Liitä käyttäjä"
+
+#~ msgid "Database cleaned"
+#~ msgstr "Tietokanta puhdistettu"
+
+#~ msgid "Unit"
+#~ msgstr "Yksikkö"
+
+#~ msgid "Calendar Week"
+#~ msgstr "Kalenteriviikko"
+
+#, fuzzy
+#~| msgid "Arrival"
+#~ msgid "arrival"
+#~ msgstr "Tulo"
+
+#~ msgid "Edit filter"
+#~ msgstr "Muokkaa suodinta"
+
+#~ msgid "Base"
+#~ msgstr "Perus"
+
+#~ msgid "Delete"
+#~ msgstr "Poista"
+
+#~ msgid "Post View"
+#~ msgstr "Julkaisunäkymä"
+
+#~ msgid "Base Price"
+#~ msgstr "Perushinta"
+
+#, fuzzy
+#~| msgid "edit resource"
+#~ msgid "Edit resource"
+#~ msgstr "muokkaa resurssia"
+
+#, fuzzy
+#~| msgid "Select field of country's"
+#~ msgid "Select field for country. Optional."
+#~ msgstr "Maan valintakenttä"
+
+#~ msgid "Button to submit the form."
+#~ msgstr "Lomakkeen lähetyspainike."
+
+#~ msgid "Emails"
+#~ msgstr "Sähköpostit"
+
+#, fuzzy
+#~| msgid "Adults has to be a number at least one"
+#~ msgid "Adults has to be a number and at least one"
+#~ msgstr "Aikuisten määrän on oltava vähintään yksi"
+
+#~ msgid "Update easyReservations now"
+#~ msgstr "Päivitä easyReservations nyt"
+
+#, fuzzy
+#~| msgid " Update Modules now"
+#~ msgid "Update Modules now"
+#~ msgstr "Päivitä moduulit nyt"
+
+#~ msgid "Price calculation"
+#~ msgstr "Hinnan laskeminen"
+
+#~ msgid "Custom price"
+#~ msgstr "Oma hinta"
+
+#~ msgid "Used"
+#~ msgstr "Käytetty"
+
+#~ msgid "Select reservations"
+#~ msgstr "Valitse varaukset"
+
+#~ msgid "Price/Paid"
+#~ msgstr "Hinta/Maksettu"
+
+#~ msgid "boxes"
+#~ msgstr "laatikot"
+
+#, fuzzy
+#~| msgid "Available Credit Cards"
+#~ msgid "Available credit cards"
+#~ msgstr "Hyväksytyt luottokortit"
+
+#, fuzzy
+#~| msgid "No attributes"
+#~ msgid "attribute"
+#~ msgstr "Ei määritteitä"
+
+#~ msgid "searchForm attributes"
+#~ msgstr "hakulomakkeen määritteet"
+
+#~ msgid "No attributes"
+#~ msgstr "Ei määritteitä"
+
+#~ msgid "Min - Max"
+#~ msgstr "Min - Maks"
+
+#~ msgid "Value of %s must be a number"
+#~ msgstr "Kohteen %s arvon täytyy olla numero"
+
+#, fuzzy
+#~| msgid "No attributes"
+#~ msgid "Attributes"
+#~ msgstr "Ei määritteitä"
+
+#~ msgid "Post Types"
+#~ msgstr "Julkaisutyypit"
+
+#~ msgid "reservations"
+#~ msgstr "varaukset"
+
+#~ msgid "reserved"
+#~ msgstr "varattu"
+
+#~ msgid "Past approved reservations"
+#~ msgstr "Menneet hyväksytyt varaukset"
+
+#~ msgid "Pending reservations"
+#~ msgstr "Odottavat varaukset"
+
+#~ msgid "Rejected reservations"
+#~ msgstr "Hylätyt varaukset"
+
+#~ msgid "Trashed reservations"
+#~ msgstr "Roskiin siirretyt varaukset"
+
+#~ msgid "edit"
+#~ msgstr "muokkaa"
+
+#~ msgid "back"
+#~ msgstr "takaisin"
+
+#~ msgid "Cancel reservation"
+#~ msgstr "Peruuta varaus"
+
+#~ msgid "Wrong money format in custom price"
+#~ msgstr "Oma hinta on väärässä muodossa"
+
+#~ msgid ""
+#~ "This is how the price would get calculated now. After changing filters, "
+#~ "base price or settings or the reservations price it wont match the fixed "
+#~ "price anymore."
+#~ msgstr ""
+#~ "Näin hinta laskettaisiin tällä hetkellä. Jos muutat varausten hinnan "
+#~ "suotimia, perushintaa tai asetuksia, se ei vastaa enää kiinteätä hintaa."
+
+#~ msgid "workload today"
+#~ msgstr "tämän päivän työt"
+
+#~ msgid "set price"
+#~ msgstr "aseta hinta"
+
+#~ msgid "fix the sum of the normal calculation"
+#~ msgstr "määritä normaalin laskennan summa"
+
+#~ msgid "Please give the filter a name"
+#~ msgstr "Nimeä suodin"
+
+#~ msgid "Comments"
+#~ msgstr "Kommentit"
+
+#~ msgid "check"
+#~ msgstr "tarkista"
+
+#~ msgid "Price simulator"
+#~ msgstr "Hinnan simulointi"
+
+#~ msgid "Calculate base price only once"
+#~ msgstr "Laske perushinta vain kerran"
+
+#~ msgid ""
+#~ "This will add a custom post that's private and only visible in forms and "
+#~ "admin"
+#~ msgstr ""
+#~ "Tämä lisää oman julkaisun, joka on yksityinen ja näkyy vain lomakkeissa "
+#~ "ja ylläpidossa"
+
+#~ msgid "round"
+#~ msgstr "pyöristä"
+
+#~ msgid "Else"
+#~ msgstr "Muu"
+
+#~ msgid "Tags"
+#~ msgstr "Tunnisteet"
+
+#, fuzzy
+#~| msgid "show changes after edits"
+#~ msgid "Changes after edits"
+#~ msgstr "näytä muutokset muokkausten jälkeen"
+
+#~ msgid "Wrong file"
+#~ msgstr "Väärä tiedosto"
+
+#~ msgid "Show empty space for each resource and day (+20% load)"
+#~ msgstr "Show empty space for each resource and day (+20% load)"
+
+#~ msgid "of"
+#~ msgstr "/"
+
+#~ msgid "Maximum usages"
+#~ msgstr "Käyttökerrat enintään"
+
+#, fuzzy
+#~| msgid "Line Break"
+#~ msgid "Line break"
+#~ msgstr "Rivinvaihto"
+
+#~ msgid "%s reservations imported"
+#~ msgstr "tuotiin %s varausta"
+
+#, fuzzy
+#~| msgid "Error at access server"
+#~ msgid "Error at accessing server"
+#~ msgstr "Palvelimen käyttöoikeusvirhe"
+
+#~ msgid "Only admins can import reservations"
+#~ msgstr "Vain ylläpitäjät voivat tuoda varauksia"
+
+#, fuzzy
+#~| msgid "Excel File"
+#~ msgid "Excel file"
+#~ msgstr "Excel-tiedosto"
+
+#~ msgid "CSV File"
+#~ msgstr "CSV-tiedosto"
+
+#~ msgid "price of reservation"
+#~ msgstr "varauksen hinta"
+
+#~ msgid "Room"
+#~ msgstr "Huone"
+
+#~ msgid ""
+#~ "No arrival or departure possible - use unavailability filter to disable "
+#~ "reservations by time"
+#~ msgstr ""
+#~ "Saapuminen tai lähtö ei ole mahdollinen - käytä ei saatavilla -suodinta "
+#~ "jos haluat poistaa aikavaraukset käytöstä"
+
+#~ msgid "paid"
+#~ msgstr "maksettu"
+
+#~ msgid "After successful reservation."
+#~ msgstr "Onnistuneen varauksen jälkeen."
+
+#~ msgid "Turn off update notifier"
+#~ msgstr "Poista päivitysilmoitukset käytöstä"
+
+#~ msgid "Custom information deleted"
+#~ msgstr "Oma tieto poistettu"
+
+#~ msgid "Custom information isn't existing"
+#~ msgstr "Omaa tietoa ei ole olemassa"
+
+#~ msgid "Custom price deleted"
+#~ msgstr "Oma hinta poistettu"
+
+#~ msgid "Reservation approved"
+#~ msgstr "Varaus hyväksytty"
+
+#~ msgid "Reservation rejected"
+#~ msgstr "Varaus hylätty"
+
+#~ msgid "full"
+#~ msgstr "täysi"
+
+#~ msgid "GuestContact"
+#~ msgstr "Asiakkaan yhteystieto"
+
+#~ msgid "Add Reservation"
+#~ msgstr "Lisää varaus"
+
+#~ msgid "Add reservation"
+#~ msgstr "Lisää varaus"
+
+#~ msgid "Person"
+#~ msgstr "Henkilö"
+
+#~ msgid "Adult"
+#~ msgstr "Aikuinen"
+
+#~ msgid "in calendar week"
+#~ msgstr "kalenteriviikossa"
+
+#~ msgid "in"
+#~ msgstr ":"
+
+#~ msgid "in quarter"
+#~ msgstr "neljänneksessä"
+
+#~ msgid "Early"
+#~ msgstr "Aikainen"
+
+#~ msgid "Charge"
+#~ msgstr "Veloitus"
+
+#~ msgid "Reservations Resources"
+#~ msgstr "Varausten resurssit"
+
+#~ msgid "edit "
+#~ msgstr "muokkaa"
+
+#~ msgid "copy resource settings"
+#~ msgstr "kopioi resurssin asetukset"
+
+#~ msgid "Price setting changed"
+#~ msgstr "Hinta-asetusta muutettu"
+
+#~ msgid "Day"
+#~ msgstr "Päivä"
+
+#~ msgid "Week"
+#~ msgstr "Viikko"
+
+#~ msgid "Month"
+#~ msgstr "Kuukausi"
+
+#~ msgid "Filter by time"
+#~ msgstr "Suodata ajan mukaan"
+
+#~ msgid "Quarter"
+#~ msgstr "Neljännes"
+
+#~ msgid "Year"
+#~ msgstr "Vuosi"
+
+#~ msgid "Filter by condition"
+#~ msgstr "Suodata ehdon mukaan"
+
+#~ msgid "between reservation and arrival"
+#~ msgstr "varauksen ja tulon välillä"
+
+#~ msgid "Copy resource"
+#~ msgstr "Kopioi resurssi"
+
+#~ msgid "Add resource"
+#~ msgstr "Lisää resurssi"
+
+#~ msgid "General settings saved"
+#~ msgstr "Yleiset asetukset tallennettu"
+
+#~ msgid "Permissions changed"
+#~ msgstr "Käyttöoikeuksia muutettu"
+
+#~ msgid "Form %s has been deleted"
+#~ msgstr "Lomake %s poistettu"
+
+#~ msgid "Form %s has been added"
+#~ msgstr "Lomake %s lisätty"
+
+#~ msgid "Reservations Settings"
+#~ msgstr "Varausasetukset"
+
+#~ msgid "after"
+#~ msgstr "jälkeen"
+
+#~ msgid "before"
+#~ msgstr "ennen"
+
+#~ msgid "Block"
+#~ msgstr "Estä"
+
+#~ msgid "before and"
+#~ msgstr "ennen ja"
+
+#~ msgid "after reservations"
+#~ msgstr "varausten jälkeen"
+
+#~ msgid "General Settings"
+#~ msgstr "Yleiset asetukset"
+
+#~ msgid "Price per billing unit"
+#~ msgstr "Hinta laskutusyksiköltä"
+
+#~ msgid "Price per person"
+#~ msgstr "Hinta henkilöltä"
+
+#~ msgid "Max-length"
+#~ msgstr "Maks.pituus"
+
+#~ msgid "Field with datepicker for the arrival date. Is required in any form."
+#~ msgstr "Tulopäivän valintakenttä. Pakollinen kaikissa lomakkeissa."
+
+#~ msgid "Text field for email. Is required in any form."
+#~ msgstr "Sähköpostin tekstikenttä. Pakollinen kaikissa lomakkeissa."
+
+#~ msgid "display price"
+#~ msgstr "näytä hinta"
+
+#~ msgid "To verify only humans use the form"
+#~ msgstr "Varmistaa, että ihminen täyttää lomakkeen"
+
+#~ msgid "Added custom field"
+#~ msgstr "Oma kenttä lisätty"
+
+#~ msgid "Custom field deleted"
+#~ msgstr "Oma kenttä poistettu"
+
+#~ msgid "Add and edit custom fields"
+#~ msgstr "Lisää ja muokkaa omia kenttiä"
+
+#~ msgid "message from admin"
+#~ msgstr "viesti ylläpitäjältä"
+
+#~ msgid "name of resource number"
+#~ msgstr "resurssinumeron nimi"
+
+#~ msgid "Rate the Plugin"
+#~ msgstr "Arvioi lisäosa"
+
+#~ msgid "Persons in list"
+#~ msgstr "Luettelon henkilöt"
+
+#~ msgid "no"
+#~ msgstr "ei"
+
+#~ msgid "Check"
+#~ msgstr "Valitse"
+
+#~ msgid "Please enter correct dates"
+#~ msgstr "Anna oikeat päivämäärät"
+
+#~ msgid "Module %s deleted"
+#~ msgstr "Moduuli %s poistettu"
+
+#~ msgid "Module %s installed successfully"
+#~ msgstr "Moduuli %s asennettu onnistuneesti"
+
+#~ msgid ""
+#~ "Generate totally customizable Invoices automatically from predefined "
+#~ "templates. Including an editor for admins, invoices as email attachments "
+#~ "and correct A4 Letter formats."
+#~ msgstr ""
+#~ "Luo täysin muokattavissa olevia laskuja automaattisesti valmiista "
+#~ "malleista. Editori ylläpitäjille, laskujen liittäminen sähköpostiin sekä "
+#~ "oikeat A4- ja Letter-koot."
+
+#~ msgid "htmlMails"
+#~ msgstr "html-viestit"
+
+#~ msgid ""
+#~ "Style your emails with HTML to increase the appearance of your "
+#~ "hospitality."
+#~ msgstr ""
+#~ "Voit käyttää viesteissä HTML:ää, jos haluat tehdä näyttäviä viestejä."
+
+#~ msgid "Releated Posts Add-On"
+#~ msgstr "Liittyvät artikkelit -lisäosa"
+
+#~ msgid "Resource Attributes Add-On"
+#~ msgstr "Resurssien määritteet -lisäosa"
+
+#~ msgid "Synchronization"
+#~ msgstr "Synkronointi"
+
+#~ msgid "Add reservations to the shopping card of WooCommerce."
+#~ msgstr "Lisää varaukset WooCommercen ostoskoriin."
+
+# hmm
+#~ msgid "hourlyCalendar"
+#~ msgstr "tuntikalenteri"
+
+#~ msgid "Export &amp; Import"
+#~ msgstr "Vie ja Tuo"
+
+#~ msgid ""
+#~ "Export selectable reservation information by time, selection or all as ."
+#~ "xls, .csv or .least and Import them from back from the .least files."
+#~ msgstr ""
+#~ "Vie ajan tai valintojen mukaisten tai kaikkien varausten valitut tiedot "
+#~ "xls-, csv-, tai least-muotoon ja tuo tietoja takaisin least-tiedostoista."
+
+#~ msgid "Multilingual"
+#~ msgstr "Monikielinen"
+
+#~ msgid "Detailed statistics, charts, resource usages and a dashboard widget."
+#~ msgstr ""
+#~ "Tarkat tilastot, kaaviot, resurssien käyttötiedot ja yhteenvetovimpain."
+
+#~ msgid "Let your guests enter coupon codes for discounts."
+#~ msgstr "Salli asiakkaiden syöttää alennuskuponkien koodeja."
+
+#~ msgid "Installed"
+#~ msgstr "Asennettu"
+
+#~ msgid "Link"
+#~ msgstr "Linkki"
+
+#~ msgid "easyReservation"
+#~ msgstr "easyReservation"
+
+#~ msgid "active"
+#~ msgstr "aktiivinen"
+
+#~ msgid "future"
+#~ msgstr "tuleva"
+
+#~ msgid "past"
+#~ msgstr "mennyt"
+
+#~ msgid "price"
+#~ msgstr "hinta"
+
+#~ msgid "Reservations dashboard settings saved"
+#~ msgstr "Varausten yhteenvetonäkymän asetukset tallennettu"
+
+#~ msgid "What happen today"
+#~ msgstr "Tapahtumat tänään"
+
+#~ msgid "Reserved "
+#~ msgstr "Varattu"
+
+#~ msgid "Resource number"
+#~ msgstr "Resurssin numero"
+
+#~ msgid "Custom prices"
+#~ msgstr "Omat hinnat"
+
+#~ msgid "Filter by month"
+#~ msgstr "Suodata kuukauden mukaan"
+
+#~ msgid "Filter by resource"
+#~ msgstr "Suodata resurssin mukaan"
+
+#~ msgid "Choose days to show"
+#~ msgstr "Valitse näytettävät päivät"
+
+#~ msgid "Bulk & Checkboxes"
+#~ msgstr "Massatoiminnot ja valintaruudut"
+
+#~ msgid "Add custom field"
+#~ msgstr "Lisää oma kenttä"
+
+#~ msgid "Custom price %s"
+#~ msgstr "Oma hinta %s"
+
+#~ msgid "Loyal filter"
+#~ msgstr "Uskollinen-suodin"
+
+#~ msgid "Person filter"
+#~ msgstr "Henkilö-suodin"
+
+#~ msgid "Adults filter"
+#~ msgstr "Aikuiset-suodin"
+
+#~ msgid "Discount filter"
+#~ msgstr "Alennus-suodin"
+
+#~ msgid "Extra charge filter"
+#~ msgstr "Lisäveloitus-suodin"
+
+#~ msgid "Price per children"
+#~ msgstr "Hinta lapselta"
+
+#~ msgid "Price filter"
+#~ msgstr "Hinta-suodin"
+
+#~ msgid "Please enter the correct captcha"
+#~ msgstr "Kirjoita Captcha oikein"
+
+#~ msgid "%1$s is required"
+#~ msgstr "%1$s on pakollinen"
+
+#~ msgid "Trash"
+#~ msgstr "Roskakori"
+
+#~ msgid "Add New Resource"
+#~ msgstr "Lisää uusi resurssi"
+
+#~ msgid "Edit Resource"
+#~ msgstr "Muokkaa resurssia"
+
+#~ msgid "All Resources"
+#~ msgstr "Kaikki resurssit"
+
+#~ msgid "No coupons"
+#~ msgstr "Ei kuponkeja"
+
+#~ msgid "Add coupon"
+#~ msgstr "Lisää kuponki"
+
+#~ msgid "Coupon %s deleted"
+#~ msgstr "Kuponki %s poistettu"
+
+#~ msgid "Clock"
+#~ msgstr "Kello"
+
+#~ msgid "to"
+#~ msgstr "-"
+
+#~ msgid "Email Settings"
+#~ msgstr "Sähköpostiasetukset"
+
+#~ msgid "Nights"
+#~ msgstr "Yötä"
+
+#~ msgid "Resource Number"
+#~ msgstr "Resurssin numero"
+
+#~ msgid "Link to edit"
+#~ msgstr "Muokkauslinkki"
+
+#~ msgid "Times"
+#~ msgstr "Ajat"
+
+#~ msgid "Changlog"
+#~ msgstr "Muutosloki"
+
+#~ msgid "Customs"
+#~ msgstr "Omat tiedot"
+
+#~ msgid "Invoice settings changed"
+#~ msgstr "Laskun asetuksia muutettu"
+
+#~ msgid "Credit card data deleted"
+#~ msgstr "Luottokortin tiedot poistettu"
+
+#~ msgid "in Stripes system"
+#~ msgstr "Stripes-järjestelmässä"
+
+#~ msgid "Stripe button"
+#~ msgstr "Stripe-painike"
+
+#~ msgid "Credit Card settings"
+#~ msgstr "Luottokortin asetukset"
+
+#~ msgid "settings changed"
+#~ msgstr "asetukset muutettu"
+
+#~ msgid "Attribute deleted"
+#~ msgstr "Määrite poistettu"
+
+#~ msgid "Attribute not found"
+#~ msgstr "Määritettä ei löytynyt"
+
+#~ msgid "There is already an attribute with a similar title"
+#~ msgstr "Järjestelmässä on jo määrite, jolla on samankaltainen otsikko"
+
+#~ msgid "Select a type for the attribute"
+#~ msgstr "Valitse määritteen tyyppi"
+
+#~ msgid "No options provided"
+#~ msgstr "Vaihtoehtoja ei ole määritetty"
+
+#~ msgid "Minimum value must be entered and be a number"
+#~ msgstr "Minimiarvo on annettava ja sen täytyy olla numero"
+
+#~ msgid "Maximum value must be entered and be a number"
+#~ msgstr "Maksimiarvo on annettava ja sen täytyy olla numero"
+
+#~ msgid "Attribute added"
+#~ msgstr "Määrite lisätty"
+
+#~ msgid "Add attribute"
+#~ msgstr "Lisää määrite"
+
+#~ msgid "Save Changes"
+#~ msgstr "Tallenna muutokset"
+
+#~ msgid "Unavailable"
+#~ msgstr "Ei saatavilla"
+
+#~ msgid "Nothing"
+#~ msgstr "Ei mitään"
+
+#~ msgid "Reserve"
+#~ msgstr "Varaa"
+
+#~ msgid "premium"
+#~ msgstr "premium"
+
+#~ msgid "User Control Panel settings saved"
+#~ msgstr "Käyttäjän hallintapaneelin asetukset tallennettu"
+
+#~ msgid "User Control Panel settings"
+#~ msgstr "Käyttäjän hallintapaneelin asetukset"
+
+#~ msgid "Table Settings"
+#~ msgstr "Taulukon asetukset"
+
+#~ msgid "Reservated"
+#~ msgstr "Varattu"
+
+#~ msgid "Minutes"
+#~ msgstr "Minuuttia"
+
+#~ msgid "Please enter the correct captcha code"
+#~ msgstr "Anna oikea Captcha-koodi"
+
+#~ msgid "Reservation canceled"
+#~ msgstr "Varaus peruttu"
+
+#~ msgid "ID of your reservation"
+#~ msgstr "Varaustunnuksesi"
+
+#~ msgid "Your email"
+#~ msgstr "Sähköpostiosoitteesi"
+
+#~ msgid "Type in code"
+#~ msgstr "Kirjoita koodi"
+
+#~ msgid "Name for resource"
+#~ msgstr "Resurssin nimi"
+
+#~ msgid "e.g. Apartment"
+#~ msgstr "esim. Asunto"
+
+# hmm
+#~ msgid "Amount of"
+#~ msgstr "Lukumäärä"
+
+#~ msgid "Price per reservation"
+#~ msgstr "Hinta varaukselta"
+
+#~ msgid "email"
+#~ msgstr "sähköposti"
+
+#~ msgid "departure date"
+#~ msgstr "lähtöpäivä"
+
+#~ msgid "amount of billing units"
+#~ msgstr "laskutusyksikköjen määrä"
+
+#~ msgid "amount of adults and children"
+#~ msgstr "aikuisten ja lasten määrä"
+
+#~ msgid "amount of adults"
+#~ msgstr "aikuisten määrä"
+
+#~ msgid "amount of children"
+#~ msgstr "lasten määrä"
+
+#~ msgid "country of guest"
+#~ msgstr "asiakkaan maa"
+
+#~ msgid "name of resource"
+#~ msgstr "resurssin nimi"
+
+#~ msgid "Choose type of shortcode"
+#~ msgstr "Valitse lyhytkoodin tyyppi"
+
+#~ msgid "Reservation edited."
+#~ msgstr "Varausta muokattu."
+
+#~ msgid "choose date"
+#~ msgstr "valitse pvm"
+
+#~ msgid "View"
+#~ msgstr "Näytä"
+
+#~ msgid "Status & Price"
+#~ msgstr "Tila ja hinta"
+
+#~ msgid "Fixed Price"
+#~ msgstr "Kiinteä hinta"
+
+#~ msgid "Send mail"
+#~ msgstr "Lähetä sähköposti"
+
+#~ msgid "Send mail to user on edit"
+#~ msgstr "Lähetä sähköpostia käyttäjällä jos varausta muokataan"
+
+#~ msgid "Fix Price"
+#~ msgstr "Aseta hinta"
+
+#~ msgid "Editable"
+#~ msgstr "Muokattava"
+
+#~ msgid "Visible"
+#~ msgstr "Näkyvä"
+
+#~ msgid "for Guest"
+#~ msgstr "asiakkaalle"
+
+#~ msgid "Add custom Field"
+#~ msgstr "Lisää oma kenttä"
+
+#~ msgid "Add custom price field"
+#~ msgstr "Lisää oman hinnan kenttä"
+
+#~ msgid "Selectable"
+#~ msgstr "Valittavissa"
+
+#~ msgid "Add custom Price Field"
+#~ msgstr "Lisää oman hinnan kenttä"
+
+#~ msgid "Approve the reservation"
+#~ msgstr "Hyväksy varaus"
+
+#~ msgid "Reject the reservation"
+#~ msgstr "Hylkää varaus"
+
+#~ msgid "Send mail to guest"
+#~ msgstr "Lähetä sähköpostia asiakkaalle"
+
+#~ msgid "the reservation, write a message and press send"
+#~ msgstr "varaus, kirjoita viesti ja paina Lähetä"
+
+#~ msgid "The Guest will recieve that message in an email"
+#~ msgstr "Asiakas saa kirjoittamasi viestin sähköpostina"
+
+#~ msgid "Person and Day"
+#~ msgstr "Henkilö ja päivä"
+
+#~ msgid "Stay"
+#~ msgstr "Viipyminen"
+
+#~ msgid "Pers"
+#~ msgstr "Hlö"
+
+#~ msgid "%s or more children's reserve"
+#~ msgstr "vähintään %s lasta varaa"
+
+#~ msgid "the guest reserves %s days before his arrival"
+#~ msgstr "asiakas varaa %s päivää ennen saapumista"
+
+#~ msgid "Resource deleted, but reservations couldnt"
+#~ msgstr "Resurssi poistettiin mutta varauksia ei voitu poistaa"
+
+#~ msgid "Requirements edited"
+#~ msgstr "Vaatimuksia muokattu"
+
+#~ msgid "Base price edited"
+#~ msgstr "Perushintaa muokattu"
+
+# hmm
+#~ msgid "Count of resource space edited"
+#~ msgstr "Resurssin tilan määrää muutettu"
+
+#~ msgid "Resource permission edited"
+#~ msgstr "Resurssin käyttöoikeutta muutettu"
+
+#~ msgid "Billing unit changed"
+#~ msgstr "Laskutusyksikkö muutettu"
+
+#~ msgid "Children's discount edited"
+#~ msgstr "Lapsialennusta muutettu"
+
+#~ msgid "resources condition change to"
+#~ msgstr "muuta resurssin ehdoksi"
+
+#~ msgid "Base price per billing unit"
+#~ msgstr "Laskutusyksikön perushinta"
+
+#~ msgid "Children's discount per billing unit"
+#~ msgstr "Laskutusyksikön lapsialennus"
+
+#~ msgid "Hourly billing"
+#~ msgstr "Tuntilaskutus"
+
+#~ msgid "Daily billing"
+#~ msgstr "Päivälaskutus"
+
+#~ msgid "Weekly billing"
+#~ msgstr "Viikkolaskutus"
+
+#~ msgid "Monthly billing"
+#~ msgstr "Kuukausilaskutus"
+
+#~ msgid "Resources count"
+#~ msgstr "Resurssien määrä"
+
+#~ msgid "Availability by"
+#~ msgstr "Saatavuus:"
+
+#~ msgid "Filters"
+#~ msgstr "Suotimet"
+
+#~ msgid "Resources settings"
+#~ msgstr "Resurssien asetukset"
+
+#~ msgid "Save"
+#~ msgstr "Tallenna"
+
+#~ msgid "children's"
+#~ msgstr "lasta"
+
+#~ msgid "Price per billing"
+#~ msgstr "Hinta laskutukselta"
+
+#~ msgid "Price per persons"
+#~ msgstr "Hinta henkilöiltä"
+
+#~ msgid "Price per adults"
+#~ msgstr "Hinta aikuisilta"
+
+#~ msgid "Price per children's"
+#~ msgstr "Hinta lapsilta"
+
+#~ msgid "Price per billing %s and persons"
+#~ msgstr "Hinta laskutukselta %s ja henkilöiltä"
+
+#~ msgid "Price per billing %s and adults"
+#~ msgstr "Hinta laskutukselta %s ja aikuisilta"
+
+#~ msgid "Price per billing %s and children's"
+#~ msgstr "Hinta laskutukselta %s ja lapsilta"
+
+# hmm
+#~ msgid "Only the first condition match from high to low will be given"
+#~ msgstr "Näytetään vain ensimmäinen korkea-alhainen-hakuehdon osuma"
+
+#~ msgid "Resource's Title"
+#~ msgstr "Resurssin otsikko"
+
+#~ msgid "Resource's Content"
+#~ msgstr "Resurssin sisältö"
+
+#~ msgid "Wordpress"
+#~ msgstr "Wordpress"
+
+#~ msgid "Grey"
+#~ msgstr "Harmaa"
+
+#~ msgid ""
+#~ "Enable display of time and that the time gets used to calculate the "
+#~ "billing units instead of only the date"
+#~ msgstr ""
+#~ "Ota ajan näyttö käyttöön ja laske laskutusyksiköt kellonajan mukaan "
+#~ "pelkän päivämäärän sijasta"
+
+#~ msgid "Admin Style"
+#~ msgstr "Ylläpidon tyyli"
+
+#~ msgid ""
+#~ "Only allow %s reservations at the same time in all resources regardless "
+#~ "of the resource counts"
+#~ msgstr ""
+#~ "Salli vain %s kaikkien resurssien samanaikaista varausta riippumatta "
+#~ "resurssin lukumäärästä"
+
+#~ msgid ""
+#~ "Enter emails of important guests; saperated by comma. Reservations with "
+#~ "this email will be highlighted."
+#~ msgstr ""
+#~ "Kirjoita tärkeiden asiakkaiden sähköpostiosoitteet, pilkulla erotettuina. "
+#~ "Näillä osoitteilla tehdyt varaukset korostetaan."
+
+#~ msgid "Clean Database"
+#~ msgstr "Puhdista tietokanta"
+
+#~ msgid "Clean"
+#~ msgstr "Puhdista"
+
+#~ msgid "Delete all unapproved old reservations"
+#~ msgstr "Poista kaikki hyväksymättömät vanhat varaukset"
+
+#~ msgid "Set"
+#~ msgstr "Aseta"
+
+#~ msgid "Display featured image"
+#~ msgstr "Näytä pääkuva"
+
+# hmm
+#~ msgid "Display content with"
+#~ msgstr "Näytettävä sisällön pituus"
+
+#~ msgid "characters"
+#~ msgstr "merkkiä"
+
+#~ msgid "Display excerpt with"
+#~ msgstr "Näytettävä otteen pituus"
+
+#~ msgid ""
+#~ "Select of resources. Is required and can only be replaced by hidden "
+#~ "field. You can exclude resources with comma saperated IDs."
+#~ msgstr ""
+#~ "Resurssien valinta. On pakollinen ja voidaan korvata vain piilotetulla "
+#~ "kentällä. Voit sulkea resursseja pois pilkulla erotetuilla tunnuksilla."
+
+#~ msgid "Children's"
+#~ msgstr "Lasten"
+
+#~ msgid "Select of children's. Can be replaced by hidden field or deleted."
+#~ msgstr ""
+#~ "Lasten valintakenttä. Voidaan poistaa tai korvata piilotetulla kentällä."
+
+#~ msgid "Resources infobox"
+#~ msgstr "Resurssien tietokenttä"
+
+#~ msgid ""
+#~ "Shows the information title, image, content and excerpt of the currently "
+#~ "selected resource."
+#~ msgstr ""
+#~ "Näyttää valittuna olevan resurssin otsikon, kuvan, sisällön ja otteen."
+
+#~ msgid "Size"
+#~ msgstr "Koko"
+
+#~ msgid "Big"
+#~ msgstr "Suuri"
+
+#~ msgid "Medium"
+#~ msgstr "Keskisuuri"
+
+#~ msgid "Featured image"
+#~ msgstr "Pääkuva"
+
+#~ msgid "Text field for mail"
+#~ msgstr "Sähköpostin tekstikenttä"
+
+#~ msgid "Fix information and hide from guest"
+#~ msgstr "Aseta tiedot pysyvästi ja piilota asiakkailta"
+
+#~ msgid "Displays information of currently selected resource"
+#~ msgstr "Näyttää valittuna olevan resurssin tiedot"
+
+#~ msgid "Sub-label"
+#~ msgstr "Alanimike"
+
+#~ msgid "Small sub-label. Should be used inside labels."
+#~ msgstr "Pieni alanimike. Käytetään nimikkeiden sisällä."
+
+#~ msgid ""
+#~ "To use multiple elements in one row. It may be nesecarry to define their "
+#~ "width's."
+#~ msgstr ""
+#~ "Jos haluat käyttää useita elementtejä yhdellä rivillä. Voi edellyttää "
+#~ "elementtien leveyden määrittämistä."
+
+#~ msgid "Custom field edited"
+#~ msgstr "Omaa kenttää muokattu"
+
+#~ msgid "Price field"
+#~ msgstr "Hinta-kenttä"
+
+#~ msgid "Form Element"
+#~ msgstr "Lomake-elementti"
+
+#~ msgid "Chrome Extension"
+#~ msgstr "Chrome-lisäosa"
+
+#~ msgid "Custom Style"
+#~ msgstr "Oma tyyli"
+
+#~ msgid "Blue"
+#~ msgstr "Sininen"
+
+#~ msgid ""
+#~ "If the credit card form is enabled this messages will be shown after a "
+#~ "successfully submit of it."
+#~ msgstr ""
+#~ "Jos luottokortin lomake on käytössä, nämä viestit näytetään kun lomakkeen "
+#~ "tiedot on lähetetty."
+
+#~ msgid "simple"
+#~ msgstr "yksinkertainen"
+
+#~ msgid "modern"
+#~ msgstr "moderni"
+
+#~ msgid "Select calendar style"
+#~ msgstr "Valitse kalenterin tyyli"
+
+#~ msgid ""
+#~ "Check resources global possible arrival and departure days so they cant "
+#~ "be clicked"
+#~ msgstr ""
+#~ "Valitse resurssien yleiset mahdolliset tulo- ja lähtöpäivät, jotta niitä "
+#~ "ei voi napsauttaa"
+
+#~ msgid ""
+#~ "You can combine it with a form or the edit-form by add it to the same page"
+#~ msgstr ""
+#~ "Voit käyttää sen yhteydessä lomaketta tai muokkauslomaketta lisäämällä "
+#~ "sen samalle sivulle"
+
+#~ msgid "Please enter a correct email"
+#~ msgstr "Kirjoita toimiva sähköpostiosoite"
+
+#~ msgid "The arrival date was edited"
+#~ msgstr "Tulopäivää muokattu"
+
+#~ msgid "The departure date was edited"
+#~ msgstr "Lähtöpäivää muokattu"
+
+#~ msgid "The name was edited"
+#~ msgstr "Nimeä muokattu"
+
+#~ msgid "The email was edited"
+#~ msgstr "Sähköpostiosoitetta muokattu"
+
+#~ msgid "The amount of adults was edited"
+#~ msgstr "Aikuisten määrää muokattu"
+
+#~ msgid "The amount of children was edited"
+#~ msgstr "Lasten määrää muokattu"
+
+#~ msgid "The country was edited"
+#~ msgstr "Maata muokattu"
+
+#~ msgid "The resource was edited"
+#~ msgstr "Resurssia muokattu"
+
+#~ msgid "Custom fields got edited"
+#~ msgstr "Omia kenttiä muokattu"
+
+#~ msgid "Logging in"
+#~ msgstr "Kirjaudutaan sisään"
+
+#~ msgid ""
+#~ "Integration of multiple payment gateways like PayPal, Google Wallet, "
+#~ "Authorize.net, 2checkout, DIBSpayment or Ogone. Further implementing of "
+#~ "Stripe.com Credit Cards gateway and a function to store credit cards for "
+#~ "manual treatment. Automatically approve new reservations and/or after "
+#~ "payment.."
+#~ msgstr ""
+#~ "Käytettävissä useita maksutapoja, kuten PayPal, Google Wallet, Authorize."
+#~ "net, 2checkout, DIBSpayment tai Ogone. Myös Stripe.com Credit Cards -"
+#~ "maksukäytävä sekä luottokorttien tallennusmahdollisuus. Hyväksy uudet "
+#~ "varaukset automaattisesti ja/tai maksun jälkeen."
+
+#~ msgid "searchForm"
+#~ msgstr "searchForm"
+
+#~ msgid ""
+#~ "New shortcode to let your guests search for available resources. No page "
+#~ "reload for searching, compatible to calendar, show price, show "
+#~ "unavailable resources, link to form with automatically selection. Each "
+#~ "resource can have a small one-column calendar to show when its available. "
+#~ "The results can be shown as list or table."
+#~ msgstr ""
+#~ "Asiakkaat voivat etsiä vapaita resursseja uuden lyhytkoodin avulla. Sivua "
+#~ "ei tarvitse ladata hakua varten uudelleen, yhteensopiva kalenterin "
+#~ "kanssa, näyttää hinnan, näyttää varatut resurssit, linkki lomakkeeseen "
+#~ "automaattisilla valinnoilla. Jokaisella resurssilla voi olla pieni yhden "
+#~ "sarakkeen saatavuuskalenteri. Tulokset voidaan näyttää luettelona tai "
+#~ "taulukkona."
+
+#~ msgid "Link post or pages with resources for the search results"
+#~ msgstr "Linkitä artikkeleja tai sivuja hakutulosten resursseihin"
+
+#~ msgid ""
+#~ "Give resource different attributes to let your guests search more detailed"
+#~ msgstr ""
+#~ "Anna resursseille eri määritteitä, jotta asiakkaat voivat tehdä tarkkoja "
+#~ "hakuja"
+
+#~ msgid ""
+#~ "Show your guests the availability of the resources on a hourly basis."
+#~ msgstr "Näyttää resurssien saatavuuden asiakkaille tunneittain."
+
+#~ msgid ""
+#~ "Function to make texts in forms, emails, search bar and invoices "
+#~ "translatable."
+#~ msgstr ""
+#~ "Mahdollisuus kääntää lomakkeiden, sähköpostiviestien, hakupalkkien ja "
+#~ "laskujen tekstejä."
+
+#~ msgid ""
+#~ " Let your guests login with their reservations ID and email to edit their "
+#~ "reservation afterwards. They can switch between their reservations in a "
+#~ "table. In addition it provides a chat-like feature. New messages in "
+#~ "table, dummy message at start, admin notices, avatars and fully AJAX "
+#~ "driven. The guest can see his invoice and cancel his reservation."
+#~ msgstr ""
+#~ "Anna asiakkaiden kirjautua palveluun varaustunnuksella ja "
+#~ "sähköpostiosoitteella, jotta he voivat muokata varauksiaan jälkikäteen. "
+#~ "He voivat vaihtaa varauksia taulukon avulla. Lisäksi toiminnossa on myös "
+#~ "chat-ominaisuus. Uudet viestit taulukossa, dummy-viesti alussa, "
+#~ "ilmoitukset ylläpitäjille, avatarit ja AJAX-pohjainen ratkaisu. Asiakas "
+#~ "näkee oman laskunsa ja voi perua varauksensa."
+
+#~ msgid "Stream"
+#~ msgstr "Virta"
+
+#~ msgid "Text."
+#~ msgstr "Teksti."
+
+#~ msgid "Styles"
+#~ msgstr "Tyylit"
+
+#~ msgid ""
+#~ "New Admin, Calendar and Form style. In addition it changes your "
+#~ "datepickers style and disable unavailble dates in it."
+#~ msgstr ""
+#~ "Uudet ylläpito-, kalenteri- ja lomaketyylit. Voit vaihtaa myös "
+#~ "päivämäärän valitsimen tyyliä ja estää varattujen päivien näkymisen."
+
+# hmm
+#~ msgid "extentedCalendar"
+#~ msgstr "laajakalenteri"
+
+#~ msgid "Install or Update Module manually"
+#~ msgstr "Asenna tai päivitä moduuli manuaalisesti"
+
+#~ msgid "Stay filter"
+#~ msgstr "Viipymis-suodin"
+
+#~ msgid "Chrildren's filter"
+#~ msgstr "Lapset-suodin"
+
+#~ msgid "Mail to guest from admin in dashboard"
+#~ msgstr "Lähetä sähköposti asiakkaalle ylläpitäjältä yhteenvetonäkymästä"
+
+#~ msgid "Mail to guest after new reservation"
+#~ msgstr "Lähetä sähköposti asiakkaalle uuden varauksen jälkeen"
+
+#~ msgid "Mail to guest after approval"
+#~ msgstr "Lähetä sähköposti asiakkaalle hyväksymisen jälkeen"
+
+#~ msgid "Mail to guest after rejection"
+#~ msgstr "Lähetä sähköposti asiakkaalle hylkäämisen jälkeen"
+
+#~ msgid "Mail to guest after admin edited"
+#~ msgstr "Lähetä sähköposti ylläpitäjän muokkauksen jälkeen"
+
+# hmm
+#~ msgid "Mail"
+#~ msgstr "Sähköposti"
+
+#~ msgid "easyReservations Premium"
+#~ msgstr "easyReservations Premium"
+
+#~ msgid "prev"
+#~ msgstr "edell"
+
+#~ msgid "next"
+#~ msgstr "seur"
+
+#~ msgid "View all statuses"
+#~ msgstr "Näytä kaikki tilat"
+
+#~ msgid "Show all monthes"
+#~ msgstr "Näytä kaikki kuukaudet"
+
+#~ msgid "Choose type of email"
+#~ msgstr "Valitse sähköpostin tyyppi"
+
+#~ msgid "Subj"
+#~ msgstr "Aihe"
+
+#~ msgid "Activate email"
+#~ msgstr "Käytä sähköpostia"
+
+#~ msgid "Times of stay"
+#~ msgstr "Vierailujen määrä"
+
+#~ msgid "Childrens"
+#~ msgstr "Lapset"
+
+#~ msgid "Backup (XML)"
+#~ msgstr "Varmuuskopio (XML)"
+
+#~ msgid "Invoice Settings"
+#~ msgstr "Laskun asetukset"
+
+#~ msgid "Credit Cards settings changed"
+#~ msgstr "Luottokorttien asetukset muutettu"
+
+#~ msgid "Automatically approval"
+#~ msgstr "Hyväksy automaattisesti"
+
+#~ msgid "Auto-approve after entered correctly credit card information"
+#~ msgstr "Hyväksy automaattisesti kun luottokortin tiedot on annettu oikein"
+
+#~ msgid "CCV"
+#~ msgstr "CCV"
+
+#~ msgid "Mail to admin after payment"
+#~ msgstr "Lähetä sähköposti ylläpitäjälle maksun jälkeen"
+
+#~ msgid "Mail to guest after payment"
+#~ msgstr "Lähetä sähköposti asiakkaalle maksun jälkeen"
+
+#~ msgid "or pay with credit card"
+#~ msgstr "tai maksa luottokortilla"
+
+#~ msgid "Choose payment gateway"
+#~ msgstr "Valitse maksukäytävä"
+
+#~ msgid "Attribute edited"
+#~ msgstr "Määritettä muokattu"
+
+#~ msgid "Theme"
+#~ msgstr "Teema"
+
+#~ msgid "Exclude resource by comma saperated IDs"
+#~ msgstr "Jätä pois pilkulla erotellut resurssitunnukset"
+
+#~ msgid "Show unavailable resources too"
+#~ msgstr "Näytä myös resurssit, jotka eivät ole saatavilla "
+
+#~ msgid "Show %s days in calendar with %s"
+#~ msgstr "Näytä %s päivää kalenterissa %s"
+
+#~ msgid "Free space count"
+#~ msgstr "Vapaan tilan määrä"
+
+#~ msgid "You can combine it with a calendar by add it to the same page"
+#~ msgstr ""
+#~ "Voit käyttää sen yhteydessä kalenteria lisäämällä sen samalle sivulle"
+
+# hmm
+#~ msgid "searchForm bar"
+#~ msgstr "hakulomakepalkki"
+
+#~ msgid "Search form settings saved"
+#~ msgstr "Hakulomakkeen asetukset tallennettu"
+
+#~ msgid "max %s pers"
+#~ msgstr "enint. %s hlöä"
+
+#~ msgid "min %1$s %2$s"
+#~ msgstr "väh. %1$s %2$s"
+
+#~ msgid "max %1$s %2$s"
+#~ msgstr "enint. %1$s %2$s"
+
+#~ msgid "arrival only %s"
+#~ msgstr "tulo vain %s"
+
+#~ msgid "departure only %s"
+#~ msgstr "lähtö vain %s"
+
+#~ msgid "Reservations Statistics"
+#~ msgstr "Varaustilastot"
+
+#~ msgid "Cost at least one ms loading time per day and resource"
+#~ msgstr ""
+#~ "Aiheuttaa vähintään yhden ms:n latausajan päivää ja resurssia kohden"
+
+#~ msgid "Connect to google"
+#~ msgstr "Yhdistä Googleen"
+
+#~ msgid "client id"
+#~ msgstr "asiakastunnus"
+
+#~ msgid "client secret"
+#~ msgstr "asiakkaan salainen"
+
+#~ msgid "developer key"
+#~ msgstr "kehittäjäavain"
+
+#~ msgid "Inactive"
+#~ msgstr "Inaktiivinen"
+
+#~ msgid "New"
+#~ msgstr "Uusi"
+
+#~ msgid "Mail to admin after guest canceled"
+#~ msgstr "Lähetä sähköposti ylläpidolle asiakkaan peruutuksen jälkeen"
+
+#~ msgid "Guest contact settings"
+#~ msgstr "Asiakkaan yhteystietoasetukset"
+
+#~ msgid "Your Reservation was edited"
+#~ msgstr "Varaustasi muokattiin"
+
+#~ msgid "The arrival date"
+#~ msgstr "Tulopäivä"
+
+#~ msgid "The departure date"
+#~ msgstr "Lähtöpäivä"
+
+#~ msgid "Amount of persons"
+#~ msgstr "Henkilömäärä"
+
+#~ msgid "Amount of children"
+#~ msgstr "Lasten lukumäärä"
+
+#~ msgid "Select your country"
+#~ msgstr "Valitse maa"
+
+#~ msgid "Choose the"
+#~ msgstr "Valitse"
+
+#~ msgid "Type in information"
+#~ msgstr "Kirjoita tiedot"
+
+#~ msgid "Extra service"
+#~ msgstr "Lisäpalvelu"
+
+#~ msgid "Discount Code"
+#~ msgstr "Alennuskoodi"
+
+#~ msgid "type in URL to a form"
+#~ msgstr "kirjoita lomakkeen URL"
+
+#~ msgid "Title:"
+#~ msgstr "Otsikko:"
+
+#~ msgid "Show calendar:"
+#~ msgstr "Näytä kalenteri:"
+
+#~ msgid "Calendar style:"
+#~ msgstr "Kalenterin tyyli:"
+
+#~ msgid "Calendar width:"
+#~ msgstr "Kalenterin leveys:"
+
+#~ msgid "Show price in calendar:"
+#~ msgstr "Näytä hinta kalenterissa:"
+
+#~ msgid "Widgets form template:"
+#~ msgstr "Vimpainten lomakemalli:"
+
+#~ msgid "Form URL:"
+#~ msgstr "Lomakkeen URL:"
+
+#~ msgid "Submit button:"
+#~ msgstr "Lähetä-painike:"
+
+#~ msgid "Latest News"
+#~ msgstr "Uusimmat uutiset"
+
+#~ msgid ""
+#~ "Extend the calendar shortcode to show multiple months by an flexible grid "
+#~ "(x*y). Includes a new boxed calendar style."
+#~ msgstr ""
+#~ "Laajentaa kalenterin lyhytkoodin niin, että se näyttää monta kuukautta "
+#~ "joustavassa taulukossa (x*y). Sisältää myös laatikoidun kalenterityylin."
+
+#~ msgid "The amount of persons was edited"
+#~ msgstr "Henkilöiden määrää muokattu"
+
+#~ msgid "The resource got changed"
+#~ msgstr "Resurssia vaihdettu"
+
+#~ msgid "The message was edited"
+#~ msgstr "Viestiä muokattu"
+
+#~ msgid "Prices  got edited"
+#~ msgstr "Hintoja muokattu"
+
+#~ msgid "Childs"
+#~ msgstr "Lapsia"
+
+#~ msgid "Informations"
+#~ msgstr "Tiedot"
+
+#~ msgid "Admin"
+#~ msgstr "Ylläpitäjä"
+
+#~ msgid "Guest"
+#~ msgstr "Asiakas"
+
+#~ msgid "installed stream module"
+#~ msgstr "asensi virtamoduulin"
+
+#~ msgid "added reservation"
+#~ msgstr "lisäsi varauksen"
+
+#~ msgid "No result"
+#~ msgstr "Ei tuloksia"
+
+#~ msgid "Everyone"
+#~ msgstr "Kaikki"
+
+#~ msgid "Days"
+#~ msgstr "Päivää"
+
+#~ msgid "hours"
+#~ msgstr "tuntia"
+
+#~ msgid "days"
+#~ msgstr "päivää"
+
+#~ msgid "Departure Date"
+#~ msgstr "Lähtöpäivä"
+
+#~ msgid "Adult's"
+#~ msgstr "Aikuisten"
